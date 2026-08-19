@@ -1,19 +1,9 @@
 {
-  "items": [
-    {
-      "description": "",
-      "items": [],
-      "title": "Websites"
-    },
-    {
-      "description": "See Archived Web Desktops",
-      "items": [],
-      "title": "Archived"
-    }
-  ],
+  "items": [],
   "metadata": {
-    "last_updated": "2026-08-18T14:49:29.972Z",
+    "last_updated": "2026-08-19T12:59:50.504Z",
     "original_repository": "syxanash/awesome-web-desktops",
+    "original_repository_id": 213751251,
     "original_repository_sha": "14b060ba59fc4e7a333acd4c69be5ebfad10d619",
     "enhanced_repository": "enhansome/enhansome-web-desktops",
     "enhanced_repository_description": null,
