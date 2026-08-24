@@ -597,7 +597,7 @@
             "archived": false,
             "id": 232174146,
             "language": "HTML",
-            "last_commit": "2026-08-21T13:55:46Z",
+            "last_commit": "2026-08-24T14:49:44Z",
             "owner": "Keeping-History",
             "repo": "rt911",
             "stars": 13
@@ -687,7 +687,7 @@
             "archived": false,
             "id": 304706014,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T17:56:04Z",
+            "last_commit": "2026-08-24T14:53:21Z",
             "owner": "robbiebyrd",
             "repo": "classicy",
             "stars": 150
@@ -1500,7 +1500,7 @@
             "last_commit": "2025-06-03T23:40:55Z",
             "owner": "chrishtu",
             "repo": "windows11",
-            "stars": 61
+            "stars": 62
           }
         },
         {
@@ -1620,7 +1620,7 @@
             "last_commit": "2026-08-18T01:48:13Z",
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1238
+            "stars": 1239
           }
         },
         {
@@ -1722,7 +1722,7 @@
             "archived": false,
             "id": 860968611,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T20:14:29Z",
+            "last_commit": "2026-08-24T14:37:42Z",
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
             "stars": 4
@@ -2187,7 +2187,7 @@
             "archived": false,
             "id": 982266448,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T01:53:48Z",
+            "last_commit": "2026-08-24T14:55:57Z",
             "owner": "aduncandev",
             "repo": "web-xp",
             "stars": 0
@@ -2498,7 +2498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:06:10.297Z",
+    "last_updated": "2026-08-24T14:56:45.793Z",
     "original_repository": "syxanash/awesome-web-desktops",
     "original_repository_id": 213751251,
     "original_repository_sha": "8a4a88e21ff97732ffa10bc017a077ae16544015",
