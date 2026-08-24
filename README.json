@@ -1,7 +1,2504 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ash Kyd",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165416266,
+            "language": "JavaScript",
+            "last_commit": "2023-01-15T12:30:23Z",
+            "owner": "AshKyd",
+            "repo": "ui95",
+            "stars": 208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 93",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 608660340,
+            "language": "JavaScript",
+            "last_commit": "2024-07-13T16:27:26Z",
+            "owner": "windows93dotnet",
+            "repo": "sys42",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webamp",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 26149893,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T20:18:32Z",
+            "owner": "captbaritone",
+            "repo": "webamp",
+            "stars": 11227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "It is as if you were doing work",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77551339,
+            "language": "HTML",
+            "last_commit": "2024-04-02T19:50:40Z",
+            "owner": "pippinbarr",
+            "repo": "itisasifyouweredoingwork",
+            "stars": 211
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OS.js",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14473933,
+            "language": "JavaScript",
+            "last_commit": "2022-12-12T13:14:32Z",
+            "owner": "os-js",
+            "repo": "OS.js",
+            "stars": 7082
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "98.js",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29999505,
+            "language": "JavaScript",
+            "last_commit": "2025-05-23T15:26:00Z",
+            "owner": "1j01",
+            "repo": "98",
+            "stars": 1423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Whimsy Space",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76135648,
+            "language": "CoffeeScript",
+            "last_commit": "2019-05-04T20:22:18Z",
+            "owner": "STRd6",
+            "repo": "zine",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinXP",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177902038,
+            "language": "JavaScript",
+            "last_commit": "2023-11-18T10:39:43Z",
+            "owner": "ShizukuIchi",
+            "repo": "winXP",
+            "stars": 5860
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jurassic Systems",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17133446,
+            "language": "JavaScript",
+            "last_commit": "2025-11-05T06:13:30Z",
+            "owner": "tojrobinson",
+            "repo": "jurassicsystems.com",
+            "stars": 422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rahul.io",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91354920,
+            "language": "JavaScript",
+            "last_commit": "2025-07-17T12:42:14Z",
+            "owner": "lolstring",
+            "repo": "window98-html-css-js",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EmuOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52881539,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T21:56:52Z",
+            "owner": "Emupedia",
+            "repo": "emupedia.github.io",
+            "stars": 1324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AaronOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137147656,
+            "language": "JavaScript",
+            "last_commit": "2024-09-17T03:11:18Z",
+            "owner": "MineAndCraft12",
+            "repo": "AaronOS",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 98 -- Packard Belle",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178731140,
+            "language": "JavaScript",
+            "last_commit": "2024-05-02T17:09:51Z",
+            "owner": "padraigfl",
+            "repo": "packard-belle-desktop",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue win3.1",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164161510,
+            "language": "Vue",
+            "last_commit": "2019-01-10T20:58:16Z",
+            "owner": "disjfa",
+            "repo": "vue-win-3.1",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minesweeper",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158429610,
+            "language": "JavaScript",
+            "last_commit": "2023-03-06T01:05:26Z",
+            "owner": "1000hz",
+            "repo": "winmine-exe",
+            "stars": 300
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Victor Ribeiro",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220522309,
+            "language": "JavaScript",
+            "last_commit": "2022-06-15T14:51:33Z",
+            "owner": "victorqribeiro",
+            "repo": "fos",
+            "stars": 209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Indie Web",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100983525,
+            "language": "CSS",
+            "last_commit": "2026-06-23T19:01:12Z",
+            "owner": "tholman",
+            "repo": "tholman-blog",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "98 KAGE",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 265095737,
+            "language": "JavaScript",
+            "last_commit": "2020-07-05T19:46:19Z",
+            "owner": "pkage",
+            "repo": "98",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vuindows",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131891953,
+            "language": "JavaScript",
+            "last_commit": "2023-03-04T02:39:35Z",
+            "owner": "marcmascarell",
+            "repo": "Vuindows",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "My Second PC",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 285363954,
+            "language": "JavaScript",
+            "last_commit": "2023-08-27T08:15:32Z",
+            "owner": "koas",
+            "repo": "my-second-pc",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "daedalOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 286179743,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T01:34:45Z",
+            "owner": "DustinBrett",
+            "repo": "daedalOS",
+            "stars": 13022
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Thoughts On Glitch[Art]v2.0",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47595582,
+            "language": "JavaScript",
+            "last_commit": "2015-12-10T23:00:23Z",
+            "owner": "nbriz",
+            "repo": "thoughtsonglitchart",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Github95",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253866847,
+            "language": "JavaScript",
+            "last_commit": "2021-08-02T07:50:22Z",
+            "owner": "edwardpayton",
+            "repo": "github95",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jQuery Desktop",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 443228,
+            "language": "HTML",
+            "last_commit": "2017-03-21T17:25:11Z",
+            "owner": "nathansmith",
+            "repo": "jQuery-Desktop",
+            "stars": 318
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Coding Forge",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 292512351,
+            "language": "CSS",
+            "last_commit": "2020-09-03T08:36:38Z",
+            "owner": "Yalgie",
+            "repo": "website",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vivek Patel Portfolio",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 357129815,
+            "language": "JavaScript",
+            "last_commit": "2024-11-24T07:10:42Z",
+            "owner": "vivek9patel",
+            "repo": "vivek9patel.github.io",
+            "stars": 4316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Winampify",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128662291,
+            "language": "TypeScript",
+            "last_commit": "2022-12-10T17:19:14Z",
+            "owner": "remigallego",
+            "repo": "winampify",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Try Andy's Desk",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335889084,
+            "language": "JavaScript",
+            "last_commit": "2024-09-01T13:09:48Z",
+            "owner": "KaeruCT",
+            "repo": "desk.glitchy.website",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jack Adam",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227518228,
+            "language": "JavaScript",
+            "last_commit": "2026-04-16T04:29:38Z",
+            "owner": "jckdm",
+            "repo": "jckdm.github.io",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xiaohan Zou's Portfolio",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 362711256,
+            "language": "TypeScript",
+            "last_commit": "2024-05-02T05:49:01Z",
+            "owner": "Renovamen",
+            "repo": "playground-macos",
+            "stars": 3487
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macOS in Svelte",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 395248907,
+            "language": "Svelte",
+            "last_commit": "2026-07-05T07:33:00Z",
+            "owner": "PuruVJ",
+            "repo": "macos-web",
+            "stars": 2657
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Deepin Linux",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 361514427,
+            "language": "Vue",
+            "last_commit": "2022-04-26T22:27:38Z",
+            "owner": "GoodManWEN",
+            "repo": "GoodManWEN.github.io",
+            "stars": 1052
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Win 7",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 209956161,
+            "language": "SCSS",
+            "last_commit": "2023-03-03T11:24:26Z",
+            "owner": "khang-nd",
+            "repo": "win7",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heather Vandervecht",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88804324,
+            "language": "TypeScript",
+            "last_commit": "2026-04-06T13:43:09Z",
+            "owner": "heathervv",
+            "repo": "portfolio-chatbot",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tony Dinh",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15100715,
+            "language": "JavaScript",
+            "last_commit": "2021-04-02T15:16:10Z",
+            "owner": "trungdq88",
+            "repo": "dinhquangtrung.net",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fizzygum",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 6253664,
+            "language": "CoffeeScript",
+            "last_commit": "2026-08-24T11:52:30Z",
+            "owner": "davidedc",
+            "repo": "Fizzygum",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joeyonng's Backyard",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 371565471,
+            "language": "JavaScript",
+            "last_commit": "2026-04-23T11:42:00Z",
+            "owner": "Joeyonng",
+            "repo": "joeyonng-backyard",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Win11React",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 385332374,
+            "language": "JavaScript",
+            "last_commit": "2024-08-11T11:17:19Z",
+            "owner": "blueedgetechno",
+            "repo": "win11React",
+            "stars": 9670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Don Chia",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428699039,
+            "language": "Vue",
+            "last_commit": "2026-02-07T16:55:11Z",
+            "owner": "DonChiaQE",
+            "repo": "win95",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "9/11 Realtime",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232174146,
+            "language": "HTML",
+            "last_commit": "2026-08-21T13:55:46Z",
+            "owner": "Keeping-History",
+            "repo": "rt911",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frank Force - Generative Art",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 266484942,
+            "language": "JavaScript",
+            "last_commit": "2022-11-22T22:39:02Z",
+            "owner": "KilledByAPixel",
+            "repo": "OS13k",
+            "stars": 526
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Insaf Khamzin",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268971971,
+            "language": "JavaScript",
+            "last_commit": "2026-02-13T21:16:22Z",
+            "owner": "InsafKhamzin",
+            "repo": "portfolio",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jonathan Zavialov",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 448295648,
+            "language": "JavaScript",
+            "last_commit": "2025-08-01T14:25:17Z",
+            "owner": "JonZavialov",
+            "repo": "portfolio4",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 11 in Preact",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 380294094,
+            "language": "TypeScript",
+            "last_commit": "2023-08-21T09:33:47Z",
+            "owner": "PiyushSuthar",
+            "repo": "Windows-11-Web",
+            "stars": 602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WWWerd",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 484437230,
+            "language": "JavaScript",
+            "last_commit": "2022-04-29T18:44:59Z",
+            "owner": "TheOldNet",
+            "repo": "web-windows",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Classicy",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 304706014,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T17:56:04Z",
+            "owner": "robbiebyrd",
+            "repo": "classicy",
+            "stars": 150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kayo Felipe Silva",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 300491814,
+            "language": "JavaScript",
+            "last_commit": "2023-06-23T23:12:36Z",
+            "owner": "kaiofelipejs",
+            "repo": "kaiofelipejs.dev",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chrisbin's MacBook Pro",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 360996732,
+            "language": "Dart",
+            "last_commit": "2024-10-08T19:18:51Z",
+            "owner": "chrisbinsunny",
+            "repo": "chrishub",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ɀeus' Stadt",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200924138,
+            "language": "HTML",
+            "last_commit": "2026-03-24T01:40:39Z",
+            "owner": "ZeusOfTheCrows",
+            "repo": "zeusofthecrows.github.io",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Win11 Svelte",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 490307942,
+            "language": "Svelte",
+            "last_commit": "2024-07-22T17:21:21Z",
+            "owner": "yashash-pugalia",
+            "repo": "win11-svelte",
+            "stars": 1441
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ubuntu Tour",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 385351952,
+            "language": "HTML",
+            "last_commit": "2024-09-30T17:33:58Z",
+            "owner": "malisipi",
+            "repo": "ubuntu-tour",
+            "stars": 167
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 11 Web",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 383476453,
+            "language": "HTML",
+            "last_commit": "2023-05-07T19:32:46Z",
+            "owner": "Rajaniraiyn",
+            "repo": "windows11",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sophia's Time Capsule",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 560599972,
+            "language": "HTML",
+            "last_commit": "2025-01-13T02:55:29Z",
+            "owner": "sosophia10",
+            "repo": "Time-Capsule",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DROPS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 463209639,
+            "language": "HTML",
+            "last_commit": "2022-09-09T17:35:26Z",
+            "owner": "maxvp",
+            "repo": "drops",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Buddy Pond",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 459787258,
+            "language": "JavaScript",
+            "last_commit": "2026-06-28T22:33:21Z",
+            "owner": "buddypond",
+            "repo": "buddypond",
+            "stars": 180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GreyOS",
+          "description": "available login: /",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39503234,
+            "language": "PHP",
+            "last_commit": "2026-02-04T22:53:52Z",
+            "owner": "g0d",
+            "repo": "GreyOS",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Henry Heffernan",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 468904619,
+            "language": "TypeScript",
+            "last_commit": "2025-12-16T18:08:33Z",
+            "owner": "henryjeff",
+            "repo": "portfolio-website",
+            "stars": 2280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "win32.run",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 601530271,
+            "language": "JavaScript",
+            "last_commit": "2026-03-08T10:26:01Z",
+            "owner": "ducbao414",
+            "repo": "win32.run",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pretty Diff",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 217411678,
+            "language": "TypeScript",
+            "last_commit": "2024-07-15T01:27:37Z",
+            "owner": "prettydiff",
+            "repo": "share-file-systems",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MacOS Big Sur Clone",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 684249218,
+            "language": "TypeScript",
+            "last_commit": "2024-02-05T05:54:51Z",
+            "owner": "mirayavandiepen",
+            "repo": "macos-big-sur-clone",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NENRIKIDO",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 630704903,
+            "language": "HTML",
+            "last_commit": "2026-08-11T14:21:51Z",
+            "owner": "js044",
+            "repo": "nenrikido",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "exaequOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 583373016,
+            "language": "C",
+            "last_commit": "2026-06-08T22:18:06Z",
+            "owner": "baudaux",
+            "repo": "exa-kernel",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vue-95",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 467414219,
+            "language": "Vue",
+            "last_commit": "2025-05-02T03:05:54Z",
+            "owner": "johnuberbacher",
+            "repo": "vue-95",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mingde",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 691418645,
+            "language": "TypeScript",
+            "last_commit": "2024-06-20T07:00:29Z",
+            "owner": "stjet",
+            "repo": "mingde",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pluto",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 647043638,
+            "language": "JavaScript",
+            "last_commit": "2025-10-18T14:38:46Z",
+            "owner": "zeondev",
+            "repo": "pluto",
+            "stars": 100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "webKDE",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 384907016,
+            "language": "JavaScript",
+            "last_commit": "2024-09-03T13:20:33Z",
+            "owner": "baroxyton",
+            "repo": "webKDE",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ModernActiveDesktop",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 573446037,
+            "language": "JavaScript",
+            "last_commit": "2025-08-25T12:28:48Z",
+            "owner": "Ingan121",
+            "repo": "ModernActiveDesktop",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "constraint systems OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 437424752,
+            "language": "TypeScript",
+            "last_commit": "2026-05-21T19:06:34Z",
+            "owner": "constraint-systems",
+            "repo": "csOS",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PeOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53498011,
+            "language": "JavaScript",
+            "last_commit": "2023-06-07T01:37:22Z",
+            "owner": "PicturElements",
+            "repo": "picturelements.github.io",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brunc.io",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 757278393,
+            "language": "Astro",
+            "last_commit": "2026-05-12T13:15:30Z",
+            "owner": "bamanczak",
+            "repo": "bruncio",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrugalOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 663718339,
+            "language": "TypeScript",
+            "last_commit": "2024-05-30T23:51:49Z",
+            "owner": "FrugalGamer",
+            "repo": "FrugalOS",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windo 8_1",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 405259005,
+            "language": "HTML",
+            "last_commit": "2024-08-20T04:16:40Z",
+            "owner": "CSeriestechhero",
+            "repo": "kiosk-setup",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Joey de Ruiter",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 626861985,
+            "language": "TypeScript",
+            "last_commit": "2026-06-12T11:09:31Z",
+            "owner": "0xJ0EY",
+            "repo": "Portfolio-next",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProzillaOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 666135770,
+            "language": "TypeScript",
+            "last_commit": "2026-06-20T11:19:36Z",
+            "owner": "prozilla-os",
+            "repo": "ProzillaOS",
+            "stars": 348
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JSDesk",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 595290439,
+            "language": "TypeScript",
+            "last_commit": "2023-09-30T13:31:41Z",
+            "owner": "MMuii",
+            "repo": "jsdesk",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kasius Next",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 561737692,
+            "language": "HTML",
+            "last_commit": "2023-12-03T03:18:17Z",
+            "owner": "Bobuxstation",
+            "repo": "Kasius-Next",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mountainOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 620531765,
+            "language": "JavaScript",
+            "last_commit": "2023-11-09T02:27:23Z",
+            "owner": "broimluna",
+            "repo": "mountainOS",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "skyOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 718893134,
+            "language": "JavaScript",
+            "last_commit": "2025-12-16T16:39:20Z",
+            "owner": "broimluna",
+            "repo": "skyos",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mellyeliu",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 671272582,
+            "language": "JavaScript",
+            "last_commit": "2026-06-24T20:25:18Z",
+            "owner": "mellyeliu",
+            "repo": "mellyeliu.online",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 12 Web Edition",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1207618454,
+            "language": "HTML",
+            "last_commit": "2026-07-11T03:32:58Z",
+            "owner": "tjy-gitnub",
+            "repo": "win12",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KOD Cloud",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12594863,
+            "language": "PHP",
+            "last_commit": "2026-03-13T11:42:20Z",
+            "owner": "kalcaddle",
+            "repo": "KodExplorer",
+            "stars": 6382
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 95 Portfolio",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 771205602,
+            "language": "JavaScript",
+            "last_commit": "2026-05-31T12:45:35Z",
+            "owner": "Yuteoctober",
+            "repo": "wins95Portfolio",
+            "stars": 270
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "purarue OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257187355,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T01:08:34Z",
+            "owner": "purarue",
+            "repo": "glue",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ritenv's WebOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49425200,
+            "language": "JavaScript",
+            "last_commit": "2016-01-11T13:22:08Z",
+            "owner": "ritenv",
+            "repo": "retro-desktop",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hawwokitty's Portfolio",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 858161456,
+            "language": "JavaScript",
+            "last_commit": "2025-10-13T10:51:16Z",
+            "owner": "hawwokitty",
+            "repo": "my-portfolio",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ricardo98",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 394369681,
+            "language": "JavaScript",
+            "last_commit": "2026-08-15T12:14:50Z",
+            "owner": "sleiph",
+            "repo": "Portfolio",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ripen OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 685053568,
+            "language": "HTML",
+            "last_commit": "2026-03-25T02:07:08Z",
+            "owner": "verrington",
+            "repo": "ripenos.github.io",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows11",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 814995866,
+            "language": "JavaScript",
+            "last_commit": "2026-06-26T03:22:00Z",
+            "owner": "Siyu1017",
+            "repo": "winbows11",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webdows",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 45668335,
+            "language": "JavaScript",
+            "last_commit": "2018-11-29T22:57:37Z",
+            "owner": "belowaverage-org",
+            "repo": "webdows",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NapicuOS",
+          "description": "available you need to configure the bootpriority order in the BIOSto run this web desktop :)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 384929932,
+            "language": "TypeScript",
+            "last_commit": "2024-10-26T18:25:19Z",
+            "owner": "Numax-cz",
+            "repo": "NapicuOS",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MainOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 214985349,
+            "language": "JavaScript",
+            "last_commit": "2026-06-09T11:16:57Z",
+            "owner": "Maingron",
+            "repo": "MainOS",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nova OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1079226609,
+            "language": "HTML",
+            "last_commit": "2026-04-10T14:33:24Z",
+            "owner": "runnova",
+            "repo": "NovaOS",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AnuraOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 555552624,
+            "language": "JavaScript",
+            "last_commit": "2026-08-06T05:32:11Z",
+            "owner": "MercuryWorkshop",
+            "repo": "anuraOS",
+            "stars": 507
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macOS in CSS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 432335994,
+            "language": "CSS",
+            "last_commit": "2024-02-28T15:36:30Z",
+            "owner": "RedEdge967",
+            "repo": "MacOS-CSS",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kisimoff OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 494581295,
+            "language": "TypeScript",
+            "last_commit": "2024-12-03T08:52:23Z",
+            "owner": "kisimoff",
+            "repo": "portfolio",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "János Kócs | Portfolio",
+          "description": "available this site occasionally goes offline",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 700554837,
+            "language": "JavaScript",
+            "last_commit": "2025-03-09T21:20:49Z",
+            "owner": "janoskocs",
+            "repo": "react-javascript-portfolio",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wes95",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29561660,
+            "language": "TypeScript",
+            "last_commit": "2026-07-25T08:44:39Z",
+            "owner": "WesSouza",
+            "repo": "wes.dev",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows11-3.0",
+          "description": "available You can log in with anyusername and password",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 778264397,
+            "language": "JavaScript",
+            "last_commit": "2025-12-19T13:36:07Z",
+            "owner": "MishanPoudel",
+            "repo": "Windows11-3.0",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gersigno's Portfolio",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 777968824,
+            "language": "CSS",
+            "last_commit": "2026-05-23T22:08:55Z",
+            "owner": "Gersigno",
+            "repo": "gersigno.github.io",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 11 UI",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 415773858,
+            "language": "TypeScript",
+            "last_commit": "2025-06-03T23:40:55Z",
+            "owner": "chrishtu",
+            "repo": "windows11",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AvdanOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 519431834,
+            "language": "JavaScript",
+            "last_commit": "2023-08-08T19:11:29Z",
+            "owner": "Avdan-OS",
+            "repo": "Demo",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plexos",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 508016160,
+            "language": "JavaScript",
+            "last_commit": "2025-09-01T15:07:44Z",
+            "owner": "Pentacoro",
+            "repo": "pentacoro.github.io",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kashi-os",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 779819315,
+            "language": "TypeScript",
+            "last_commit": "2025-01-07T00:34:28Z",
+            "owner": "ericaugusto-git",
+            "repo": "kashi-os",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RaptorOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 828233139,
+            "language": "TypeScript",
+            "last_commit": "2025-12-10T16:12:12Z",
+            "owner": "Raptor1818",
+            "repo": "RaptorOS",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mojsx",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 627933983,
+            "language": "TypeScript",
+            "last_commit": "2025-10-01T07:35:51Z",
+            "owner": "mo-jsx",
+            "repo": "resume-95",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semyon's Page",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 881270454,
+            "language": "JavaScript",
+            "last_commit": "2026-06-20T18:32:46Z",
+            "owner": "aerosness",
+            "repo": "aerosness.github.io",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sacred OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 754943358,
+            "language": "HTML",
+            "last_commit": "2026-01-13T03:29:54Z",
+            "owner": "M-Valentino",
+            "repo": "sacredOS",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ryOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 923332984,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T01:48:13Z",
+            "owner": "ryokun6",
+            "repo": "ryos",
+            "stars": 1238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minesweeper Online",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 688036314,
+            "language": "TypeScript",
+            "last_commit": "2026-01-31T11:13:06Z",
+            "owner": "zerosoul",
+            "repo": "ohminesweeper.online",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StephOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 920397821,
+            "language": "TypeScript",
+            "last_commit": "2025-03-18T17:27:44Z",
+            "owner": "CryptoStephan",
+            "repo": "Stephans-OS",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "eyeOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 675261040,
+            "language": "TypeScript",
+            "last_commit": "2024-04-05T14:51:50Z",
+            "owner": "eyemono-moe",
+            "repo": "eye-os",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Web-Workbench",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257383760,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T21:37:17Z",
+            "owner": "ThornWalli",
+            "repo": "web-workbench",
+            "stars": 74
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Areen's Portfolio",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 889520615,
+            "language": "JavaScript",
+            "last_commit": "2024-11-16T15:10:53Z",
+            "owner": "areenoverclouds",
+            "repo": "xp-portfolio-public",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kas-OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 926560591,
+            "language": "PHP",
+            "last_commit": "2025-08-17T09:35:24Z",
+            "owner": "achtaitaipai",
+            "repo": "kas-os",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux on the Web",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 860968611,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T20:14:29Z",
+            "owner": "linuxontheweb",
+            "repo": "linuxontheweb.github.io",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kenny Hui's Desktop",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 968108008,
+            "language": "Svelte",
+            "last_commit": "2026-05-14T23:59:01Z",
+            "owner": "khui0",
+            "repo": "kennyhui-desktop",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BogdanOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 801685064,
+            "language": "TypeScript",
+            "last_commit": "2026-04-05T03:25:33Z",
+            "owner": "bgevko",
+            "repo": "bogdan-os",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hatim Benhsain",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119805926,
+            "language": "JavaScript",
+            "last_commit": "2026-06-15T11:57:12Z",
+            "owner": "hatimbenhsain",
+            "repo": "hatimbenhsain.github.io",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "4ndyOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 914545345,
+            "language": "HTML",
+            "last_commit": "2026-02-18T21:19:55Z",
+            "owner": "andy64lol",
+            "repo": "4ndyOS",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "my old computer",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 990106941,
+            "language": "HTML",
+            "last_commit": "2025-06-21T06:34:48Z",
+            "owner": "xero",
+            "repo": "windows98.website",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paul's Web Desktop",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 275630486,
+            "language": "JavaScript",
+            "last_commit": "2026-06-27T13:47:13Z",
+            "owner": "peaBerberian",
+            "repo": "peaberberian.github.io",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PortfolioXP",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 699837036,
+            "language": "Vue",
+            "last_commit": "2026-01-29T13:57:01Z",
+            "owner": "UnMugViolet",
+            "repo": "portfolio",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mac OS 9",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 438417193,
+            "language": "JavaScript",
+            "last_commit": "2025-03-17T21:09:56Z",
+            "owner": "siddhartha77",
+            "repo": "os9",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Web Desktop",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 295999682,
+            "language": "JavaScript",
+            "last_commit": "2026-07-18T21:17:18Z",
+            "owner": "owdproject",
+            "repo": "client",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CoffeeOS",
+          "description": "available You can log in with any password",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 959976764,
+            "language": "JavaScript",
+            "last_commit": "2025-05-27T17:51:21Z",
+            "owner": "jsagayap",
+            "repo": "CoffeeOS",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "陈刑OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1005489996,
+            "language": "Vue",
+            "last_commit": "2026-06-06T14:16:06Z",
+            "owner": "chenxing-dev",
+            "repo": "chenxing-dev.github.io",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TerbiumonOS",
+          "description": "available You can log in with anyusername and password",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 972336097,
+            "language": "TypeScript",
+            "last_commit": "2026-08-20T23:33:03Z",
+            "owner": "TerbiumOS",
+            "repo": "web-v2",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sohail Sayed",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 664425844,
+            "language": "TypeScript",
+            "last_commit": "2023-11-14T06:48:00Z",
+            "owner": "SohailSayed",
+            "repo": "winxp-personal-website",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webtop 4",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1048188361,
+            "language": "HTML",
+            "last_commit": "2025-09-06T22:04:20Z",
+            "owner": "Quicksilver-Division",
+            "repo": "Webtop-4",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YanLiu Desktop OS",
+          "description": "available Works only inChromium based browsers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1037730844,
+            "language": "HTML",
+            "last_commit": "2025-08-15T03:11:57Z",
+            "owner": "cottenpanda",
+            "repo": "yanliuos",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RomaOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1074851309,
+            "language": "HTML",
+            "last_commit": "2026-07-31T18:36:24Z",
+            "owner": "Romariojveloso-fiteclabs",
+            "repo": "portifolio",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cyber Scales Desktop",
+          "description": "available Some parts of the website require WebGPU",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 838188931,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T11:44:00Z",
+            "owner": "Codfisher",
+            "repo": "cod-aquarium",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HuopaOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 986480966,
+            "language": "JavaScript",
+            "last_commit": "2025-10-04T11:31:12Z",
+            "owner": "allucat1000",
+            "repo": "HuopaOS",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ubuntu Linux Website",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 664363491,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T03:19:06Z",
+            "owner": "DamianB-BitFlipper",
+            "repo": "DamianB-BitFlipper.github.io",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LeoCodes",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1101661417,
+            "language": "TypeScript",
+            "last_commit": "2026-08-23T03:07:01Z",
+            "owner": "leonardonapoless",
+            "repo": "leocodes",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Linux OS Clone",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1078323584,
+            "language": "TypeScript",
+            "last_commit": "2026-03-16T15:45:35Z",
+            "owner": "hey-Zayn",
+            "repo": "ArchLinux-OS",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aurora OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1110128989,
+            "language": "TypeScript",
+            "last_commit": "2026-03-13T21:07:26Z",
+            "owner": "mental-os",
+            "repo": "Aurora-OS.js",
+            "stars": 734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AqadilOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1132325022,
+            "language": "JavaScript",
+            "last_commit": "2026-06-07T13:30:19Z",
+            "owner": "AQADIL",
+            "repo": "AqadilOS",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Showcase OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1134912861,
+            "language": "TypeScript",
+            "last_commit": "2026-07-14T05:40:32Z",
+            "owner": "ronbodnar",
+            "repo": "showcase-os",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aymu OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1128422729,
+            "language": "TypeScript",
+            "last_commit": "2026-01-23T07:06:43Z",
+            "owner": "IndGeek",
+            "repo": "aymu-OS",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Debian CDE",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1154982583,
+            "language": "TypeScript",
+            "last_commit": "2026-06-29T05:59:19Z",
+            "owner": "Victxrlarixs",
+            "repo": "debian-time-capsule",
+            "stars": 133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RetroTick",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1167498232,
+            "language": "TypeScript",
+            "last_commit": "2026-07-26T03:33:06Z",
+            "owner": "lqs",
+            "repo": "retrotick",
+            "stars": 301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OS(KO)",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1164588018,
+            "language": "JavaScript",
+            "last_commit": "2026-04-06T09:35:11Z",
+            "owner": "cmdkolab",
+            "repo": "osko",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pravin Prajapati",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1162857547,
+            "language": "TypeScript",
+            "last_commit": "2026-08-07T23:05:24Z",
+            "owner": "pravin-python",
+            "repo": "Web-OS-Portfolio",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows 98 Web Edition",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1030910645,
+            "language": "JavaScript",
+            "last_commit": "2026-05-15T22:35:09Z",
+            "owner": "azayrahmad",
+            "repo": "win98-web",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Skillz's Computer",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 982266448,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T01:53:48Z",
+            "owner": "aduncandev",
+            "repo": "web-xp",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portfolio - OS Style",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1142700500,
+            "language": "JavaScript",
+            "last_commit": "2026-03-25T09:51:27Z",
+            "owner": "Linkus-star",
+            "repo": "linkus-star.github.io",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Windows XP React Edition",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1082156314,
+            "language": "TypeScript",
+            "last_commit": "2026-08-04T19:20:31Z",
+            "owner": "Cyanoxide",
+            "repo": "react-xp",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IXOS UnixStation OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1177270324,
+            "language": "HTML",
+            "last_commit": "2026-03-18T20:40:56Z",
+            "owner": "igtoth",
+            "repo": "cde-motif-desktop",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NovOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1222541523,
+            "language": "HTML",
+            "last_commit": "2026-08-12T16:40:04Z",
+            "owner": "Tcode-Motion",
+            "repo": "NovOS",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KapoorOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1167856916,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T14:18:55Z",
+            "owner": "ankushhKapoor",
+            "repo": "portfolio",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EverestOs",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1233879158,
+            "language": "JavaScript",
+            "last_commit": "2026-05-24T10:45:27Z",
+            "owner": "Everest-Os",
+            "repo": "everest-os.github.io",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Daniel Brendel's Portfolio",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 346096284,
+            "language": "PHP",
+            "last_commit": "2026-06-11T23:47:04Z",
+            "owner": "danielbrendel",
+            "repo": "dnyPortfolioApp",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Murasaki's Playground",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1127621701,
+            "language": "JavaScript",
+            "last_commit": "2026-08-24T09:47:38Z",
+            "owner": "zixing8284",
+            "repo": "murasaki",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DAX Portal",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1117441347,
+            "language": "TypeScript",
+            "last_commit": "2026-06-14T09:32:56Z",
+            "owner": "201Harsh",
+            "repo": "DAX-Portal",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aria",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1255414255,
+            "language": "TypeScript",
+            "last_commit": "2026-05-31T20:19:21Z",
+            "owner": "skmdroid",
+            "repo": "aria",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Yuki OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1119593356,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T19:10:39Z",
+            "owner": "Reeyuki",
+            "repo": "YukiOS",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IP Linux",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1228299771,
+            "language": "TypeScript",
+            "last_commit": "2026-08-14T16:56:43Z",
+            "owner": "ikerperez12",
+            "repo": "IP-OS-LINUX",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyggshi OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1020548229,
+            "language": "JavaScript",
+            "last_commit": "2026-07-28T09:22:17Z",
+            "owner": "HyggshiOSDeveloper",
+            "repo": "hyggshi-os-website",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZezinOS",
+          "description": "available You can log in with any password",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1148327034,
+            "language": "JavaScript",
+            "last_commit": "2026-05-30T19:10:34Z",
+            "owner": "jm-works",
+            "repo": "ZezinOS",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Navi OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1266140107,
+            "language": "JavaScript",
+            "last_commit": "2026-08-16T18:50:41Z",
+            "owner": "Gilleece",
+            "repo": "Navi-Os",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Temple OS Web",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1255503816,
+            "language": "HTML",
+            "last_commit": "2026-07-26T04:55:30Z",
+            "owner": "ParkerrDev",
+            "repo": "TempleOS-Web",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "macOS Web",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1314242013,
+            "language": "HTML",
+            "last_commit": "2026-07-28T12:50:53Z",
+            "owner": "StarKnightt",
+            "repo": "macos-web",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ElyraOS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1221750692,
+            "language": "JavaScript",
+            "last_commit": "2026-07-07T10:02:18Z",
+            "owner": "x-frst",
+            "repo": "elyraos",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RESHAV_OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1305767229,
+            "language": "JavaScript",
+            "last_commit": "2026-07-19T16:01:21Z",
+            "owner": "koley-dev-08",
+            "repo": "personal-os",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FDE Desktop",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1175533075,
+            "language": "HTML",
+            "last_commit": "2026-07-28T18:19:34Z",
+            "owner": "frannunpal",
+            "repo": "frannunpal.github.io",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Websites"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T14:36:23.756Z",
+    "last_updated": "2026-08-24T14:06:10.297Z",
     "original_repository": "syxanash/awesome-web-desktops",
     "original_repository_id": 213751251,
     "original_repository_sha": "8a4a88e21ff97732ffa10bc017a077ae16544015",
