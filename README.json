@@ -45,7 +45,7 @@
             "last_commit": "2026-08-23T20:18:32Z",
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11227
+            "stars": 11226
           }
         },
         {
@@ -312,7 +312,7 @@
             "archived": false,
             "id": 286179743,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T01:34:45Z",
+            "last_commit": "2026-08-25T05:51:52Z",
             "owner": "DustinBrett",
             "repo": "daedalOS",
             "stars": 13022
@@ -465,7 +465,7 @@
             "last_commit": "2026-07-05T07:33:00Z",
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2657
+            "stars": 2658
           }
         },
         {
@@ -597,7 +597,7 @@
             "archived": false,
             "id": 232174146,
             "language": "HTML",
-            "last_commit": "2026-08-24T14:49:44Z",
+            "last_commit": "2026-08-24T19:20:35Z",
             "owner": "Keeping-History",
             "repo": "rt911",
             "stars": 13
@@ -687,7 +687,7 @@
             "archived": false,
             "id": 304706014,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:53:21Z",
+            "last_commit": "2026-08-24T14:57:09Z",
             "owner": "robbiebyrd",
             "repo": "classicy",
             "stars": 150
@@ -855,7 +855,7 @@
             "last_commit": "2025-12-16T18:08:33Z",
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2280
+            "stars": 2283
           }
         },
         {
@@ -1215,7 +1215,7 @@
             "last_commit": "2026-03-13T11:42:20Z",
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6382
+            "stars": 6383
           }
         },
         {
@@ -1587,7 +1587,7 @@
             "archived": false,
             "id": 881270454,
             "language": "JavaScript",
-            "last_commit": "2026-06-20T18:32:46Z",
+            "last_commit": "2026-08-25T03:06:58Z",
             "owner": "aerosness",
             "repo": "aerosness.github.io",
             "stars": 0
@@ -1617,7 +1617,7 @@
             "archived": false,
             "id": 923332984,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T01:48:13Z",
+            "last_commit": "2026-08-24T21:14:50Z",
             "owner": "ryokun6",
             "repo": "ryos",
             "stars": 1239
@@ -1722,7 +1722,7 @@
             "archived": false,
             "id": 860968611,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:37:42Z",
+            "last_commit": "2026-08-24T19:45:44Z",
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
             "stars": 4
@@ -1977,7 +1977,7 @@
             "archived": false,
             "id": 838188931,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T11:44:00Z",
+            "last_commit": "2026-08-25T05:21:46Z",
             "owner": "Codfisher",
             "repo": "cod-aquarium",
             "stars": 17
@@ -2007,7 +2007,7 @@
             "archived": false,
             "id": 664363491,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T03:19:06Z",
+            "last_commit": "2026-08-25T03:16:46Z",
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
             "stars": 3
@@ -2187,7 +2187,7 @@
             "archived": false,
             "id": 982266448,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:55:57Z",
+            "last_commit": "2026-08-24T17:43:32Z",
             "owner": "aduncandev",
             "repo": "web-xp",
             "stars": 0
@@ -2307,7 +2307,7 @@
             "archived": false,
             "id": 1127621701,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T09:47:38Z",
+            "last_commit": "2026-08-24T16:05:13Z",
             "owner": "zixing8284",
             "repo": "murasaki",
             "stars": 2
@@ -2352,7 +2352,7 @@
             "archived": false,
             "id": 1119593356,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T19:10:39Z",
+            "last_commit": "2026-08-24T17:16:22Z",
             "owner": "Reeyuki",
             "repo": "YukiOS",
             "stars": 29
@@ -2498,7 +2498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:56:45.793Z",
+    "last_updated": "2026-08-25T05:57:37.805Z",
     "original_repository": "syxanash/awesome-web-desktops",
     "original_repository_id": 213751251,
     "original_repository_sha": "8a4a88e21ff97732ffa10bc017a077ae16544015",
