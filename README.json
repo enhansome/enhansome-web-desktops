@@ -45,7 +45,7 @@
             "last_commit": "2026-08-23T20:18:32Z",
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11226
+            "stars": 11227
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2023-11-18T10:39:43Z",
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5860
+            "stars": 5861
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2026-08-13T21:56:52Z",
             "owner": "Emupedia",
             "repo": "emupedia.github.io",
-            "stars": 1324
+            "stars": 1325
           }
         },
         {
@@ -312,10 +312,10 @@
             "archived": false,
             "id": 286179743,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T05:51:52Z",
+            "last_commit": "2026-08-25T14:42:45Z",
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13022
+            "stars": 13023
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2024-11-24T07:10:42Z",
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4316
+            "stars": 4317
           }
         },
         {
@@ -855,7 +855,7 @@
             "last_commit": "2025-12-16T18:08:33Z",
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2283
+            "stars": 2284
           }
         },
         {
@@ -1230,7 +1230,7 @@
             "last_commit": "2026-05-31T12:45:35Z",
             "owner": "Yuteoctober",
             "repo": "wins95Portfolio",
-            "stars": 270
+            "stars": 271
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "archived": false,
             "id": 814995866,
             "language": "JavaScript",
-            "last_commit": "2026-06-26T03:22:00Z",
+            "last_commit": "2026-08-25T10:32:02Z",
             "owner": "Siyu1017",
             "repo": "winbows11",
             "stars": 24
@@ -1677,7 +1677,7 @@
             "archived": false,
             "id": 257383760,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T21:37:17Z",
+            "last_commit": "2026-08-25T13:05:55Z",
             "owner": "ThornWalli",
             "repo": "web-workbench",
             "stars": 74
@@ -1722,7 +1722,7 @@
             "archived": false,
             "id": 860968611,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T19:45:44Z",
+            "last_commit": "2026-08-25T14:03:52Z",
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
             "stars": 4
@@ -2498,7 +2498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:57:37.805Z",
+    "last_updated": "2026-08-25T15:00:30.614Z",
     "original_repository": "syxanash/awesome-web-desktops",
     "original_repository_id": 213751251,
     "original_repository_sha": "8a4a88e21ff97732ffa10bc017a077ae16544015",
