@@ -45,7 +45,7 @@
             "last_commit": "2026-08-23T20:18:32Z",
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11227
+            "stars": 11229
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2023-11-18T10:39:43Z",
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5861
+            "stars": 5862
           }
         },
         {
@@ -315,7 +315,7 @@
             "last_commit": "2026-08-25T14:42:45Z",
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13023
+            "stars": 13025
           }
         },
         {
@@ -390,7 +390,7 @@
             "last_commit": "2024-11-24T07:10:42Z",
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4317
+            "stars": 4318
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2024-05-02T05:49:01Z",
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3487
+            "stars": 3488
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2026-07-05T07:33:00Z",
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2658
+            "stars": 2659
           }
         },
         {
@@ -537,7 +537,7 @@
             "archived": false,
             "id": 6253664,
             "language": "CoffeeScript",
-            "last_commit": "2026-08-24T11:52:30Z",
+            "last_commit": "2026-08-26T12:09:51Z",
             "owner": "davidedc",
             "repo": "Fizzygum",
             "stars": 133
@@ -570,7 +570,7 @@
             "last_commit": "2024-08-11T11:17:19Z",
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9670
+            "stars": 9669
           }
         },
         {
@@ -597,7 +597,7 @@
             "archived": false,
             "id": 232174146,
             "language": "HTML",
-            "last_commit": "2026-08-24T19:20:35Z",
+            "last_commit": "2026-08-26T14:09:01Z",
             "owner": "Keeping-History",
             "repo": "rt911",
             "stars": 13
@@ -855,7 +855,7 @@
             "last_commit": "2025-12-16T18:08:33Z",
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2284
+            "stars": 2286
           }
         },
         {
@@ -1110,7 +1110,7 @@
             "last_commit": "2026-06-20T11:19:36Z",
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
-            "stars": 348
+            "stars": 350
           }
         },
         {
@@ -1317,7 +1317,7 @@
             "archived": false,
             "id": 814995866,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T10:32:02Z",
+            "last_commit": "2026-08-26T14:30:07Z",
             "owner": "Siyu1017",
             "repo": "winbows11",
             "stars": 24
@@ -1395,7 +1395,7 @@
             "last_commit": "2026-08-06T05:32:11Z",
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 507
+            "stars": 506
           }
         },
         {
@@ -1677,7 +1677,7 @@
             "archived": false,
             "id": 257383760,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T13:05:55Z",
+            "last_commit": "2026-08-25T22:45:22Z",
             "owner": "ThornWalli",
             "repo": "web-workbench",
             "stars": 74
@@ -1722,7 +1722,7 @@
             "archived": false,
             "id": 860968611,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T14:03:52Z",
+            "last_commit": "2026-08-26T14:53:16Z",
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
             "stars": 4
@@ -1767,7 +1767,7 @@
             "archived": false,
             "id": 119805926,
             "language": "JavaScript",
-            "last_commit": "2026-06-15T11:57:12Z",
+            "last_commit": "2026-08-25T15:47:05Z",
             "owner": "hatimbenhsain",
             "repo": "hatimbenhsain.github.io",
             "stars": 2
@@ -2007,7 +2007,7 @@
             "archived": false,
             "id": 664363491,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T03:16:46Z",
+            "last_commit": "2026-08-26T03:19:55Z",
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
             "stars": 3
@@ -2220,7 +2220,7 @@
             "last_commit": "2026-08-04T19:20:31Z",
             "owner": "Cyanoxide",
             "repo": "react-xp",
-            "stars": 73
+            "stars": 74
           }
         },
         {
@@ -2352,10 +2352,10 @@
             "archived": false,
             "id": 1119593356,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T17:16:22Z",
+            "last_commit": "2026-08-26T02:10:03Z",
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 29
+            "stars": 31
           }
         },
         {
@@ -2498,7 +2498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T15:00:30.614Z",
+    "last_updated": "2026-08-26T14:59:44.192Z",
     "original_repository": "syxanash/awesome-web-desktops",
     "original_repository_id": 213751251,
     "original_repository_sha": "8a4a88e21ff97732ffa10bc017a077ae16544015",
