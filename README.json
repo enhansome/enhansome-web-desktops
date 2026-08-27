@@ -45,7 +45,7 @@
             "last_commit": "2026-08-27T00:32:06Z",
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11229
+            "stars": 11231
           }
         },
         {
@@ -450,7 +450,7 @@
             "last_commit": "2024-05-02T05:49:01Z",
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3490
+            "stars": 3491
           }
         },
         {
@@ -537,7 +537,7 @@
             "archived": false,
             "id": 6253664,
             "language": "CoffeeScript",
-            "last_commit": "2026-08-27T10:45:47Z",
+            "last_commit": "2026-08-27T17:03:10Z",
             "owner": "davidedc",
             "repo": "Fizzygum",
             "stars": 133
@@ -570,7 +570,7 @@
             "last_commit": "2024-08-11T11:17:19Z",
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9669
+            "stars": 9670
           }
         },
         {
@@ -597,7 +597,7 @@
             "archived": false,
             "id": 232174146,
             "language": "HTML",
-            "last_commit": "2026-08-26T14:09:01Z",
+            "last_commit": "2026-08-27T16:03:44Z",
             "owner": "Keeping-History",
             "repo": "rt911",
             "stars": 13
@@ -690,7 +690,7 @@
             "last_commit": "2026-08-24T14:57:09Z",
             "owner": "robbiebyrd",
             "repo": "classicy",
-            "stars": 150
+            "stars": 151
           }
         },
         {
@@ -840,7 +840,7 @@
             "last_commit": "2026-02-04T22:53:52Z",
             "owner": "g0d",
             "repo": "GreyOS",
-            "stars": 168
+            "stars": 169
           }
         },
         {
@@ -855,7 +855,7 @@
             "last_commit": "2025-12-16T18:08:33Z",
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2288
+            "stars": 2289
           }
         },
         {
@@ -1722,7 +1722,7 @@
             "archived": false,
             "id": 860968611,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T10:04:04Z",
+            "last_commit": "2026-08-27T21:30:44Z",
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
             "stars": 4
@@ -1767,7 +1767,7 @@
             "archived": false,
             "id": 119805926,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T15:47:05Z",
+            "last_commit": "2026-08-27T21:43:47Z",
             "owner": "hatimbenhsain",
             "repo": "hatimbenhsain.github.io",
             "stars": 2
@@ -1902,7 +1902,7 @@
             "archived": false,
             "id": 972336097,
             "language": "TypeScript",
-            "last_commit": "2026-08-20T23:33:03Z",
+            "last_commit": "2026-08-27T21:08:53Z",
             "owner": "TerbiumOS",
             "repo": "web-v2",
             "stars": 60
@@ -2382,7 +2382,7 @@
             "archived": false,
             "id": 1020548229,
             "language": "JavaScript",
-            "last_commit": "2026-07-28T09:22:17Z",
+            "last_commit": "2026-08-27T13:46:44Z",
             "owner": "HyggshiOSDeveloper",
             "repo": "hyggshi-os-website",
             "stars": 1
@@ -2498,7 +2498,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:50.530Z",
+    "last_updated": "2026-08-27T23:46:01.375Z",
     "original_repository_info": {
       "archived": false,
       "id": 213751251,
@@ -2506,7 +2506,7 @@
       "last_commit": "2026-08-20T09:13:58Z",
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2065
+      "stars": 2066
     },
     "original_repository_sha": "8a4a88e21ff97732ffa10bc017a077ae16544015",
     "enhanced_repository": "enhansome/enhansome-web-desktops",
