@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥 WIP: A preact implementation of Windows 95/98/ME style components and apps. See it in action on my personal site at https://ash.ms",
+            "homepage": "http://ui95.ash.ms/",
             "id": 165416266,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2023-01-15T12:30:23Z",
+            "open_issues": 0,
             "owner": "AshKyd",
             "repo": "ui95",
-            "stars": 208
+            "stars": 208,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "sys42",
+            "homepage": null,
             "id": 608660340,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-07-13T16:27:26Z",
+            "open_issues": 0,
             "owner": "windows93dotnet",
             "repo": "sys42",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -42,12 +52,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Winamp 2 reimplemented for the browser",
+            "homepage": "https://webamp.org",
             "id": 26149893,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T23:29:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:41:43Z",
+            "open_issues": 176,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11231
+            "stars": 11232,
+            "topics": [
+              "html5",
+              "javascript",
+              "port",
+              "reimplementation",
+              "webaudio-api",
+              "winamp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -58,12 +80,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "It is as if you were doing work",
+            "homepage": null,
             "id": 77551339,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-02T19:50:40Z",
+            "open_issues": 0,
             "owner": "pippinbarr",
             "repo": "itisasifyouweredoingwork",
-            "stars": 211
+            "stars": 211,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -74,12 +101,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OS.js - JavaScript Web Desktop Platform",
+            "homepage": "https://www.os-js.org/",
             "id": 14473933,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-12T13:14:32Z",
+            "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7084
+            "stars": 7084,
+            "topics": [
+              "cloud-platform",
+              "desktop",
+              "javascript",
+              "osjs",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -90,12 +128,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💿 Web-based Windows 98 desktop recreation █████▓█▓▓▒▓▒▒░▒░░░🗕︎🗗︎🗙︎",
+            "homepage": "https://98.js.org",
             "id": 29999505,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-05-23T15:26:00Z",
+            "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1423
+            "stars": 1423,
+            "topics": [
+              "classic",
+              "desktop",
+              "emulator",
+              "html",
+              "javascript",
+              "operating-system",
+              "os",
+              "remake",
+              "retro",
+              "web-desktop",
+              "windows",
+              "windows-95",
+              "windows-98"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -106,12 +163,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DIY E-Zine and Operating System",
+            "homepage": "https://whimsy.space",
             "id": 76135648,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2019-05-04T20:22:18Z",
+            "open_issues": 6,
             "owner": "STRd6",
             "repo": "zine",
-            "stars": 33
+            "stars": 33,
+            "topics": [
+              "coffeescript",
+              "html5",
+              "mmorpg",
+              "operating-system",
+              "punk-rock",
+              "zine"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -122,12 +191,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏁 Web based Windows XP desktop recreation. ",
+            "homepage": "https://winxp.now.sh",
             "id": 177902038,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-18T10:39:43Z",
+            "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5863
+            "stars": 5863,
+            "topics": [
+              "hooks",
+              "javascript",
+              "react",
+              "reimplementation",
+              "web-desktop",
+              "windows-xp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -138,12 +219,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTML5/JavaScript recreation of the original Jurassic Park movie computer system.",
+            "homepage": "http://www.jurassicsystems.com",
             "id": 17133446,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-11-05T06:13:30Z",
+            "open_issues": 12,
             "owner": "tojrobinson",
             "repo": "jurassicsystems.com",
-            "stars": 422
+            "stars": 422,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -154,12 +240,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows 98 on the Web using HTML5, CSS3 and JS.",
+            "homepage": "https://rahul.io",
             "id": 91354920,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-17T12:42:14Z",
+            "open_issues": 0,
             "owner": "lolstring",
             "repo": "window98-html-css-js",
-            "stars": 149
+            "stars": 149,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -170,12 +261,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The purpose of Emupedia is to serve as a nonprofit meta-resource, hub and community for those interested mainly in video game preservation which aims to digitally collect, archive and preserve games and software to make them available online accessible by a user-friendly UI that simulates several retro operating systems for educational purposes.",
+            "homepage": "https://emupedia.net/beta/emuos",
             "id": 52881539,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-13T21:56:52Z",
+            "open_issues": 19,
             "owner": "Emupedia",
             "repo": "emupedia.github.io",
-            "stars": 1327
+            "stars": 1327,
+            "topics": [
+              "desktop",
+              "dosbox",
+              "dosgame",
+              "emularity",
+              "emulation",
+              "emulator",
+              "emupedia",
+              "games",
+              "js-dos",
+              "mame",
+              "preserve-games",
+              "retrocomputing",
+              "retrogaming",
+              "video-games",
+              "virtual",
+              "virtual-desktop",
+              "virtual-machine",
+              "win95",
+              "win98",
+              "windows-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -186,12 +303,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a public repository of AaronOS, so that the public can more easily suggest contributions, and so I can be more transparent in the development of aOS.",
+            "homepage": null,
             "id": 137147656,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-09-17T03:11:18Z",
+            "open_issues": 4,
             "owner": "MineAndCraft12",
             "repo": "AaronOS",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -202,12 +324,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Building website with packard-belle UI library and react-rnd",
+            "homepage": "https://packard-belle.netlify.app",
             "id": 178731140,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-05-02T17:09:51Z",
+            "open_issues": 9,
             "owner": "padraigfl",
             "repo": "packard-belle-desktop",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "osjs",
+              "reimplementation",
+              "remake",
+              "web-desktop",
+              "windows98"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -218,12 +351,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 164161510,
             "language": "Vue",
+            "license": null,
             "last_commit": "2019-01-10T20:58:16Z",
+            "open_issues": 0,
             "owner": "disjfa",
             "repo": "vue-win-3.1",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -234,12 +372,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "tonight i'm gonna party like it's nineteen ninety-five  🙂 😮 😵 😎",
+            "homepage": "https://1995.pages.dev",
             "id": 158429610,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-03-06T01:05:26Z",
+            "open_issues": 2,
             "owner": "1000hz",
             "repo": "winmine-exe",
-            "stars": 300
+            "stars": 300,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -250,12 +393,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web Components to turn your web app into a fake operating system",
+            "homepage": "https://victorribeiro.com/fos",
             "id": 220522309,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-06-15T14:51:33Z",
+            "open_issues": 1,
             "owner": "victorqribeiro",
             "repo": "fos",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "framework",
+              "html5",
+              "javascript",
+              "library",
+              "ui",
+              "ux",
+              "web-components"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -266,12 +422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Source to my personal blog and website.",
+            "homepage": "http://tholman.com",
             "id": 100983525,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-06-23T19:01:12Z",
+            "open_issues": 2,
             "owner": "tholman",
             "repo": "tholman-blog",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -282,12 +443,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "win98 lives",
+            "homepage": "https://ka.ge",
             "id": 265095737,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-07-05T19:46:19Z",
+            "open_issues": 0,
             "owner": "pkage",
             "repo": "98",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -298,12 +464,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tribute to Windows 10 made with Vue.js",
+            "homepage": "https://marcmascarell.github.io/Vuindows/",
             "id": 131891953,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-04T02:39:35Z",
+            "open_issues": 13,
             "owner": "marcmascarell",
             "repo": "Vuindows",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -314,12 +485,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A window system that emulates a desktop environment, written in vanilla JS",
+            "homepage": null,
             "id": 285363954,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-08-27T08:15:32Z",
+            "open_issues": 0,
             "owner": "koas",
             "repo": "my-second-pc",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -330,12 +506,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop environment in the browser",
+            "homepage": "https://dustinbrett.com",
             "id": 286179743,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T14:42:45Z",
+            "open_issues": 42,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13024
+            "stars": 13024,
+            "topics": [
+              "desktop-environment",
+              "javascript",
+              "os",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -346,12 +532,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "hypermedia essay on the subject of glitch art",
+            "homepage": null,
             "id": 47595582,
             "language": "JavaScript",
+            "license": "GPL-2.0",
             "last_commit": "2015-12-10T23:00:23Z",
+            "open_issues": 1,
             "owner": "nbriz",
             "repo": "thoughtsonglitchart",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -362,12 +553,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your Github 🐙 profile. With a Windows 95 🖥️ style. Built with React 🚀",
+            "homepage": "https://github95.now.sh",
             "id": 253866847,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-08-02T07:50:22Z",
+            "open_issues": 21,
             "owner": "edwardpayton",
             "repo": "github95",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -378,12 +574,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript desktop environment built with jQuery + HTML5.",
+            "homepage": "https://desktop.sonspring.com",
             "id": 443228,
             "language": "HTML",
+            "license": null,
             "last_commit": "2017-03-21T17:25:11Z",
+            "open_issues": 3,
             "owner": "nathansmith",
             "repo": "jQuery-Desktop",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -394,12 +595,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://website-pi-ashy.vercel.app",
             "id": 292512351,
             "language": "CSS",
+            "license": null,
             "last_commit": "2020-09-03T08:36:38Z",
+            "open_issues": 0,
             "owner": "Yalgie",
             "repo": "website",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -410,12 +616,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web simulation of Ubuntu 20.04, made using NEXT.js & tailwind CSS",
+            "homepage": "https://vivek9patel.github.io/",
             "id": 357129815,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-24T07:10:42Z",
+            "open_issues": 2,
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4319
+            "stars": 4319,
+            "topics": [
+              "nextjs",
+              "personal-portfolio",
+              "personal-portfolio-website",
+              "portfolio-website",
+              "react",
+              "reactjs",
+              "tailwindcss",
+              "ubuntu2004"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -426,12 +646,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚡ A Spotify web client with an OS-looking interface and a reimplementation of the classic audio player Winamp.",
+            "homepage": "https://winampify.io",
             "id": 128662291,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2022-12-10T17:19:14Z",
+            "open_issues": 23,
             "owner": "remigallego",
             "repo": "winampify",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "audio",
+              "css-in-js",
+              "desktop",
+              "emotionjs",
+              "gui",
+              "react",
+              "spotify",
+              "streaming",
+              "typescript",
+              "webamp",
+              "winamp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -442,12 +679,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A nostalgic recreation of the Windows 7 desktop UI",
+            "homepage": "https://desk.glitchy.website",
             "id": 335889084,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-01T13:09:48Z",
+            "open_issues": 0,
             "owner": "KaeruCT",
             "repo": "desk.glitchy.website",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "browser",
+              "desktop",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "javascript",
+              "retro",
+              "simulator",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -458,12 +709,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Portfolio site that re-creates an old computer interface",
+            "homepage": "https://jackadam.com",
             "id": 227518228,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-04-16T04:29:38Z",
+            "open_issues": 1,
             "owner": "jckdm",
             "repo": "jckdm.github.io",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "portfolio"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -474,12 +732,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My portfolio website simulating macOS's GUI, developed with React and UnoCSS.",
+            "homepage": "https://portfolio.zxh.me",
             "id": 362711256,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-05-02T05:49:01Z",
+            "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3491
+            "stars": 3491,
+            "topics": [
+              "portfolio",
+              "react",
+              "tailwindcss",
+              "typescript",
+              "vite",
+              "zustand"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -490,12 +760,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://macos-web.app",
             "id": 395248907,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-07-05T07:33:00Z",
+            "open_issues": 46,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2659
+            "stars": 2660,
+            "topics": [
+              "macos",
+              "svelte"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -506,12 +784,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📕 A website simulating linux system's GUI, using theme of Deepin distro. 网页模拟桌面",
+            "homepage": "https://GoodManWEN.github.io/",
             "id": 361514427,
             "language": "Vue",
+            "license": "AGPL-3.0",
             "last_commit": "2022-04-26T22:27:38Z",
+            "open_issues": 5,
             "owner": "GoodManWEN",
             "repo": "GoodManWEN.github.io",
-            "stars": 1052
+            "stars": 1052,
+            "topics": [
+              "blog",
+              "deepin",
+              "tailwindcss",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -522,12 +810,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows 7 Simulation",
+            "homepage": "https://khang-nd.github.io/win7/",
             "id": 209956161,
             "language": "SCSS",
+            "license": "MPL-2.0",
             "last_commit": "2023-03-03T11:24:26Z",
+            "open_issues": 12,
             "owner": "khang-nd",
             "repo": "win7",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "css",
+              "jquery",
+              "js"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -538,12 +835,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Windows 95-esque desktop experience with a chat app being the main highlight. Built with create-react-app.",
+            "homepage": "http://heathervv.com",
             "id": 88804324,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-04-06T13:43:09Z",
+            "open_issues": 1,
             "owner": "heathervv",
             "repo": "portfolio-chatbot",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "chatbot",
+              "javascript",
+              "portfolio",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -554,12 +861,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My website",
+            "homepage": "https://dinhquangtrung.net/",
             "id": 15100715,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-04-02T15:16:10Z",
+            "open_issues": 0,
             "owner": "trungdq88",
             "repo": "dinhquangtrung.net",
-            "stars": 25
+            "stars": 25,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -570,12 +882,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a new web framework, an entire platform really, designed from the ground up to handle complex things easily. Put the power of an entire Operating System at your fingertips.",
+            "homepage": "http://fizzygum.org/",
             "id": 6253664,
             "language": "CoffeeScript",
+            "license": null,
             "last_commit": "2026-08-27T17:03:10Z",
+            "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "coffeescript",
+              "dashboard",
+              "data-visualization",
+              "desktop",
+              "dynamic",
+              "framework",
+              "javascript",
+              "operating-system",
+              "windowing"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -586,12 +913,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Joeyonng's backyard (personal website) built to mimic the macOS Big Sur desktop. https://joeyonng.github.io",
+            "homepage": null,
             "id": 371565471,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-04-23T11:42:00Z",
+            "open_issues": 0,
             "owner": "Joeyonng",
             "repo": "joeyonng-backyard",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "bigsur",
+              "css",
+              "desktop-ui",
+              "html",
+              "javascript",
+              "macos",
+              "personal-website",
+              "react"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -602,12 +943,28 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Windows 11 in React 💻🌈⚡",
+            "homepage": "https://win11.blueedge.me",
             "id": 385332374,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2024-08-11T11:17:19Z",
+            "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9669
+            "stars": 9669,
+            "topics": [
+              "css",
+              "hacktoberfest",
+              "hacktoberfest2022",
+              "javascript",
+              "react",
+              "reactjs",
+              "redux",
+              "website",
+              "windows",
+              "windows-11"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -618,12 +975,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows 95 Portfolio built with Vue.js",
+            "homepage": "https://donchia.tech",
             "id": 428699039,
             "language": "Vue",
+            "license": null,
             "last_commit": "2026-02-07T16:55:11Z",
+            "open_issues": 1,
             "owner": "DonChiaQE",
             "repo": "win95",
-            "stars": 276
+            "stars": 276,
+            "topics": [
+              "bable",
+              "css",
+              "html",
+              "js",
+              "nuxt",
+              "portfolio",
+              "portfolio-website",
+              "vue",
+              "vuejs",
+              "vuex",
+              "web",
+              "webapp",
+              "windows95"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -634,12 +1010,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project to collect multimedia from the September 11 Attacks and synchronize them into a common media player.",
+            "homepage": null,
             "id": 232174146,
             "language": "HTML",
+            "license": "Unlicense",
             "last_commit": "2026-08-27T16:03:44Z",
+            "open_issues": 8,
             "owner": "Keeping-History",
             "repo": "rt911",
-            "stars": 13
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -650,12 +1031,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Tiny OS and Mini Game Engine",
+            "homepage": "https://killedbyapixel.github.io/OS13k/",
             "id": 266484942,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2022-11-22T22:39:02Z",
+            "open_issues": 0,
             "owner": "KilledByAPixel",
             "repo": "OS13k",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "codegolf",
+              "dwitter",
+              "js13k",
+              "operating-system",
+              "shadertoy",
+              "tinycode"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -666,12 +1059,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My portfolio website in old-school Windows95 style",
+            "homepage": "https://insafkhamzin.com/",
             "id": 268971971,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-02-13T21:16:22Z",
+            "open_issues": 11,
             "owner": "InsafKhamzin",
             "repo": "portfolio",
-            "stars": 51
+            "stars": 51,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -682,12 +1080,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fourth rendition of the website which serves as my portfolio, coded in vanillaJS",
+            "homepage": "https://computer.jonzav.me",
             "id": 448295648,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-08-01T14:25:17Z",
+            "open_issues": 0,
             "owner": "JonZavialov",
             "repo": "portfolio4",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -698,12 +1101,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awe-amazing Windows 11 clone. Oh wait, Not for your Computer, but for the web! ⚡",
+            "homepage": "https://win11.vercel.app",
             "id": 380294094,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-21T09:33:47Z",
+            "open_issues": 5,
             "owner": "PiyushSuthar",
             "repo": "Windows-11-Web",
-            "stars": 601
+            "stars": 601,
+            "topics": [
+              "hacktoberfest",
+              "typescript",
+              "windows-11",
+              "windows-11-web",
+              "windows-web",
+              "windows11"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -714,12 +1129,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 484437230,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2022-04-29T18:44:59Z",
+            "open_issues": 1,
             "owner": "TheOldNet",
             "repo": "web-windows",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -730,12 +1150,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of React components that make it easy to add a customizable Webtop to your app with a unique & retro look.",
+            "homepage": "https://classicy.ing/",
             "id": 304706014,
             "language": "TypeScript",
+            "license": "Unlicense",
             "last_commit": "2026-08-24T14:57:09Z",
+            "open_issues": 2,
             "owner": "robbiebyrd",
             "repo": "classicy",
-            "stars": 151
+            "stars": 151,
+            "topics": [
+              "macos-classic",
+              "nextjs",
+              "platinum",
+              "react",
+              "typescript",
+              "typescript-react"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -746,12 +1178,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My blog using Gatsby and React95",
+            "homepage": "https://kaiofelipejs.dev",
             "id": 300491814,
             "language": "JavaScript",
+            "license": "0BSD",
             "last_commit": "2023-06-23T23:12:36Z",
+            "open_issues": 2,
             "owner": "kaiofelipejs",
             "repo": "kaiofelipejs.dev",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "blog",
+              "gatsby",
+              "react95"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -762,12 +1203,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chrisbin’s MacBook Pro is a portfolio website created as a web Simulation of macOS Big Sur using Flutter web. The idea is to provide a glimpse at my personal MacBook Pro. The project shows the power of Flutter Web in action.",
+            "homepage": "http://chrisbinsunny.github.io/chrishub/",
             "id": 360996732,
             "language": "Dart",
+            "license": null,
             "last_commit": "2024-10-08T19:18:51Z",
+            "open_issues": 1,
             "owner": "chrisbinsunny",
             "repo": "chrishub",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "apple",
+              "bigsur",
+              "dart",
+              "flutter",
+              "flutter-apps",
+              "flutter-web",
+              "flutterweb",
+              "flutterwebapp",
+              "hacktoberfest",
+              "macintosh",
+              "macos",
+              "portfolio",
+              "uiux"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -778,12 +1238,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "…it's a website. https://zeusofthecrows.github.io",
+            "homepage": null,
             "id": 200924138,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-03-24T01:40:39Z",
+            "open_issues": 5,
             "owner": "ZeusOfTheCrows",
             "repo": "zeusofthecrows.github.io",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "website"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -794,12 +1261,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Recreating Windows 11 with Svelte.",
+            "homepage": "https://win11.yashash.dev",
             "id": 490307942,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2024-07-22T17:21:21Z",
+            "open_issues": 5,
             "owner": "yashash-pugalia",
             "repo": "win11-svelte",
-            "stars": 1442
+            "stars": 1442,
+            "topics": [
+              "css",
+              "hacktoberfest",
+              "javascript",
+              "svelte",
+              "windows-11"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -810,12 +1288,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web-Based Ubuntu",
+            "homepage": "https://malisipi.github.io/ubuntu-tour/",
             "id": 385351952,
             "language": "HTML",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-30T17:33:58Z",
+            "open_issues": 0,
             "owner": "malisipi",
             "repo": "ubuntu-tour",
-            "stars": 166
+            "stars": 166,
+            "topics": [
+              "canonical",
+              "demo",
+              "desktop",
+              "emulator",
+              "gnome",
+              "javascript",
+              "operating-system",
+              "os",
+              "remake",
+              "ubuntu",
+              "web-desktop",
+              "webdesktop",
+              "webos"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -826,12 +1323,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Want to experience Windows 11 now within your browser?",
+            "homepage": "https://dub.sh/raja-proj-win11",
             "id": 383476453,
             "language": "HTML",
+            "license": "AGPL-3.0",
             "last_commit": "2023-05-07T19:32:46Z",
+            "open_issues": 3,
             "owner": "Rajaniraiyn",
             "repo": "windows11",
-            "stars": 105
+            "stars": 105,
+            "topics": [
+              "expirence-windows-11",
+              "web",
+              "windows",
+              "windows11",
+              "windows11-recreation",
+              "windows11-web"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -842,12 +1351,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My College Portfolio",
+            "homepage": null,
             "id": 560599972,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-01-13T02:55:29Z",
+            "open_issues": 0,
             "owner": "sosophia10",
             "repo": "Time-Capsule",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "digital-art",
+              "html-css-javascript",
+              "video-game-development"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -858,12 +1376,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Final project for DNID Capstone (ENGLIT 1913)",
+            "homepage": "http://www.maxvphillips.com/drops/",
             "id": 463209639,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2022-09-09T17:35:26Z",
+            "open_issues": 0,
             "owner": "maxvp",
             "repo": "drops",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -874,12 +1397,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Cloud OS and Instant Messenger",
+            "homepage": "https://buddypond.com",
             "id": 459787258,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-28T22:33:21Z",
+            "open_issues": 27,
             "owner": "buddypond",
             "repo": "buddypond",
-            "stars": 181
+            "stars": 181,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -890,12 +1418,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GreyOS is a joint web & cloud based OS (a Meta-OS) entirely developed in PHP, JS and HTML5, running partly over the browser VM and partly on the cloud.",
+            "homepage": "https://greyos.gr",
             "id": 39503234,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-02-04T22:53:52Z",
+            "open_issues": 0,
             "owner": "g0d",
             "repo": "GreyOS",
-            "stars": 169
+            "stars": 169,
+            "topics": [
+              "cloud",
+              "html5",
+              "js",
+              "meta-os",
+              "open-source",
+              "operating-system",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -906,12 +1447,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://henryheffernan.com",
             "id": 468904619,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-12-16T18:08:33Z",
+            "open_issues": 14,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2290
+            "stars": 2290,
+            "topics": [
+              "portfolio"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -922,12 +1470,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Windows XP in the browser, with a File System, programs, XP-style File Picker and Saver dialogs, 3rd-party program, etc.  🦄 🚀 💽",
+            "homepage": "https://win32.run",
             "id": 601530271,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-08T10:26:01Z",
+            "open_issues": 1,
             "owner": "ducbao414",
             "repo": "win32.run",
-            "stars": 546
+            "stars": 546,
+            "topics": [
+              "browser-os",
+              "svelte",
+              "windows-xp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -938,12 +1495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use a Windows/OSX like GUI in the browser to share files cross OS privately.  No cloud, no server, no third party.",
+            "homepage": null,
             "id": 217411678,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2024-07-15T01:27:37Z",
+            "open_issues": 17,
             "owner": "prettydiff",
             "repo": "share-file-systems",
-            "stars": 146
+            "stars": 146,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -954,12 +1516,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🍏  MacOS Big Sur UI clone for the web built with React, TypeScript, and Styled-Components.",
+            "homepage": "https://macos-big-sur-clone.vercel.app/",
             "id": 684249218,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-02-05T05:54:51Z",
+            "open_issues": 0,
             "owner": "mirayavandiepen",
             "repo": "macos-big-sur-clone",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "bigsur",
+              "bigsur-clone",
+              "framer-motion",
+              "macos",
+              "macos-clone",
+              "react",
+              "styled-components",
+              "typescript",
+              "ui",
+              "ux",
+              "zustand"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -970,12 +1549,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://nenrikido.neocities.org/",
             "id": 630704903,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-11T14:21:51Z",
+            "open_issues": 0,
             "owner": "js044",
             "repo": "nenrikido",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -986,12 +1570,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "EXA Kernel",
+            "homepage": "https://exaequos.com",
             "id": 583373016,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-08T22:18:06Z",
+            "open_issues": 1,
             "owner": "baudaux",
             "repo": "exa-kernel",
-            "stars": 76
+            "stars": 76,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1002,12 +1591,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Recreation of the Windows 95 Operating System built with Vue 3 JS.",
+            "homepage": "https://johnuberbacher.com/vue95",
             "id": 467414219,
             "language": "Vue",
+            "license": null,
             "last_commit": "2025-05-02T03:05:54Z",
+            "open_issues": 2,
             "owner": "johnuberbacher",
             "repo": "vue-95",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "vue",
+              "vuejs",
+              "windows",
+              "windows95"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1018,12 +1617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Desktop environment in HTML Canvas, because why not",
+            "homepage": "https://mingde.prussia.dev",
             "id": 691418645,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2024-06-20T07:00:29Z",
+            "open_issues": 0,
             "owner": "stjet",
             "repo": "mingde",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1034,12 +1638,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pluto is a minimal and functional Web OS!",
+            "homepage": "http://pluto.zeon.dev/",
             "id": 647043638,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-18T14:38:46Z",
+            "open_issues": 0,
             "owner": "zeondev",
             "repo": "pluto",
-            "stars": 100
+            "stars": 100,
+            "topics": [
+              "customizable",
+              "html",
+              "interactive",
+              "javascript",
+              "js",
+              "os",
+              "project",
+              "themes",
+              "ui",
+              "web",
+              "web-os",
+              "webos",
+              "webtop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1050,12 +1673,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kde on the web",
+            "homepage": "https://baroxyton.github.io/webKDE/",
             "id": 384907016,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-09-03T13:20:33Z",
+            "open_issues": 4,
             "owner": "baroxyton",
             "repo": "webKDE",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "from-scratch",
+              "kde",
+              "kde-plasma-5",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1066,12 +1699,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Active Desktop in modern HTML",
+            "homepage": "https://madesktop.ingan121.com",
             "id": 573446037,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-25T12:28:48Z",
+            "open_issues": 3,
             "owner": "Ingan121",
             "repo": "ModernActiveDesktop",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1082,12 +1720,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "csOS uses iframes to let you open multiple Constraint Systems tools at once. By downloading and uploading files between them you can make your own creative pipeline.",
+            "homepage": "https://csos.constraint.systems",
             "id": 437424752,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-21T19:06:34Z",
+            "open_issues": 0,
             "owner": "constraint-systems",
             "repo": "csOS",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1098,12 +1741,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A place where I store (using the \"what's a directory?\" method) all my small scribbles and grossly over-engineered monsters. Neat web apps, libraries, etc. Expect no documentation and lots and lots and lots of \"interesting\" code.",
+            "homepage": "http://picturelements.github.io/",
             "id": 53498011,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-06-07T01:37:22Z",
+            "open_issues": 0,
             "owner": "PicturElements",
             "repo": "picturelements.github.io",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1114,12 +1762,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://brunc.io",
             "id": 757278393,
             "language": "Astro",
+            "license": null,
             "last_commit": "2026-05-12T13:15:30Z",
+            "open_issues": 35,
             "owner": "bamanczak",
             "repo": "bruncio",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1130,12 +1783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Combination art project and coding practice. This is my attempt to create an online workspace that is as static and open and possible.",
+            "homepage": "https://thefrugalgamer.net/programming/FrugalOS/",
             "id": 663718339,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-05-30T23:51:49Z",
+            "open_issues": 0,
             "owner": "FrugalGamer",
             "repo": "FrugalOS",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1146,12 +1804,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "bliss.",
+            "homepage": null,
             "id": 405259005,
             "language": "HTML",
+            "license": null,
             "last_commit": "2024-08-20T04:16:40Z",
+            "open_issues": 1,
             "owner": "CSeriestechhero",
             "repo": "kiosk-setup",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1162,12 +1825,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://joeyderuiter.me/",
             "id": 626861985,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-12T11:09:31Z",
+            "open_issues": 0,
             "owner": "0xJ0EY",
             "repo": "Portfolio-next",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1178,12 +1846,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖥️ ProzillaOS is a web-based operating system inspired by Ubuntu Linux and Windows made with React by Prozilla.",
+            "homepage": "https://os.prozilla.dev",
             "id": 666135770,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-20T11:19:36Z",
+            "open_issues": 7,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
-            "stars": 352
+            "stars": 352,
+            "topics": [
+              "desktop",
+              "desktop-environment",
+              "frontend",
+              "operating-system",
+              "react",
+              "reactjs",
+              "typescript",
+              "ui",
+              "web-desktop",
+              "web-os",
+              "webtop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1194,12 +1879,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another JavaScript desktop. But with some cool features. ✨",
+            "homepage": "https://mmuii.github.io/jsdesk",
             "id": 595290439,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-09-30T13:31:41Z",
+            "open_issues": 0,
             "owner": "MMuii",
             "repo": "jsdesk",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "desktop-app",
+              "filesystem",
+              "javascript",
+              "javascript-terminal",
+              "repl",
+              "terminal",
+              "terminal-app",
+              "terminal-emulator",
+              "typescript",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1210,12 +1911,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An OS simulator made in HTML, CSS and JavaScript (Now moved to Kasius-Next-ISO)",
+            "homepage": "https://bobuxstation.github.io/Kasius-Next/",
             "id": 561737692,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-12-03T03:18:17Z",
+            "open_issues": 0,
             "owner": "Bobuxstation",
             "repo": "Kasius-Next",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "css",
+              "html",
+              "javascript",
+              "os-simulator",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1226,12 +1938,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The next generation beyond AvalancheOS.",
+            "homepage": null,
             "id": 620531765,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-11-09T02:27:23Z",
+            "open_issues": 0,
             "owner": "broimluna",
             "repo": "mountainOS",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1242,12 +1959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fresh start.",
+            "homepage": null,
             "id": 718893134,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-12-16T16:39:20Z",
+            "open_issues": 0,
             "owner": "broimluna",
             "repo": "skyos",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1258,12 +1980,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "( personal os 🌟 site assemblage 🌐 portfolio 📎 )",
+            "homepage": "https://mellyeliu.online",
             "id": 671272582,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-24T20:25:18Z",
+            "open_issues": 0,
             "owner": "mellyeliu",
             "repo": "mellyeliu.online",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "operating-system",
+              "personal-website",
+              "portfolio"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1274,12 +2005,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows 12 网页版 （仓库已转移）",
+            "homepage": "https://win12.tech/boot.html",
             "id": 1207618454,
             "language": "HTML",
+            "license": "EPL-2.0",
             "last_commit": "2026-07-11T03:32:58Z",
+            "open_issues": 1,
             "owner": "tjy-gitnub",
             "repo": "win12",
-            "stars": 12
+            "stars": 13,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1290,12 +2026,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web based file manager,web IDE / browser based code editor",
+            "homepage": "https://kodcloud.com",
             "id": 12594863,
             "language": "PHP",
+            "license": null,
             "last_commit": "2026-03-13T11:42:20Z",
+            "open_issues": 1,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6386
+            "stars": 6387,
+            "topics": [
+              "archive",
+              "collaboration",
+              "docx",
+              "file-browser",
+              "file-explorer",
+              "file-sharing",
+              "file-upload",
+              "filemanager",
+              "free-software",
+              "ide",
+              "markdown-editor",
+              "s3",
+              "text-editor",
+              "webdav",
+              "xlsx",
+              "zip"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1306,12 +2064,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows 95 Portfolio",
+            "homepage": "https://yuteoctober.github.io/wins95Portfolio/",
             "id": 771205602,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-31T12:45:35Z",
+            "open_issues": 0,
             "owner": "Yuteoctober",
             "repo": "wins95Portfolio",
-            "stars": 273
+            "stars": 273,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1322,12 +2085,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "source code for my website homepage/fallback web server",
+            "homepage": "https://purarue.xyz",
             "id": 257187355,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-02T01:08:34Z",
+            "open_issues": 10,
             "owner": "purarue",
             "repo": "glue",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "elixir",
+              "gui",
+              "nginx",
+              "pheonix",
+              "portfolio",
+              "react",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1338,12 +2114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Retro Desktop UI built on Vanilla JS (vintage)",
+            "homepage": "http://ritenv.com/retro-desktop",
             "id": 49425200,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2016-01-11T13:22:08Z",
+            "open_issues": 3,
             "owner": "ritenv",
             "repo": "retro-desktop",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1354,12 +2135,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " This is a React app made with Vite for my portfolio :D It showcases some of what I do (coding, art, gaming, etc), feel free to click around!",
+            "homepage": "https://hawwokitty.github.io/my-portfolio/",
             "id": 858161456,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-10-13T10:51:16Z",
+            "open_issues": 0,
             "owner": "hawwokitty",
             "repo": "my-portfolio",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1370,12 +2156,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "portfolio criado com React, Next.js, Node.js e carinho",
+            "homepage": "https://ricardo-gomes.vercel.app/home",
             "id": 394369681,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-15T12:14:50Z",
+            "open_issues": 0,
             "owner": "sleiph",
             "repo": "Portfolio",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "nextjs",
+              "react",
+              "styled-components",
+              "windows98"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1386,12 +2182,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Official repo for the Ripen Group of Operating Systems 🌐💻🥭",
+            "homepage": "https://ripenos.web.app",
             "id": 685053568,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-03-25T02:07:08Z",
+            "open_issues": 0,
             "owner": "verrington",
             "repo": "ripenos.github.io",
-            "stars": 50
+            "stars": 50,
+            "topics": [
+              "concept",
+              "css",
+              "design",
+              "operating-system",
+              "operating-systems",
+              "rgos",
+              "ripenos",
+              "web-os",
+              "webos"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1402,12 +2213,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Windows 11–style operating system experience that runs entirely in the browser.",
+            "homepage": "https://winbows11.vercel.app",
             "id": 814995866,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T06:31:50Z",
+            "open_issues": 0,
             "owner": "Siyu1017",
             "repo": "winbows11",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "javascript",
+              "os",
+              "web-os",
+              "web-windows",
+              "win11",
+              "win11-in-web",
+              "winbows",
+              "winbows11",
+              "windows11"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1418,12 +2244,33 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A dynamic \"Webulation\" of Microsoft Windows.",
+            "homepage": "https://webdows.belowaverage.org/",
             "id": 45668335,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2018-11-29T22:57:37Z",
+            "open_issues": 23,
             "owner": "belowaverage-org",
             "repo": "webdows",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "api",
+              "css",
+              "featured",
+              "html",
+              "javascript",
+              "jquery",
+              "library",
+              "microsoft",
+              "registry",
+              "simple",
+              "vista",
+              "web",
+              "webdows",
+              "windows",
+              "windows7"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1434,12 +2281,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tato webová aplikace ti nasimuluje ten nejlepší NapicuOS s NapicuBiosem!",
+            "homepage": "https://os.napicu.eu",
             "id": 384929932,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-26T18:25:19Z",
+            "open_issues": 0,
             "owner": "Numax-cz",
             "repo": "NapicuOS",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "angular",
+              "bios",
+              "gnome",
+              "gnome-desktop",
+              "linux-like",
+              "operating-system",
+              "os",
+              "sccs",
+              "spring-boot",
+              "typescript",
+              "webos"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1450,12 +2314,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MainOS is a web-based Operating System",
+            "homepage": "https://maingron.itch.io/mainos",
             "id": 214985349,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-06-09T11:16:57Z",
+            "open_issues": 52,
             "owner": "Maingron",
             "repo": "MainOS",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "browser-os",
+              "chromeos",
+              "extensive",
+              "firefoxos",
+              "indie",
+              "indie-os",
+              "javascript",
+              "javascript-os",
+              "maingron",
+              "operating-system",
+              "productivity",
+              "tool",
+              "tools",
+              "web",
+              "web-operating-system",
+              "web-os"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1466,12 +2352,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully-client side web desktop system for any device - zero backend, zero frameworks.",
+            "homepage": "https://runnova.github.io/NovaOS",
             "id": 1079226609,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2026-04-10T14:33:24Z",
+            "open_issues": 0,
             "owner": "runnova",
             "repo": "NovaOS",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "browser-os",
+              "client-side",
+              "desktop",
+              "desktop-environment",
+              "gui",
+              "local",
+              "vannila-js",
+              "web-desktop",
+              "web-os",
+              "webtop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1482,12 +2384,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web \"OS\" and development environment with full linux emulation",
+            "homepage": "https://anura.pro/",
             "id": 555552624,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-06T05:32:11Z",
+            "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 507
+            "stars": 507,
+            "topics": [
+              "linux",
+              "v86",
+              "webos"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1498,12 +2409,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next version of macos-web. made with CSS, HTML and Javascript",
+            "homepage": "https://macos-css.vercel.app",
             "id": 432335994,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-02-28T15:36:30Z",
+            "open_issues": 1,
             "owner": "RedEdge967",
             "repo": "MacOS-CSS",
-            "stars": 75
+            "stars": 75,
+            "topics": [
+              "big-sur",
+              "macos",
+              "macos-web",
+              "web-simulator"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1514,12 +2435,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JS, FramerMotion | Kisimoff OS is innovative portfolio website designed to showcase my projects and technical skills.  Inspired by Poolside.fm and Windows XP.",
+            "homepage": "https://kisimoff.com/",
             "id": 494581295,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-12-03T08:52:23Z",
+            "open_issues": 0,
             "owner": "kisimoff",
             "repo": "portfolio",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "os",
+              "portfolio",
+              "portfolio-website",
+              "react",
+              "windows-xp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1530,12 +2462,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows 98 style personal portfolio project.",
+            "homepage": "https://janoskocs.com/",
             "id": 700554837,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-03-09T21:20:49Z",
+            "open_issues": 0,
             "owner": "janoskocs",
             "repo": "react-javascript-portfolio",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "portfolio",
+              "react",
+              "sass",
+              "windows98"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1546,12 +2488,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My personal website.",
+            "homepage": "https://wes.dev/archive/1999/",
             "id": 29561660,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T08:44:39Z",
+            "open_issues": 1,
             "owner": "WesSouza",
             "repo": "wes.dev",
-            "stars": 26
+            "stars": 26,
+            "topics": [
+              "css",
+              "html",
+              "javascript",
+              "personal-website"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1562,12 +2514,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experience the look and feel of Windows 11 directly in your browser with this web-based clone. Enjoy a similar user interface and functionality.",
+            "homepage": "https://windowsxi.vercel.app/",
             "id": 778264397,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-12-19T13:36:07Z",
+            "open_issues": 3,
             "owner": "MishanPoudel",
             "repo": "Windows11-3.0",
-            "stars": 824
+            "stars": 824,
+            "topics": [
+              "clone-app",
+              "portfolio",
+              "portfolio-website",
+              "reactjs",
+              "windows-11",
+              "windows-11-web"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1578,12 +2542,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A beautiful, desktop like online portfolio with multiple themes !",
+            "homepage": "https://gersigno.dev/",
             "id": 777968824,
             "language": "CSS",
+            "license": null,
             "last_commit": "2026-05-23T22:08:55Z",
+            "open_issues": 0,
             "owner": "Gersigno",
             "repo": "gersigno.github.io",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "css",
+              "desktop",
+              "fluent",
+              "html",
+              "javascript",
+              "os",
+              "poo",
+              "portfolio",
+              "web",
+              "windows-10",
+              "windows-11",
+              "windows-xp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1594,12 +2576,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows 11 UI Clone using web technology",
+            "homepage": "https://chrishtu.github.io/windows11/",
             "id": 415773858,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-06-03T23:40:55Z",
+            "open_issues": 3,
             "owner": "chrishtu",
             "repo": "windows11",
-            "stars": 62
+            "stars": 62,
+            "topics": [
+              "javascript",
+              "windows",
+              "windows-11-web",
+              "windows11"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1610,12 +2602,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Offical AvdanOS demo",
+            "homepage": null,
             "id": 519431834,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-08-08T19:11:29Z",
+            "open_issues": 1,
             "owner": "Avdan-OS",
             "repo": "Demo",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1626,12 +2623,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Internet's Desktop",
+            "homepage": null,
             "id": 508016160,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-09-01T15:07:44Z",
+            "open_issues": 0,
             "owner": "Pentacoro",
             "repo": "pentacoro.github.io",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "bookmark-manager",
+              "bookmarks-manager",
+              "desktop-client",
+              "desktop-environment",
+              "gui-application",
+              "metadata",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1642,12 +2652,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web-based operating system inspired by Hyprland, HyprDots and macOS. Built with React, Typescript,  BrowserFS and coffe.",
+            "homepage": "https://kashi-os.pages.dev",
             "id": 779819315,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-01-07T00:34:28Z",
+            "open_issues": 0,
             "owner": "ericaugusto-git",
             "repo": "kashi-os",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "desktop-environment",
+              "operating-system",
+              "personal-website",
+              "web-desktop",
+              "web-os"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1658,12 +2679,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My personal website as a pseudo-desktop enviroment, now in Next.js.",
+            "homepage": "https://www.raptorino.com/",
             "id": 828233139,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-12-10T16:12:12Z",
+            "open_issues": 0,
             "owner": "Raptor1818",
             "repo": "RaptorOS",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "nextjs",
+              "nextjs15",
+              "pseudo-desktop",
+              "react",
+              "tailwind",
+              "typescript",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1674,12 +2708,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "In-browser Windows95 protfolio",
+            "homepage": "https://mojsx.vercel.app",
             "id": 627933983,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2025-10-01T07:35:51Z",
+            "open_issues": 0,
             "owner": "mo-jsx",
             "repo": "resume-95",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "frontend",
+              "portfolio",
+              "react",
+              "windows95"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1690,12 +2734,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "awesome win7/fruiteger aero website about me on react",
+            "homepage": "https://aerosness.github.io/",
             "id": 881270454,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-25T03:06:58Z",
+            "open_issues": 0,
             "owner": "aerosness",
             "repo": "aerosness.github.io",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1706,12 +2755,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Windows 9x inspired operating system written in Vanilla JS where every HTML file is executable.",
+            "homepage": "https://sacred.neocities.org",
             "id": 754943358,
             "language": "HTML",
+            "license": "GPL-2.0",
             "last_commit": "2026-01-13T03:29:54Z",
+            "open_issues": 2,
             "owner": "M-Valentino",
             "repo": "sacredOS",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "90s",
+              "css3",
+              "desktop",
+              "gui",
+              "help-wanted",
+              "html5",
+              "javascript",
+              "kernel",
+              "opentocontribution",
+              "operating-system",
+              "os",
+              "retro",
+              "vanilla-javascript",
+              "vanilla-js",
+              "windows9x"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1722,12 +2792,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ryOS, made with Cursor",
+            "homepage": "https://os.ryo.lu",
             "id": 923332984,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-24T21:14:50Z",
+            "open_issues": 23,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1239
+            "stars": 1239,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1738,12 +2813,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A retro-style minesweeper game built with Next.js, and Tailwind CSS.",
+            "homepage": "https://minesweeper.sinqi.tools",
             "id": 688036314,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-31T11:13:06Z",
+            "open_issues": 0,
             "owner": "zerosoul",
             "repo": "ohminesweeper.online",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "freegames",
+              "minesweeper",
+              "minesweeper-game",
+              "nextjs",
+              "oldstyle",
+              "react",
+              "tailwindcss",
+              "windows",
+              "windows98",
+              "windowsxp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1754,12 +2845,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web based app that emulates an operating system environment within a browser. It offers users a unique, interactive experience by replicating OS functionalities, including a persistent client side file system that allows for data storage across sessions without server side dependencies.",
+            "homepage": "https://stephos.netlify.app/",
             "id": 920397821,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-03-18T17:27:44Z",
+            "open_issues": 0,
             "owner": "CryptoStephan",
             "repo": "Stephans-OS",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "desktop-environment",
+              "optimization",
+              "os",
+              "ui-design",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1770,12 +2872,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://os.eyemono.moe",
             "id": 675261040,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2024-04-05T14:51:50Z",
+            "open_issues": 3,
             "owner": "eyemono-moe",
             "repo": "eye-os",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1786,12 +2893,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Old operating system as homepage.",
+            "homepage": "https://lammpee.de",
             "id": 257383760,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T07:02:05Z",
+            "open_issues": 13,
             "owner": "ThornWalli",
             "repo": "web-workbench",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "amiga",
+              "amiga-topaz",
+              "ball",
+              "bounce",
+              "javascript",
+              "nuxt",
+              "paint",
+              "rust",
+              "typescript",
+              "wasm",
+              "workbench",
+              "worker"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1802,12 +2927,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fun portfolio project - looks like the windowsxp experience",
+            "homepage": "https://www.areen.xyz",
             "id": 889520615,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-11-16T15:10:53Z",
+            "open_issues": 0,
             "owner": "areenoverclouds",
             "repo": "xp-portfolio-public",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "portfolio-website",
+              "windows-xp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1818,12 +2951,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A minimalist, XP-inspired CMS with no database.",
+            "homepage": null,
             "id": 926560591,
             "language": "PHP",
+            "license": null,
             "last_commit": "2025-08-17T09:35:24Z",
+            "open_issues": 0,
             "owner": "achtaitaipai",
             "repo": "kas-os",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "flat-file-cms",
+              "php"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1834,12 +2975,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A new kind of computational environment built atop modern web-based technologies.",
+            "homepage": "https://linuxontheweb.github.io",
             "id": 860968611,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-28T19:29:08Z",
+            "open_issues": 0,
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1850,12 +2996,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "macOS inspired desktop environment",
+            "homepage": "https://desktop.kennyhui.dev/",
             "id": 968108008,
             "language": "Svelte",
+            "license": "MIT",
             "last_commit": "2026-05-14T23:59:01Z",
+            "open_issues": 1,
             "owner": "khui0",
             "repo": "kennyhui-desktop",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "desktop",
+              "desktop-environment",
+              "macos",
+              "svelte",
+              "typescript",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1866,12 +3024,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fully interactive web desktop environment. Live at https://os.bgevko.com",
+            "homepage": null,
             "id": 801685064,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-05T03:25:33Z",
+            "open_issues": 14,
             "owner": "bgevko",
             "repo": "bogdan-os",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1882,12 +3045,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hatim Github",
+            "homepage": null,
             "id": 119805926,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-27T21:43:47Z",
+            "open_issues": 7,
             "owner": "hatimbenhsain",
             "repo": "hatimbenhsain.github.io",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1898,12 +3066,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "4ndyOS is a personal operating system project created by a student named Andy—a self-proclaimed lazy developer who never sleeps (seriously, does this guy even blink?).  To see the project,click the link 👇below👇",
+            "homepage": "https://andy64lol.github.io/4ndyOS/",
             "id": 914545345,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-02-18T21:19:55Z",
+            "open_issues": 0,
             "owner": "andy64lol",
             "repo": "4ndyOS",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "games",
+              "html",
+              "html-css-javascript",
+              "html-project",
+              "html-projects",
+              "html5",
+              "lazy",
+              "newbie",
+              "os-simulation",
+              "os-simulator",
+              "student",
+              "student-made"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1914,12 +3100,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the windows98 experience as a website",
+            "homepage": "https://www.windows98.website",
             "id": 990106941,
             "language": "HTML",
+            "license": "CC0-1.0",
             "last_commit": "2025-06-21T06:34:48Z",
+            "open_issues": 0,
             "owner": "xero",
             "repo": "windows98.website",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "98",
+              "art",
+              "demo",
+              "netart",
+              "win98",
+              "windows",
+              "windows-98",
+              "windows98"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1930,12 +3130,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A web desktop and my personal homepage",
+            "homepage": "https://paulswebdesktop.netlify.app",
             "id": 275630486,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-06-27T13:47:13Z",
+            "open_issues": 2,
             "owner": "peaBerberian",
             "repo": "peaberberian.github.io",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1946,12 +3151,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PortfolioXP",
+            "homepage": "https://pauljaguin.com",
             "id": 699837036,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-01-29T13:57:01Z",
+            "open_issues": 0,
             "owner": "UnMugViolet",
             "repo": "portfolio",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1962,12 +3172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A retro website framework in the theme of Mac OS 9",
+            "homepage": null,
             "id": 438417193,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-03-17T21:09:56Z",
+            "open_issues": 0,
             "owner": "siddhartha77",
             "repo": "os9",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1978,12 +3193,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build your Web OS ‎ 🗔",
+            "homepage": "https://owdproject.org",
             "id": 295999682,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-18T21:17:18Z",
+            "open_issues": 0,
             "owner": "owdproject",
             "repo": "client",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "framework",
+              "nuxtjs",
+              "vuejs",
+              "web-desktop",
+              "web-os",
+              "webos"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -1994,12 +3221,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fake operating system and desktop environment made in JavaScript.",
+            "homepage": "https://coffee-os.netlify.app",
             "id": 959976764,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-27T17:51:21Z",
+            "open_issues": 0,
             "owner": "jsagayap",
             "repo": "CoffeeOS",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "css",
+              "html",
+              "js",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2010,12 +3247,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "陈刑OS is an interactive portfolio designed as a functional web-based operating system. Built with Vue.js and TypeScript, it features draggable windows, a terminal emulator, and interactive apps.",
+            "homepage": "https://chenxing-dev.github.io/",
             "id": 1005489996,
             "language": "Vue",
+            "license": "MIT",
             "last_commit": "2026-06-06T14:16:06Z",
+            "open_issues": 0,
             "owner": "chenxing-dev",
             "repo": "chenxing-dev.github.io",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "gsap",
+              "personal-website",
+              "portfolio",
+              "typescript",
+              "unocss",
+              "vue",
+              "web-os"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2026,12 +3276,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The next generation of Terbium WebOS, Built to last!",
+            "homepage": "https://terbiumon.top",
             "id": 972336097,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-27T21:08:53Z",
+            "open_issues": 1,
             "owner": "TerbiumOS",
             "repo": "web-v2",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "webos"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2042,12 +3299,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal site built to function and look just like Windows XP",
+            "homepage": "https://www.sohailsayed.com/",
             "id": 664425844,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2023-11-14T06:48:00Z",
+            "open_issues": 0,
             "owner": "SohailSayed",
             "repo": "winxp-personal-website",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2058,12 +3320,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Web Desktop! Open-Source, and Self-Hostable.",
+            "homepage": "https://webtop-4.vercel.app",
             "id": 1048188361,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-09-06T22:04:20Z",
+            "open_issues": 0,
             "owner": "Quicksilver-Division",
             "repo": "Webtop-4",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "blockbench",
+              "custom-shell",
+              "doom",
+              "elmobear",
+              "figma",
+              "figmadesign",
+              "gui",
+              "kylekart",
+              "minecraft",
+              "penguinmod",
+              "piskelapp",
+              "quicksilverdivision",
+              "self-code",
+              "shell",
+              "terminal",
+              "vscode",
+              "web-os",
+              "webtop",
+              "webtop4"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2074,12 +3361,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive Desktop OS with mini apps and games",
+            "homepage": null,
             "id": 1037730844,
             "language": "HTML",
+            "license": null,
             "last_commit": "2025-08-15T03:11:57Z",
+            "open_issues": 0,
             "owner": "cottenpanda",
             "repo": "yanliuos",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2090,12 +3382,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive professional portfolio simulating a classic operating system (RomaOS). Built with React 19, Vite, TypeScript, Astro, and Clean Architecture to showcase career, education, and projects in an immersive way.",
+            "homepage": "https://romariojonas.com/",
             "id": 1074851309,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-31T18:36:24Z",
+            "open_issues": 1,
             "owner": "Romariojveloso-fiteclabs",
             "repo": "portifolio",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2106,12 +3403,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "鱈魚的部落格",
+            "homepage": null,
             "id": 838188931,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-28T07:48:22Z",
+            "open_issues": 0,
             "owner": "Codfisher",
             "repo": "cod-aquarium",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2122,12 +3424,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The GitHub repo for HuopaOS's source and for the hPKG package manager.",
+            "homepage": "https://allucat1000.github.io/HuopaOS/",
             "id": 986480966,
             "language": "JavaScript",
+            "license": "AGPL-3.0",
             "last_commit": "2025-10-04T11:31:12Z",
+            "open_issues": 0,
             "owner": "allucat1000",
             "repo": "HuopaOS",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "web-desktop",
+              "web-os",
+              "webos",
+              "webtop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2138,12 +3450,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Damian Barabonkov's software engineering online portfolio. ",
+            "homepage": null,
             "id": 664363491,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T05:36:58Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:00:57Z",
+            "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2154,12 +3471,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My Portfolio Website",
+            "homepage": "https://leocodes.vercel.app",
             "id": 1101661417,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-23T03:07:01Z",
+            "open_issues": 0,
             "owner": "leonardonapoless",
             "repo": "leocodes",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "appledeveloper",
+              "classic-mac-os",
+              "css",
+              "cute",
+              "fun",
+              "html",
+              "iosdeveloper",
+              "macos",
+              "nostalgia",
+              "portfolio",
+              "react",
+              "typescript",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2170,12 +3506,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Linux OS Clone - Web-based Linux Desktop Environment. A fully functional Linux desktop environment clone built with Next.js 14. Features a interactive terminal, file explorer, system settings, and classic desktop applications—all running in your browser.",
+            "homepage": "https://linux-next.vercel.app",
             "id": 1078323584,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-03-16T15:45:35Z",
+            "open_issues": 0,
             "owner": "hey-Zayn",
             "repo": "ArchLinux-OS",
-            "stars": 11
+            "stars": 11,
+            "topics": [
+              "creative-coding",
+              "desktop-environment",
+              "file-explorer",
+              "linux-clone",
+              "nextjs",
+              "operating-system",
+              "react",
+              "terminal",
+              "typescript",
+              "web-application",
+              "web-desktop",
+              "web-os"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2186,12 +3540,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aurora OS.js — extensible web OS game and hacking simulator framework for developers and gamers. Virtual OS experience with scripting, apps, terminals & sandboxed gameplay, set in the mental.os() universe.",
+            "homepage": "https://mental-os.github.io/Aurora-OS.js/",
             "id": 1110128989,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-13T21:07:26Z",
+            "open_issues": 12,
             "owner": "mental-os",
             "repo": "Aurora-OS.js",
-            "stars": 734
+            "stars": 734,
+            "topics": [
+              "browser-game",
+              "contributions-welcome",
+              "electron",
+              "hacking-game",
+              "looking-for-contributors",
+              "open-source",
+              "os-simulator",
+              "react",
+              "sandbox-game",
+              "web-os"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2202,12 +3572,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Portfolio | CV",
+            "homepage": "https://aqadilOS.web.app",
             "id": 1132325022,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-07T13:30:19Z",
+            "open_issues": 1,
             "owner": "AQADIL",
             "repo": "AqadilOS",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "clone",
+              "creative-coding",
+              "firebase-hosting",
+              "framer-motion",
+              "gamification",
+              "headless-ui",
+              "javascript",
+              "os-simulation",
+              "portfolio",
+              "react",
+              "react-hooks",
+              "react-three-fiber",
+              "resume",
+              "tailwindcss",
+              "threejs",
+              "ui-ux",
+              "vite",
+              "web-os",
+              "windows-11",
+              "windows-clone"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2218,12 +3614,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible web-based desktop environment. It serves as a unified system simulation to deploy and demonstrate multiple projects as native applications.",
+            "homepage": "https://ronbodnar.com",
             "id": 1134912861,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-14T05:40:32Z",
+            "open_issues": 0,
             "owner": "ronbodnar",
             "repo": "showcase-os",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "desktop-environment",
+              "developer-portfolio",
+              "interactive-portfolio",
+              "interactive-ui",
+              "os-simulation",
+              "os-simulator",
+              "portfolio",
+              "portfolio-website",
+              "react",
+              "showcase",
+              "typescript",
+              "web-os"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2234,12 +3648,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Open source Operating System for the Web - Aymu OS",
+            "homepage": "https://os.nated.in",
             "id": 1128422729,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-23T07:06:43Z",
+            "open_issues": 0,
             "owner": "IndGeek",
             "repo": "aymu-OS",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "gui",
+              "javascript",
+              "online-desktop",
+              "online-linux",
+              "operating-system",
+              "os",
+              "osjs",
+              "remote-desktop",
+              "web-desktop",
+              "web-os"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2250,12 +3680,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Go back to the 90s using a Unix-like workstation.",
+            "homepage": "https://debian.com.mx/",
             "id": 1154982583,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-06-29T05:59:19Z",
+            "open_issues": 4,
             "owner": "Victxrlarixs",
             "repo": "debian-time-capsule",
-            "stars": 133
+            "stars": 133,
+            "topics": [
+              "cde",
+              "debian",
+              "emacs",
+              "linux",
+              "retrocomputing",
+              "unix",
+              "unixporn"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2266,12 +3709,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💾 Run .exe in browser — x86/ARM emulator with reimplemented Win32/WinCE/Win16/DOS APIs in pure TypeScript",
+            "homepage": "https://retrotick.com",
             "id": 1167498232,
             "language": "TypeScript",
+            "license": "CC0-1.0",
             "last_commit": "2026-07-26T03:33:06Z",
+            "open_issues": 11,
             "owner": "lqs",
             "repo": "retrotick",
-            "stars": 302
+            "stars": 302,
+            "topics": [
+              "emulator",
+              "win16",
+              "win32",
+              "wince"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2282,12 +3735,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OS(KO) 🚀 - browser-based operating system",
+            "homepage": "https://cmdkolab.github.io/osko/",
             "id": 1164588018,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-06T09:35:11Z",
+            "open_issues": 0,
             "owner": "cmdkolab",
             "repo": "osko",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "desktop",
+              "gui",
+              "html",
+              "javascript",
+              "operating-systems",
+              "os",
+              "osjs",
+              "osko",
+              "web-desktop",
+              "web-os"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2298,12 +3767,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web-OS Portfolio is a production-grade, web-based operating system simulator that showcases your projects and skills through a desktop-like environment built entirely in the browser using React, TypeScript, Vite, and TailwindCSS.",
+            "homepage": null,
             "id": 1162857547,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T23:05:24Z",
+            "open_issues": 8,
             "owner": "pravin-python",
             "repo": "Web-OS-Portfolio",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "desktop-ui",
+              "game",
+              "portfolio",
+              "react",
+              "tailwindcss",
+              "typescript",
+              "vite",
+              "web-os"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2314,12 +3797,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A pixel-perfect JavaScript recreation of Windows 98 for browser.",
+            "homepage": "https://azayrahmad.github.io/win98-web/",
             "id": 1030910645,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-15T22:35:09Z",
+            "open_issues": 31,
             "owner": "azayrahmad",
             "repo": "win98-web",
-            "stars": 15
+            "stars": 15,
+            "topics": [
+              "microsoft-plus",
+              "nostalgia",
+              "old-web",
+              "retro",
+              "web-os",
+              "windows-98",
+              "windows-98-theme"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2330,12 +3826,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A personal portfolio website disguised as a fully interactive Windows XP desktop",
+            "homepage": "https://aduncan.dev",
             "id": 982266448,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:47:20Z",
+            "open_issues": 0,
             "owner": "aduncandev",
             "repo": "web-xp",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "windows-xp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2346,12 +3849,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Mon portfolio avec une apparence d'un OS des années 90.",
+            "homepage": "https://linkus-star.github.io/",
             "id": 1142700500,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-25T09:51:27Z",
+            "open_issues": 0,
             "owner": "Linkus-star",
             "repo": "linkus-star.github.io",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "portfolio",
+              "windows-xp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2362,12 +3873,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An authentic recreation of Windows XP, created using React & Typescript",
+            "homepage": "https://react-xp.jamiepates.com",
             "id": 1082156314,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-04T19:20:31Z",
+            "open_issues": 0,
             "owner": "Cyanoxide",
             "repo": "react-xp",
-            "stars": 74
+            "stars": 74,
+            "topics": [
+              "react",
+              "typescript",
+              "windows-xp"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2378,12 +3898,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CDE/Motif-style desktop environment simulation in a single HTML file. No dependencies, no build tools — just open and run.",
+            "homepage": null,
             "id": 1177270324,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-03-18T20:40:56Z",
+            "open_issues": 0,
             "owner": "igtoth",
             "repo": "cde-motif-desktop",
-            "stars": 24
+            "stars": 24,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2394,12 +3919,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "web-os  operating-system  react  vite  glassmorphism  indexeddb  posix  ai  browser  javascript",
+            "homepage": "https://tcode-motion.github.io/NovOS/",
             "id": 1222541523,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-08-12T16:40:04Z",
+            "open_issues": 0,
             "owner": "Tcode-Motion",
             "repo": "NovOS",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "aether",
+              "browser-os",
+              "javascript",
+              "kernel",
+              "mission-control",
+              "nova-ai",
+              "operating-system",
+              "react",
+              "vite",
+              "web-os",
+              "window-manager",
+              "zustand"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2410,12 +3953,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "my portfolio",
+            "homepage": "https://ankushhkapoor.vercel.app",
             "id": 1167856916,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-05-13T14:18:55Z",
+            "open_issues": 0,
             "owner": "ankushhKapoor",
             "repo": "portfolio",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "linux",
+              "portfolio",
+              "web-os"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2426,12 +3978,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "web based operating systm inspired by linuxmint with customization",
+            "homepage": "https://everest-os.github.io/",
             "id": 1233879158,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-24T10:45:27Z",
+            "open_issues": 0,
             "owner": "Everest-Os",
             "repo": "everest-os.github.io",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "browser-os",
+              "desktop-environment",
+              "linuxmint",
+              "operating-system",
+              "putter",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2442,12 +4006,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal project portfolio site",
+            "homepage": "https://www.danielbrendel.com",
             "id": 346096284,
             "language": "PHP",
+            "license": "MIT",
             "last_commit": "2026-06-11T23:47:04Z",
+            "open_issues": 10,
             "owner": "danielbrendel",
             "repo": "dnyPortfolioApp",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "daniel-brendel",
+              "portfolio",
+              "portfolio-project",
+              "web-desktop",
+              "webtop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2458,12 +4033,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nostalgic, Windows 98–inspired UI components ",
+            "homepage": "https://zixing8284.github.io/murasaki/",
             "id": 1127621701,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-08-24T16:05:13Z",
+            "open_issues": 0,
             "owner": "zixing8284",
             "repo": "murasaki",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "nostalgia",
+              "old-web",
+              "retro",
+              "web-desktop",
+              "windows98",
+              "y2k"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2474,12 +4061,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DAX Portal⚡ — An OS-style portfolio interface that showcases projects as system modules 🧩, files as data vaults 🗂️, and skills as live processes ⚙️. Not a website — a personal operating system.",
+            "homepage": "https://dax-portal.vercel.app",
             "id": 1117441347,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-06-14T09:32:56Z",
+            "open_issues": 0,
             "owner": "201Harsh",
             "repo": "DAX-Portal",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "dax",
+              "dax-portal",
+              "operating-system",
+              "operating-systems",
+              "os",
+              "personal-portfolio",
+              "portfolio",
+              "portfolio-site",
+              "portfolio-website",
+              "web-operating-system",
+              "web-os",
+              "webos"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2490,12 +4095,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Aria — an open-source AI operating system in your browser: a macOS-style web desktop with a live multi-agent brain (local LLM via WebGPU, real tools, live code execution).",
+            "homepage": "https://sumanthkm.com/aria/",
             "id": 1255414255,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-31T20:19:21Z",
+            "open_issues": 0,
             "owner": "skmdroid",
             "repo": "aria",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "llm",
+              "multi-agent",
+              "nextjs",
+              "open-source",
+              "operating-system",
+              "typescript",
+              "web-os",
+              "webgpu"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2506,12 +4127,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A complete desktop environment built from scratch with JS, HTML5, and CSS3. Bundles to single html file. Pls star 🥺",
+            "homepage": "https://yukios.pages.dev",
             "id": 1119593356,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T03:18:10Z",
+            "open_issues": 1,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "browser-os",
+              "client-only",
+              "desktop",
+              "desktop-environment",
+              "desktop-shell",
+              "emulator",
+              "games",
+              "hyprland",
+              "in-browser",
+              "javascript",
+              "local-first",
+              "operating-system",
+              "os",
+              "typescript",
+              "vanilla-javascript",
+              "vanilla-js",
+              "virtual-machine",
+              "web-desktop",
+              "web-os",
+              "windows-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2522,12 +4169,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public browser desktop OS built with React, Vite, local-first apps, glass UI, and Vercel static deployment.",
+            "homepage": "https://ip-os-linux.vercel.app",
             "id": 1228299771,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-14T16:56:43Z",
+            "open_issues": 0,
             "owner": "ikerperez12",
             "repo": "IP-OS-LINUX",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "desktop",
+              "glassmorphism",
+              "local-first",
+              "pwa",
+              "react",
+              "typescript",
+              "vercel",
+              "vite",
+              "web-desktop"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2538,12 +4200,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hyggshi OS official website",
+            "homepage": null,
             "id": 1020548229,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T13:46:44Z",
+            "open_issues": 1,
             "owner": "HyggshiOSDeveloper",
             "repo": "hyggshi-os-website",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2554,12 +4221,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is my portfolio. It runs in your browser.",
+            "homepage": "https://zezinos.site/",
             "id": 1148327034,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-05-30T19:10:34Z",
+            "open_issues": 0,
             "owner": "jm-works",
             "repo": "ZezinOS",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "aesthetic",
+              "browser-os",
+              "crt",
+              "geocities",
+              "no-framework",
+              "portfolio",
+              "retro",
+              "vanilla-js",
+              "web",
+              "windows98"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2570,12 +4253,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A retro OS inspired website designed to mimic a desktop running in ther browser with a boot sequence, draggable/minimisable windows, taskbar, clock, and a first-person Three.js maze with WebXR support. ",
+            "homepage": "https://gilleece.github.io/Navi-Os/",
             "id": 1266140107,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-16T18:50:41Z",
+            "open_issues": 0,
             "owner": "Gilleece",
             "repo": "Navi-Os",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2586,12 +4274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TempleOS running in the browser",
+            "homepage": null,
             "id": 1255503816,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-07-26T04:55:30Z",
+            "open_issues": 0,
             "owner": "ParkerrDev",
             "repo": "TempleOS-Web",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2602,12 +4295,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A macOS desktop environment in a single HTML file. No build step, no framework.",
+            "homepage": "https://starknightt.github.io/macos-web/",
             "id": 1314242013,
             "language": "HTML",
+            "license": "MIT",
             "last_commit": "2026-07-28T12:50:53Z",
+            "open_issues": 0,
             "owner": "StarKnightt",
             "repo": "macos-web",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "css",
+              "desktop-environment",
+              "macos",
+              "no-build",
+              "single-file",
+              "ui-clone",
+              "vanilla-js",
+              "web-audio-api"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2618,12 +4325,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A browser-based desktop operating system built with React, Vite, Express, and PostgreSQL. Users get a full desktop environment file manager, code editor, terminal, notepad, AI assistant, camera, video player, and more! All running in the browser, backed by a real database and per-user file storage.",
+            "homepage": "https://elyraos.com",
             "id": 1221750692,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-07T10:02:18Z",
+            "open_issues": 1,
             "owner": "x-frst",
             "repo": "elyraos",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "browser-os",
+              "internet-os",
+              "postgresql",
+              "react",
+              "vite"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2634,12 +4352,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "My personal web-based operating system built with HTML, CSS and JavaScript.",
+            "homepage": "https://personal-os-pi-neon.vercel.app",
             "id": 1305767229,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-19T16:01:21Z",
+            "open_issues": 0,
             "owner": "koley-dev-08",
             "repo": "personal-os",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "browser-os",
+              "css",
+              "frontend",
+              "html",
+              "javascript",
+              "operating-system",
+              "portfolio",
+              "retro-ui",
+              "web-app"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -2650,12 +4383,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Windows 11: Exists and sucks Me: I'll make my own Desktop environment! With React and docker!",
+            "homepage": "https://frannunpal.github.io/",
             "id": 1175533075,
             "language": "HTML",
+            "license": null,
             "last_commit": "2026-08-28T11:45:13Z",
+            "open_issues": 0,
             "owner": "frannunpal",
             "repo": "frannunpal.github.io",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "bun",
+              "desktop-environment",
+              "electron",
+              "framer-motion",
+              "linux",
+              "mantine-ui",
+              "reactjs",
+              "storybook",
+              "tiptap",
+              "windows",
+              "zustand"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         }
@@ -2664,15 +4414,39 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:57.630Z",
+    "last_updated": "2026-08-29T04:25:30.292Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Websites, web apps, portfolios that look like desktop operating systems",
+      "homepage": "https://simone.computer/webdesktops",
       "id": 213751251,
       "language": "Ruby",
+      "license": "CC0-1.0",
       "last_commit": "2026-08-20T09:13:58Z",
+      "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2065
+      "stars": 2065,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "classic-mac-os",
+        "cloud-os",
+        "design",
+        "desktop",
+        "desktop-environment",
+        "directory",
+        "list",
+        "retro",
+        "web-desktop",
+        "web-os",
+        "webdesign",
+        "webtop",
+        "windows-xp",
+        "windows11",
+        "windows11-web",
+        "windows98"
+      ]
     },
     "original_repository_sha": "8a4a88e21ff97732ffa10bc017a077ae16544015",
     "enhanced_repository": "enhansome/enhansome-web-desktops",
