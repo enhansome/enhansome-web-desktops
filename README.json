@@ -61,7 +61,7 @@
             "open_issues": 176,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11232,
+            "stars": 11234,
             "topics": [
               "html5",
               "javascript",
@@ -1456,7 +1456,7 @@
             "open_issues": 14,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2290,
+            "stars": 2291,
             "topics": [
               "portfolio"
             ]
@@ -2393,7 +2393,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 507,
+            "stars": 509,
             "topics": [
               "linux",
               "v86",
@@ -2585,7 +2585,7 @@
             "open_issues": 3,
             "owner": "chrishtu",
             "repo": "windows11",
-            "stars": 62,
+            "stars": 63,
             "topics": [
               "javascript",
               "windows",
@@ -2801,7 +2801,7 @@
             "open_issues": 23,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1239,
+            "stars": 1240,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2980,7 +2980,7 @@
             "id": 860968611,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-28T19:29:08Z",
+            "last_commit": "2026-08-29T15:52:34Z",
             "open_issues": 0,
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
@@ -3831,7 +3831,7 @@
             "id": 982266448,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T11:47:20Z",
+            "last_commit": "2026-08-29T14:37:27Z",
             "open_issues": 0,
             "owner": "aduncandev",
             "repo": "web-xp",
@@ -4388,7 +4388,7 @@
             "id": 1175533075,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-08-28T11:45:13Z",
+            "last_commit": "2026-08-29T13:27:44Z",
             "open_issues": 0,
             "owner": "frannunpal",
             "repo": "frannunpal.github.io",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:25:30.292Z",
+    "last_updated": "2026-08-29T17:42:45.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
