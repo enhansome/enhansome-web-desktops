@@ -61,7 +61,7 @@
             "open_issues": 176,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11234,
+            "stars": 11235,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7084,
+            "stars": 7085,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1423,
+            "stars": 1424,
             "topics": [
               "classic",
               "desktop",
@@ -511,11 +511,11 @@
             "id": 286179743,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-25T14:42:45Z",
+            "last_commit": "2026-08-29T22:32:40Z",
             "open_issues": 42,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13024,
+            "stars": 13025,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -952,7 +952,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9669,
+            "stars": 9668,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1422,8 +1422,8 @@
             "homepage": "https://greyos.gr",
             "id": 39503234,
             "language": "PHP",
-            "license": null,
-            "last_commit": "2026-02-04T22:53:52Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-30T12:01:45Z",
             "open_issues": 0,
             "owner": "g0d",
             "repo": "GreyOS",
@@ -1456,7 +1456,7 @@
             "open_issues": 14,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2291,
+            "stars": 2292,
             "topics": [
               "portfolio"
             ]
@@ -1855,7 +1855,7 @@
             "open_issues": 7,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
-            "stars": 352,
+            "stars": 353,
             "topics": [
               "desktop",
               "desktop-environment",
@@ -2073,7 +2073,7 @@
             "open_issues": 0,
             "owner": "Yuteoctober",
             "repo": "wins95Portfolio",
-            "stars": 273,
+            "stars": 274,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2801,7 +2801,7 @@
             "open_issues": 23,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1240,
+            "stars": 1241,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2980,7 +2980,7 @@
             "id": 860968611,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-29T15:52:34Z",
+            "last_commit": "2026-08-30T17:52:01Z",
             "open_issues": 0,
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
@@ -3160,7 +3160,7 @@
             "open_issues": 0,
             "owner": "UnMugViolet",
             "repo": "portfolio",
-            "stars": 105,
+            "stars": 106,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T03:00:57Z",
+            "last_commit": "2026-08-30T03:01:00Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -3549,7 +3549,7 @@
             "open_issues": 12,
             "owner": "mental-os",
             "repo": "Aurora-OS.js",
-            "stars": 734,
+            "stars": 735,
             "topics": [
               "browser-game",
               "contributions-welcome",
@@ -3831,7 +3831,7 @@
             "id": 982266448,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T14:37:27Z",
+            "last_commit": "2026-08-30T17:45:04Z",
             "open_issues": 0,
             "owner": "aduncandev",
             "repo": "web-xp",
@@ -4038,7 +4038,7 @@
             "id": 1127621701,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-24T16:05:13Z",
+            "last_commit": "2026-08-30T11:06:50Z",
             "open_issues": 0,
             "owner": "zixing8284",
             "repo": "murasaki",
@@ -4132,7 +4132,7 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-27T03:18:10Z",
+            "last_commit": "2026-08-30T01:11:15Z",
             "open_issues": 1,
             "owner": "Reeyuki",
             "repo": "YukiOS",
@@ -4414,7 +4414,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T17:42:45.411Z",
+    "last_updated": "2026-08-30T18:03:11.187Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
