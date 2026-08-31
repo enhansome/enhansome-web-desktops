@@ -61,7 +61,7 @@
             "open_issues": 176,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11235,
+            "stars": 11237,
             "topics": [
               "html5",
               "javascript",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1424,
+            "stars": 1423,
             "topics": [
               "classic",
               "desktop",
@@ -511,11 +511,11 @@
             "id": 286179743,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-29T22:32:40Z",
+            "last_commit": "2026-08-30T22:37:52Z",
             "open_issues": 42,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13025,
+            "stars": 13024,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -562,7 +562,7 @@
             "open_issues": 21,
             "owner": "edwardpayton",
             "repo": "github95",
-            "stars": 100,
+            "stars": 101,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3491,
+            "stars": 3492,
             "topics": [
               "portfolio",
               "react",
@@ -1456,7 +1456,7 @@
             "open_issues": 14,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2292,
+            "stars": 2294,
             "topics": [
               "portfolio"
             ]
@@ -1479,7 +1479,7 @@
             "open_issues": 1,
             "owner": "ducbao414",
             "repo": "win32.run",
-            "stars": 546,
+            "stars": 545,
             "topics": [
               "browser-os",
               "svelte",
@@ -2035,7 +2035,7 @@
             "open_issues": 1,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6387,
+            "stars": 6388,
             "topics": [
               "archive",
               "collaboration",
@@ -2319,7 +2319,7 @@
             "id": 214985349,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-06-09T11:16:57Z",
+            "last_commit": "2026-08-31T14:47:58Z",
             "open_issues": 52,
             "owner": "Maingron",
             "repo": "MainOS",
@@ -2393,7 +2393,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 509,
+            "stars": 510,
             "topics": [
               "linux",
               "v86",
@@ -2854,7 +2854,7 @@
             "open_issues": 0,
             "owner": "CryptoStephan",
             "repo": "Stephans-OS",
-            "stars": 6,
+            "stars": 7,
             "topics": [
               "desktop-environment",
               "optimization",
@@ -2980,7 +2980,7 @@
             "id": 860968611,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-08-30T17:52:01Z",
+            "last_commit": "2026-08-31T16:42:44Z",
             "open_issues": 0,
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T03:01:00Z",
+            "last_commit": "2026-08-31T03:01:08Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -3826,21 +3826,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A personal portfolio website disguised as a fully interactive Windows XP desktop",
+            "description": "Windows XP... but in the browser, mostly.",
             "homepage": "https://aduncan.dev",
-            "id": 982266448,
+            "id": 1351924144,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T17:45:04Z",
+            "last_commit": "2026-08-31T11:53:19Z",
             "open_issues": 0,
             "owner": "aduncandev",
             "repo": "web-xp",
             "stars": 0,
             "topics": [
-              "windows-xp"
+              "windows-xp",
+              "windows-xp-website"
             ]
           },
-          "first_seen": "2026-08-28T23:31:57.630Z"
+          "first_seen": "2026-08-31T20:00:06.510Z"
         },
         {
           "node_type": "item",
@@ -4012,14 +4013,16 @@
             "language": "PHP",
             "license": "MIT",
             "last_commit": "2026-06-11T23:47:04Z",
-            "open_issues": 10,
+            "open_issues": 12,
             "owner": "danielbrendel",
             "repo": "dnyPortfolioApp",
             "stars": 4,
             "topics": [
               "daniel-brendel",
+              "nostalgia",
               "portfolio",
               "portfolio-project",
+              "retro",
               "web-desktop",
               "webtop"
             ]
@@ -4136,7 +4139,7 @@
             "open_issues": 1,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "browser-os",
               "client-only",
@@ -4205,7 +4208,7 @@
             "id": 1020548229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T13:46:44Z",
+            "last_commit": "2026-08-31T00:55:47Z",
             "open_issues": 1,
             "owner": "HyggshiOSDeveloper",
             "repo": "hyggshi-os-website",
@@ -4414,7 +4417,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T18:03:11.187Z",
+    "last_updated": "2026-08-31T20:00:06.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4426,7 +4429,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2065,
+      "stars": 2067,
       "topics": [
         "awesome",
         "awesome-list",
