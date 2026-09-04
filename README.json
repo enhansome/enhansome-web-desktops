@@ -61,7 +61,7 @@
             "open_issues": 176,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11242,
+            "stars": 11243,
             "topics": [
               "html5",
               "javascript",
@@ -515,7 +515,7 @@
             "open_issues": 42,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13025,
+            "stars": 13028,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -655,7 +655,7 @@
             "open_issues": 23,
             "owner": "remigallego",
             "repo": "winampify",
-            "stars": 256,
+            "stars": 255,
             "topics": [
               "audio",
               "css-in-js",
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3493,
+            "stars": 3494,
             "topics": [
               "portfolio",
               "react",
@@ -769,7 +769,7 @@
             "open_issues": 46,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2661,
+            "stars": 2662,
             "topics": [
               "macos",
               "svelte"
@@ -984,7 +984,7 @@
             "open_issues": 1,
             "owner": "DonChiaQE",
             "repo": "win95",
-            "stars": 276,
+            "stars": 275,
             "topics": [
               "bable",
               "css",
@@ -1015,7 +1015,7 @@
             "id": 232174146,
             "language": "HTML",
             "license": "Unlicense",
-            "last_commit": "2026-09-03T16:01:51Z",
+            "last_commit": "2026-09-04T14:53:18Z",
             "open_issues": 3,
             "owner": "Keeping-History",
             "repo": "rt911",
@@ -1159,7 +1159,7 @@
             "open_issues": 1,
             "owner": "robbiebyrd",
             "repo": "classicy",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "macos-classic",
               "nextjs",
@@ -1456,7 +1456,7 @@
             "open_issues": 14,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2297,
+            "stars": 2301,
             "topics": [
               "portfolio"
             ]
@@ -2035,7 +2035,7 @@
             "open_issues": 1,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6389,
+            "stars": 6390,
             "topics": [
               "archive",
               "collaboration",
@@ -2361,7 +2361,7 @@
             "open_issues": 0,
             "owner": "runnova",
             "repo": "NovaOS",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "browser-os",
               "client-side",
@@ -2801,7 +2801,7 @@
             "open_issues": 23,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1244,
+            "stars": 1243,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T15:21:06Z",
+            "last_commit": "2026-09-04T01:10:53Z",
             "open_issues": 13,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -2980,7 +2980,7 @@
             "id": 860968611,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-03T11:18:34Z",
+            "last_commit": "2026-09-03T22:49:13Z",
             "open_issues": 0,
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
@@ -3281,7 +3281,7 @@
             "id": 972336097,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-01T18:14:55Z",
+            "last_commit": "2026-09-03T22:52:45Z",
             "open_issues": 1,
             "owner": "TerbiumOS",
             "repo": "web-v2",
@@ -3408,7 +3408,7 @@
             "id": 838188931,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-03T10:04:26Z",
+            "last_commit": "2026-09-04T15:53:14Z",
             "open_issues": 0,
             "owner": "Codfisher",
             "repo": "cod-aquarium",
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T04:03:55Z",
+            "last_commit": "2026-09-04T03:01:14Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -4041,7 +4041,7 @@
             "id": 1127621701,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-02T14:49:49Z",
+            "last_commit": "2026-09-04T03:27:58Z",
             "open_issues": 0,
             "owner": "zixing8284",
             "repo": "murasaki",
@@ -4424,8 +4424,8 @@
             "id": 1285734452,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-03T09:31:00Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-04T07:31:42Z",
+            "open_issues": 1,
             "owner": "surfine",
             "repo": "AI-System-6",
             "stars": 4,
@@ -4452,7 +4452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T17:49:20.954Z",
+    "last_updated": "2026-09-04T17:34:36.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4464,7 +4464,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2070,
+      "stars": 2069,
       "topics": [
         "awesome",
         "awesome-list",
