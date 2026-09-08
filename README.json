@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5864,
+            "stars": 5865,
             "topics": [
               "hooks",
               "javascript",
@@ -769,7 +769,7 @@
             "open_issues": 46,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2662,
+            "stars": 2665,
             "topics": [
               "macos",
               "svelte"
@@ -793,7 +793,7 @@
             "open_issues": 5,
             "owner": "GoodManWEN",
             "repo": "GoodManWEN.github.io",
-            "stars": 1052,
+            "stars": 1051,
             "topics": [
               "blog",
               "deepin",
@@ -952,7 +952,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9669,
+            "stars": 9670,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1016,7 +1016,7 @@
             "language": "HTML",
             "license": "Unlicense",
             "last_commit": "2026-09-04T14:53:18Z",
-            "open_issues": 3,
+            "open_issues": 1,
             "owner": "Keeping-History",
             "repo": "rt911",
             "stars": 13,
@@ -1456,7 +1456,7 @@
             "open_issues": 14,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2309,
+            "stars": 2376,
             "topics": [
               "portfolio"
             ]
@@ -2418,7 +2418,7 @@
             "open_issues": 1,
             "owner": "RedEdge967",
             "repo": "MacOS-CSS",
-            "stars": 75,
+            "stars": 74,
             "topics": [
               "big-sur",
               "macos",
@@ -2739,7 +2739,7 @@
             "id": 881270454,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-07T05:49:44Z",
+            "last_commit": "2026-09-07T22:10:49Z",
             "open_issues": 0,
             "owner": "aerosness",
             "repo": "aerosness.github.io",
@@ -2797,7 +2797,7 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-31T21:13:48Z",
+            "last_commit": "2026-09-07T21:07:07Z",
             "open_issues": 23,
             "owner": "ryokun6",
             "repo": "ryos",
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T16:15:15Z",
+            "last_commit": "2026-09-08T12:01:56Z",
             "open_issues": 14,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-07T03:01:08Z",
+            "last_commit": "2026-09-08T03:00:59Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -3689,7 +3689,7 @@
             "open_issues": 4,
             "owner": "Victxrlarixs",
             "repo": "debian-time-capsule",
-            "stars": 133,
+            "stars": 132,
             "topics": [
               "cde",
               "debian",
@@ -4041,8 +4041,8 @@
             "id": 1127621701,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-07T06:19:51Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-08T11:22:48Z",
+            "open_issues": 1,
             "owner": "zixing8284",
             "repo": "murasaki",
             "stars": 2,
@@ -4135,11 +4135,11 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-07T18:41:24Z",
+            "last_commit": "2026-09-08T16:00:18Z",
             "open_issues": 1,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 40,
+            "stars": 43,
             "topics": [
               "browser-os",
               "client-only",
@@ -4452,7 +4452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T18:42:40.403Z",
+    "last_updated": "2026-09-08T17:53:43.708Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
