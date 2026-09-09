@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7083,
+            "stars": 7082,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5865,
+            "stars": 5861,
             "topics": [
               "hooks",
               "javascript",
@@ -228,7 +228,7 @@
             "open_issues": 12,
             "owner": "tojrobinson",
             "repo": "jurassicsystems.com",
-            "stars": 422,
+            "stars": 423,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3494,
+            "stars": 3495,
             "topics": [
               "portfolio",
               "react",
@@ -769,7 +769,7 @@
             "open_issues": 46,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2665,
+            "stars": 2664,
             "topics": [
               "macos",
               "svelte"
@@ -952,7 +952,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9670,
+            "stars": 9668,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1015,8 +1015,8 @@
             "id": 232174146,
             "language": "HTML",
             "license": "Unlicense",
-            "last_commit": "2026-09-04T14:53:18Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-09T14:08:39Z",
+            "open_issues": 5,
             "owner": "Keeping-History",
             "repo": "rt911",
             "stars": 13,
@@ -1453,10 +1453,10 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2025-12-16T18:08:33Z",
-            "open_issues": 14,
+            "open_issues": 15,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2376,
+            "stars": 2452,
             "topics": [
               "portfolio"
             ]
@@ -1479,7 +1479,7 @@
             "open_issues": 1,
             "owner": "ducbao414",
             "repo": "win32.run",
-            "stars": 545,
+            "stars": 544,
             "topics": [
               "browser-os",
               "svelte",
@@ -2361,7 +2361,7 @@
             "open_issues": 0,
             "owner": "runnova",
             "repo": "NovaOS",
-            "stars": 27,
+            "stars": 28,
             "topics": [
               "browser-os",
               "client-side",
@@ -2393,7 +2393,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 512,
+            "stars": 511,
             "topics": [
               "linux",
               "v86",
@@ -2523,7 +2523,7 @@
             "open_issues": 3,
             "owner": "MishanPoudel",
             "repo": "Windows11-3.0",
-            "stars": 824,
+            "stars": 825,
             "topics": [
               "clone-app",
               "portfolio",
@@ -2585,7 +2585,7 @@
             "open_issues": 3,
             "owner": "chrishtu",
             "repo": "windows11",
-            "stars": 64,
+            "stars": 65,
             "topics": [
               "javascript",
               "windows",
@@ -2801,7 +2801,7 @@
             "open_issues": 23,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1246,
+            "stars": 1248,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T12:01:56Z",
+            "last_commit": "2026-09-09T16:13:23Z",
             "open_issues": 14,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -2980,7 +2980,7 @@
             "id": 860968611,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-06T14:53:10Z",
+            "last_commit": "2026-09-08T18:43:39Z",
             "open_issues": 0,
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T03:00:59Z",
+            "last_commit": "2026-09-09T03:01:10Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -4041,7 +4041,7 @@
             "id": 1127621701,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-08T11:22:48Z",
+            "last_commit": "2026-09-09T10:12:36Z",
             "open_issues": 1,
             "owner": "zixing8284",
             "repo": "murasaki",
@@ -4135,7 +4135,7 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-08T16:00:18Z",
+            "last_commit": "2026-09-09T14:44:15Z",
             "open_issues": 1,
             "owner": "Reeyuki",
             "repo": "YukiOS",
@@ -4233,7 +4233,7 @@
             "open_issues": 0,
             "owner": "jm-works",
             "repo": "ZezinOS",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "aesthetic",
               "browser-os",
@@ -4452,7 +4452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T17:53:43.708Z",
+    "last_updated": "2026-09-09T17:48:03.340Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4464,7 +4464,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2073,
+      "stars": 2074,
       "topics": [
         "awesome",
         "awesome-list",
