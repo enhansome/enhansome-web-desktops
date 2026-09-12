@@ -61,7 +61,7 @@
             "open_issues": 176,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11250,
+            "stars": 11249,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7082,
+            "stars": 7081,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1423,
+            "stars": 1422,
             "topics": [
               "classic",
               "desktop",
@@ -228,7 +228,7 @@
             "open_issues": 12,
             "owner": "tojrobinson",
             "repo": "jurassicsystems.com",
-            "stars": 423,
+            "stars": 424,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -270,7 +270,7 @@
             "open_issues": 19,
             "owner": "Emupedia",
             "repo": "emupedia.github.io",
-            "stars": 1327,
+            "stars": 1328,
             "topics": [
               "desktop",
               "dosbox",
@@ -515,7 +515,7 @@
             "open_issues": 42,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13032,
+            "stars": 13033,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -769,7 +769,7 @@
             "open_issues": 46,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2666,
+            "stars": 2667,
             "topics": [
               "macos",
               "svelte"
@@ -984,7 +984,7 @@
             "open_issues": 1,
             "owner": "DonChiaQE",
             "repo": "win95",
-            "stars": 275,
+            "stars": 276,
             "topics": [
               "bable",
               "css",
@@ -1456,7 +1456,7 @@
             "open_issues": 15,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2463,
+            "stars": 2464,
             "topics": [
               "portfolio"
             ]
@@ -1855,7 +1855,7 @@
             "open_issues": 7,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "desktop",
               "desktop-environment",
@@ -2035,7 +2035,7 @@
             "open_issues": 1,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6389,
+            "stars": 6390,
             "topics": [
               "archive",
               "collaboration",
@@ -2801,7 +2801,7 @@
             "open_issues": 23,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1249,
+            "stars": 1251,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-11T17:19:25Z",
+            "last_commit": "2026-09-12T10:41:08Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3051,7 +3051,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-09-01T14:18:08Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "hatimbenhsain",
             "repo": "hatimbenhsain.github.io",
             "stars": 2,
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-11T03:01:18Z",
+            "last_commit": "2026-09-12T03:01:09Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -4135,11 +4135,11 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T17:47:22Z",
+            "last_commit": "2026-09-11T20:29:30Z",
             "open_issues": 1,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "browser-os",
               "client-only",
@@ -4452,7 +4452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T17:43:50.009Z",
+    "last_updated": "2026-09-12T17:05:18.953Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
