@@ -61,7 +61,7 @@
             "open_issues": 176,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11249,
+            "stars": 11250,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7081,
+            "stars": 7079,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -270,7 +270,7 @@
             "open_issues": 19,
             "owner": "Emupedia",
             "repo": "emupedia.github.io",
-            "stars": 1329,
+            "stars": 1330,
             "topics": [
               "desktop",
               "dosbox",
@@ -583,7 +583,7 @@
             "open_issues": 3,
             "owner": "nathansmith",
             "repo": "jQuery-Desktop",
-            "stars": 318,
+            "stars": 317,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3499,
+            "stars": 3500,
             "topics": [
               "portfolio",
               "react",
@@ -1456,7 +1456,7 @@
             "open_issues": 15,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2466,
+            "stars": 2469,
             "topics": [
               "portfolio"
             ]
@@ -1479,7 +1479,7 @@
             "open_issues": 1,
             "owner": "ducbao414",
             "repo": "win32.run",
-            "stars": 543,
+            "stars": 542,
             "topics": [
               "browser-os",
               "svelte",
@@ -2035,7 +2035,7 @@
             "open_issues": 1,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6391,
+            "stars": 6393,
             "topics": [
               "archive",
               "collaboration",
@@ -2144,7 +2144,7 @@
             "open_issues": 0,
             "owner": "hawwokitty",
             "repo": "my-portfolio",
-            "stars": 6,
+            "stars": 5,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2523,7 +2523,7 @@
             "open_issues": 3,
             "owner": "MishanPoudel",
             "repo": "Windows11-3.0",
-            "stars": 827,
+            "stars": 828,
             "topics": [
               "clone-app",
               "portfolio",
@@ -2797,11 +2797,11 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-07T21:07:07Z",
+            "last_commit": "2026-09-14T13:53:23Z",
             "open_issues": 23,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1252,
+            "stars": 1253,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2902,7 +2902,7 @@
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
-            "stars": 74,
+            "stars": 73,
             "topics": [
               "amiga",
               "amiga-topaz",
@@ -3387,7 +3387,7 @@
             "id": 1074851309,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-10T12:50:59Z",
+            "last_commit": "2026-09-14T18:16:37Z",
             "open_issues": 1,
             "owner": "Romariojveloso-fiteclabs",
             "repo": "portifolio",
@@ -3408,7 +3408,7 @@
             "id": 838188931,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-10T07:02:41Z",
+            "last_commit": "2026-09-14T06:04:33Z",
             "open_issues": 0,
             "owner": "Codfisher",
             "repo": "cod-aquarium",
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T03:01:00Z",
+            "last_commit": "2026-09-14T03:01:01Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -3549,7 +3549,7 @@
             "open_issues": 12,
             "owner": "mental-os",
             "repo": "Aurora-OS.js",
-            "stars": 738,
+            "stars": 740,
             "topics": [
               "browser-game",
               "contributions-welcome",
@@ -4135,11 +4135,11 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-13T00:38:05Z",
+            "last_commit": "2026-09-14T17:16:32Z",
             "open_issues": 1,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 48,
+            "stars": 49,
             "topics": [
               "browser-os",
               "client-only",
@@ -4280,9 +4280,9 @@
             "description": "TempleOS running in the browser",
             "homepage": null,
             "id": 1255503816,
-            "language": "HTML",
+            "language": "HolyC",
             "license": null,
-            "last_commit": "2026-07-26T04:55:30Z",
+            "last_commit": "2026-09-14T19:17:08Z",
             "open_issues": 0,
             "owner": "ParkerrDev",
             "repo": "TempleOS-Web",
@@ -4452,7 +4452,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T17:23:44.761Z",
+    "last_updated": "2026-09-14T19:19:10.578Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4464,7 +4464,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2076,
+      "stars": 2078,
       "topics": [
         "awesome",
         "awesome-list",
