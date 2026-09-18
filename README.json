@@ -61,7 +61,7 @@
             "open_issues": 176,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11256,
+            "stars": 11259,
             "topics": [
               "html5",
               "javascript",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1426,
+            "stars": 1425,
             "topics": [
               "classic",
               "desktop",
@@ -515,7 +515,7 @@
             "open_issues": 47,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13038,
+            "stars": 13037,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -625,7 +625,7 @@
             "open_issues": 2,
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4325,
+            "stars": 4322,
             "topics": [
               "nextjs",
               "personal-portfolio",
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3502,
+            "stars": 3500,
             "topics": [
               "portfolio",
               "react",
@@ -952,7 +952,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9669,
+            "stars": 9668,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2477,
+            "stars": 2478,
             "topics": [
               "portfolio"
             ]
@@ -2393,7 +2393,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 508,
+            "stars": 510,
             "topics": [
               "linux",
               "v86",
@@ -2801,7 +2801,7 @@
             "open_issues": 24,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1255,
+            "stars": 1256,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -3051,7 +3051,7 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-09-01T14:18:08Z",
-            "open_issues": 10,
+            "open_issues": 11,
             "owner": "hatimbenhsain",
             "repo": "hatimbenhsain.github.io",
             "stars": 2,
@@ -3408,7 +3408,7 @@
             "id": 838188931,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-16T06:15:08Z",
+            "last_commit": "2026-09-18T15:45:06Z",
             "open_issues": 0,
             "owner": "Codfisher",
             "repo": "cod-aquarium",
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T03:01:25Z",
+            "last_commit": "2026-09-18T03:00:57Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -4107,7 +4107,7 @@
             "open_issues": 1,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "browser-os",
               "client-only",
@@ -4250,7 +4250,7 @@
             "id": 1255503816,
             "language": "HolyC",
             "license": null,
-            "last_commit": "2026-09-14T19:40:39Z",
+            "last_commit": "2026-09-18T16:48:49Z",
             "open_issues": 0,
             "owner": "ParkerrDev",
             "repo": "TempleOS-Web",
@@ -4420,7 +4420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T18:09:56.420Z",
+    "last_updated": "2026-09-18T17:39:16.168Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
