@@ -61,7 +61,7 @@
             "open_issues": 176,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11265,
+            "stars": 11267,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7078,
+            "stars": 7079,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1425,
+            "stars": 1426,
             "topics": [
               "classic",
               "desktop",
@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5860,
+            "stars": 5861,
             "topics": [
               "hooks",
               "javascript",
@@ -249,7 +249,7 @@
             "open_issues": 0,
             "owner": "lolstring",
             "repo": "window98-html-css-js",
-            "stars": 149,
+            "stars": 150,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -512,10 +512,10 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-05T22:15:44Z",
-            "open_issues": 50,
+            "open_issues": 51,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13037,
+            "stars": 13038,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -625,7 +625,7 @@
             "open_issues": 4,
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4323,
+            "stars": 4322,
             "topics": [
               "nextjs",
               "personal-portfolio",
@@ -769,7 +769,7 @@
             "open_issues": 45,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2669,
+            "stars": 2671,
             "topics": [
               "macos",
               "svelte"
@@ -793,7 +793,7 @@
             "open_issues": 5,
             "owner": "GoodManWEN",
             "repo": "GoodManWEN.github.io",
-            "stars": 1051,
+            "stars": 1050,
             "topics": [
               "blog",
               "deepin",
@@ -1110,7 +1110,7 @@
             "open_issues": 5,
             "owner": "PiyushSuthar",
             "repo": "Windows-11-Web",
-            "stars": 600,
+            "stars": 599,
             "topics": [
               "hacktoberfest",
               "typescript",
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2483,
+            "stars": 2485,
             "topics": [
               "portfolio"
             ]
@@ -2797,8 +2797,8 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-21T18:14:15Z",
-            "open_issues": 24,
+            "last_commit": "2026-09-22T15:37:08Z",
+            "open_issues": 25,
             "owner": "ryokun6",
             "repo": "ryos",
             "stars": 1259,
@@ -3160,7 +3160,7 @@
             "open_issues": 0,
             "owner": "UnMugViolet",
             "repo": "portfolio",
-            "stars": 106,
+            "stars": 107,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-21T03:00:58Z",
+            "last_commit": "2026-09-22T03:01:12Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -3549,7 +3549,7 @@
             "open_issues": 13,
             "owner": "mental-os",
             "repo": "Aurora-OS.js",
-            "stars": 740,
+            "stars": 741,
             "topics": [
               "browser-game",
               "contributions-welcome",
@@ -4275,7 +4275,7 @@
             "open_issues": 0,
             "owner": "StarKnightt",
             "repo": "macos-web",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "css",
               "desktop-environment",
@@ -4392,7 +4392,7 @@
             "id": 1285734452,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-21T17:46:09Z",
+            "last_commit": "2026-09-22T11:27:30Z",
             "open_issues": 0,
             "owner": "surfine",
             "repo": "AI-System-6",
@@ -4420,7 +4420,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T19:22:33.716Z",
+    "last_updated": "2026-09-22T18:03:30.076Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4432,7 +4432,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2087,
+      "stars": 2088,
       "topics": [
         "awesome",
         "awesome-list",
