@@ -515,7 +515,7 @@
             "open_issues": 51,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13038,
+            "stars": 13039,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -625,7 +625,7 @@
             "open_issues": 4,
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4322,
+            "stars": 4321,
             "topics": [
               "nextjs",
               "personal-portfolio",
@@ -952,7 +952,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9664,
+            "stars": 9663,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2499,
+            "stars": 2502,
             "topics": [
               "portfolio"
             ]
@@ -2035,7 +2035,7 @@
             "open_issues": 1,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6394,
+            "stars": 6395,
             "topics": [
               "archive",
               "collaboration",
@@ -2393,7 +2393,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 512,
+            "stars": 513,
             "topics": [
               "linux",
               "v86",
@@ -2551,7 +2551,7 @@
             "open_issues": 0,
             "owner": "Gersigno",
             "repo": "gersigno.github.io",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "css",
               "desktop",
@@ -2605,10 +2605,10 @@
             "description": "The Offical AvdanOS demo",
             "homepage": null,
             "id": 519431834,
-            "language": "JavaScript",
+            "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2023-08-08T19:11:29Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-25T01:06:18Z",
+            "open_issues": 0,
             "owner": "Avdan-OS",
             "repo": "Demo",
             "stars": 16,
@@ -2797,8 +2797,8 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-24T18:19:12Z",
-            "open_issues": 27,
+            "last_commit": "2026-09-25T18:17:56Z",
+            "open_issues": 28,
             "owner": "ryokun6",
             "repo": "ryos",
             "stars": 1261,
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-24T04:44:42Z",
+            "last_commit": "2026-09-25T15:00:09Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T03:01:02Z",
+            "last_commit": "2026-09-25T03:01:05Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -3689,7 +3689,7 @@
             "open_issues": 4,
             "owner": "Victxrlarixs",
             "repo": "debian-time-capsule",
-            "stars": 133,
+            "stars": 132,
             "topics": [
               "cde",
               "debian",
@@ -3718,7 +3718,7 @@
             "open_issues": 11,
             "owner": "lqs",
             "repo": "retrotick",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "emulator",
               "win16",
@@ -3774,7 +3774,7 @@
             "open_issues": 31,
             "owner": "azayrahmad",
             "repo": "win98-web",
-            "stars": 16,
+            "stars": 17,
             "topics": [
               "microsoft-plus",
               "nostalgia",
@@ -4392,7 +4392,7 @@
             "id": 1285734452,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-22T11:27:30Z",
+            "last_commit": "2026-09-24T21:37:57Z",
             "open_issues": 0,
             "owner": "surfine",
             "repo": "AI-System-6",
@@ -4431,7 +4431,7 @@
             "open_issues": 0,
             "owner": "chengmarc",
             "repo": "chengmarc.github.io",
-            "stars": 21,
+            "stars": 26,
             "topics": [
               "bookmark-manager",
               "bookmarks",
@@ -4457,7 +4457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T18:23:58.397Z",
+    "last_updated": "2026-09-25T18:32:41.074Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4469,7 +4469,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2092,
+      "stars": 2095,
       "topics": [
         "awesome",
         "awesome-list",
