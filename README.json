@@ -61,7 +61,7 @@
             "open_issues": 176,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11270,
+            "stars": 11272,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7079,
+            "stars": 7080,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -515,7 +515,7 @@
             "open_issues": 51,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13039,
+            "stars": 13036,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -625,7 +625,7 @@
             "open_issues": 4,
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4321,
+            "stars": 4322,
             "topics": [
               "nextjs",
               "personal-portfolio",
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2502,
+            "stars": 2504,
             "topics": [
               "portfolio"
             ]
@@ -2035,7 +2035,7 @@
             "open_issues": 1,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6395,
+            "stars": 6394,
             "topics": [
               "archive",
               "collaboration",
@@ -2797,11 +2797,11 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-25T18:17:56Z",
-            "open_issues": 28,
+            "last_commit": "2026-09-26T15:14:24Z",
+            "open_issues": 27,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1261,
+            "stars": 1262,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-25T15:00:09Z",
+            "last_commit": "2026-09-26T09:06:03Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3135,7 +3135,7 @@
             "id": 275630486,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-01T19:40:31Z",
+            "last_commit": "2026-09-26T16:34:01Z",
             "open_issues": 1,
             "owner": "peaBerberian",
             "repo": "peaberberian.github.io",
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-25T03:01:05Z",
+            "last_commit": "2026-09-26T03:01:05Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -4107,7 +4107,7 @@
             "open_issues": 1,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 54,
+            "stars": 55,
             "topics": [
               "browser-os",
               "client-only",
@@ -4176,7 +4176,7 @@
             "id": 1020548229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-13T05:31:58Z",
+            "last_commit": "2026-09-26T04:52:18Z",
             "open_issues": 1,
             "owner": "HyggshiOSDeveloper",
             "repo": "hyggshi-os-website",
@@ -4427,11 +4427,11 @@
             "id": 1379807841,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-09-23T16:06:00Z",
-            "open_issues": 0,
+            "last_commit": "2026-09-26T17:10:56Z",
+            "open_issues": 1,
             "owner": "chengmarc",
             "repo": "chengmarc.github.io",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "bookmark-manager",
               "bookmarks",
@@ -4457,7 +4457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T18:32:41.074Z",
+    "last_updated": "2026-09-26T17:44:05.740Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
