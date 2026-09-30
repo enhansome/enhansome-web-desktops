@@ -58,7 +58,7 @@
             "language": "TypeScript",
             "license": "MIT",
             "last_commit": "2026-08-28T23:41:43Z",
-            "open_issues": 176,
+            "open_issues": 177,
             "owner": "captbaritone",
             "repo": "webamp",
             "stars": 11276,
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7078,
+            "stars": 7079,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5864,
+            "stars": 5865,
             "topics": [
               "hooks",
               "javascript",
@@ -511,11 +511,11 @@
             "id": 286179743,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-28T23:07:11Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-30T17:48:28Z",
+            "open_issues": 46,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13040,
+            "stars": 13041,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3503,
+            "stars": 3502,
             "topics": [
               "portfolio",
               "react",
@@ -769,7 +769,7 @@
             "open_issues": 45,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2671,
+            "stars": 2672,
             "topics": [
               "macos",
               "svelte"
@@ -1270,7 +1270,7 @@
             "open_issues": 5,
             "owner": "yashash-pugalia",
             "repo": "win11-svelte",
-            "stars": 1439,
+            "stars": 1438,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2510,
+            "stars": 2512,
             "topics": [
               "portfolio"
             ]
@@ -1985,7 +1985,7 @@
             "id": 671272582,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T03:03:59Z",
+            "last_commit": "2026-09-30T09:17:13Z",
             "open_issues": 0,
             "owner": "mellyeliu",
             "repo": "mellyeliu.online",
@@ -2760,8 +2760,8 @@
             "id": 754943358,
             "language": "HTML",
             "license": "GPL-2.0",
-            "last_commit": "2026-01-13T03:29:54Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-30T01:16:09Z",
+            "open_issues": 1,
             "owner": "M-Valentino",
             "repo": "sacredOS",
             "stars": 22,
@@ -2797,11 +2797,11 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-29T07:08:52Z",
+            "last_commit": "2026-09-30T15:24:49Z",
             "open_issues": 27,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1263,
+            "stars": 1262,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-29T17:13:04Z",
+            "last_commit": "2026-09-29T23:44:26Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3408,7 +3408,7 @@
             "id": 838188931,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-09-24T10:54:24Z",
+            "last_commit": "2026-09-30T14:58:26Z",
             "open_issues": 0,
             "owner": "Codfisher",
             "repo": "cod-aquarium",
@@ -3455,7 +3455,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T03:01:02Z",
+            "last_commit": "2026-09-30T03:02:17Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -3774,7 +3774,7 @@
             "open_issues": 31,
             "owner": "azayrahmad",
             "repo": "win98-web",
-            "stars": 17,
+            "stars": 18,
             "topics": [
               "microsoft-plus",
               "nostalgia",
@@ -4104,7 +4104,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-18T21:38:54Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "Reeyuki",
             "repo": "YukiOS",
             "stars": 55,
@@ -4149,7 +4149,7 @@
             "open_issues": 0,
             "owner": "ikerperez12",
             "repo": "IP-OS-LINUX",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "desktop",
               "glassmorphism",
@@ -4431,7 +4431,7 @@
             "open_issues": 1,
             "owner": "chengmarc",
             "repo": "chengmarc.github.io",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "bookmark-manager",
               "bookmarks",
@@ -4457,7 +4457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T19:22:45.775Z",
+    "last_updated": "2026-09-30T19:14:01.508Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
