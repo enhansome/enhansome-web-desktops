@@ -61,7 +61,7 @@
             "open_issues": 177,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11277,
+            "stars": 11278,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7079,
+            "stars": 7080,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -511,11 +511,11 @@
             "id": 286179743,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T15:24:52Z",
-            "open_issues": 36,
+            "last_commit": "2026-10-02T05:42:15Z",
+            "open_issues": 34,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13044,
+            "stars": 13045,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3502,
+            "stars": 3501,
             "topics": [
               "portfolio",
               "react",
@@ -769,7 +769,7 @@
             "open_issues": 45,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2673,
+            "stars": 2674,
             "topics": [
               "macos",
               "svelte"
@@ -1110,7 +1110,7 @@
             "open_issues": 5,
             "owner": "PiyushSuthar",
             "repo": "Windows-11-Web",
-            "stars": 598,
+            "stars": 597,
             "topics": [
               "hacktoberfest",
               "typescript",
@@ -1427,7 +1427,7 @@
             "open_issues": 0,
             "owner": "g0d",
             "repo": "GreyOS",
-            "stars": 167,
+            "stars": 166,
             "topics": [
               "cloud",
               "html5",
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2513,
+            "stars": 2516,
             "topics": [
               "portfolio"
             ]
@@ -1479,7 +1479,7 @@
             "open_issues": 1,
             "owner": "ducbao414",
             "repo": "win32.run",
-            "stars": 541,
+            "stars": 542,
             "topics": [
               "browser-os",
               "svelte",
@@ -1855,7 +1855,7 @@
             "open_issues": 10,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "desktop",
               "desktop-environment",
@@ -2035,7 +2035,7 @@
             "open_issues": 1,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6393,
+            "stars": 6392,
             "topics": [
               "archive",
               "collaboration",
@@ -2393,7 +2393,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 515,
+            "stars": 516,
             "topics": [
               "linux",
               "v86",
@@ -2493,7 +2493,7 @@
             "id": 29561660,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-10T06:08:56Z",
+            "last_commit": "2026-10-02T11:03:15Z",
             "open_issues": 1,
             "owner": "WesSouza",
             "repo": "wes.dev",
@@ -2797,8 +2797,8 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-01T19:15:19Z",
-            "open_issues": 27,
+            "last_commit": "2026-10-02T19:04:09Z",
+            "open_issues": 32,
             "owner": "ryokun6",
             "repo": "ryos",
             "stars": 1263,
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-01T17:03:16Z",
+            "last_commit": "2026-10-02T12:50:49Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -2916,30 +2916,6 @@
               "wasm",
               "workbench",
               "worker"
-            ]
-          },
-          "first_seen": "2026-08-28T23:31:57.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "Areen's Portfolio",
-          "description": "available",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "fun portfolio project - looks like the windowsxp experience",
-            "homepage": "https://www.areen.xyz",
-            "id": 889520615,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2024-11-16T15:10:53Z",
-            "open_issues": 0,
-            "owner": "areenoverclouds",
-            "repo": "xp-portfolio-public",
-            "stars": 6,
-            "topics": [
-              "portfolio-website",
-              "windows-xp"
             ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -3051,45 +3027,11 @@
             "language": "JavaScript",
             "license": null,
             "last_commit": "2026-09-01T14:18:08Z",
-            "open_issues": 15,
+            "open_issues": 18,
             "owner": "hatimbenhsain",
             "repo": "hatimbenhsain.github.io",
             "stars": 2,
             "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:57.630Z"
-        },
-        {
-          "node_type": "item",
-          "title": "4ndyOS",
-          "description": "available",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "4ndyOS is a personal operating system project created by a student named Andy—a self-proclaimed lazy developer who never sleeps (seriously, does this guy even blink?).  To see the project,click the link 👇below👇",
-            "homepage": "https://andy64lol.github.io/4ndyOS/",
-            "id": 914545345,
-            "language": "HTML",
-            "license": "MIT",
-            "last_commit": "2026-02-18T21:19:55Z",
-            "open_issues": 0,
-            "owner": "andy64lol",
-            "repo": "4ndyOS",
-            "stars": 3,
-            "topics": [
-              "games",
-              "html",
-              "html-css-javascript",
-              "html-project",
-              "html-projects",
-              "html5",
-              "lazy",
-              "newbie",
-              "os-simulation",
-              "os-simulator",
-              "student",
-              "student-made"
-            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -3135,7 +3077,7 @@
             "id": 275630486,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-01T19:04:19Z",
+            "last_commit": "2026-10-02T17:45:30Z",
             "open_issues": 1,
             "owner": "peaBerberian",
             "repo": "peaberberian.github.io",
@@ -3387,7 +3329,7 @@
             "id": 1074851309,
             "language": "HTML",
             "license": "MIT",
-            "last_commit": "2026-09-14T19:51:52Z",
+            "last_commit": "2026-10-02T01:29:09Z",
             "open_issues": 1,
             "owner": "Romariojveloso-fiteclabs",
             "repo": "portifolio",
@@ -3455,7 +3397,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T03:05:20Z",
+            "last_commit": "2026-10-02T03:01:50Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -4451,13 +4393,47 @@
             ]
           },
           "first_seen": "2026-09-23T18:22:35.652Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Fuheshka",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Interactive Frutiger Aero Web OS Portfolio for Technical Artist & Game Developer",
+            "homepage": "https://fuheshka.github.io/portfolio/",
+            "id": 995618542,
+            "language": "JavaScript",
+            "license": "MIT",
+            "last_commit": "2026-07-28T17:58:34Z",
+            "open_issues": 0,
+            "owner": "Fuheshka",
+            "repo": "portfolio",
+            "stars": 0,
+            "topics": [
+              "desktop-ui",
+              "framer-motion",
+              "frutiger-aero",
+              "game-developer-portfolio",
+              "glassmorphism",
+              "portfolio",
+              "portfolio-website",
+              "react",
+              "tailwindcss",
+              "technical-art",
+              "vite",
+              "web-os"
+            ]
+          },
+          "first_seen": "2026-10-02T19:14:49.373Z"
         }
       ],
       "title": "Websites"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T19:30:09.309Z",
+    "last_updated": "2026-10-02T19:14:49.373Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4465,11 +4441,11 @@
       "id": 213751251,
       "language": "Ruby",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-01T10:19:02Z",
+      "last_commit": "2026-10-02T08:59:42Z",
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2102,
+      "stars": 2104,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4490,7 +4466,7 @@
         "windows98"
       ]
     },
-    "original_repository_sha": "2e815aba13e57aff7043beaeccdd5f6d371e7dfa",
+    "original_repository_sha": "48666f2020803c0aeeaab65f84c19805b93e4988",
     "enhanced_repository": "enhansome/enhansome-web-desktops",
     "enhanced_repository_description": null,
     "title": "Awesome Web Desktops with stars"
