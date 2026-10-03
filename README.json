@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7080,
+            "stars": 7079,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5865,
+            "stars": 5866,
             "topics": [
               "hooks",
               "javascript",
@@ -511,8 +511,8 @@
             "id": 286179743,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T05:42:15Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-03T15:52:18Z",
+            "open_issues": 24,
             "owner": "DustinBrett",
             "repo": "daedalOS",
             "stars": 13045,
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2516,
+            "stars": 2519,
             "topics": [
               "portfolio"
             ]
@@ -2797,7 +2797,7 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T04:37:57Z",
+            "last_commit": "2026-10-03T09:19:49Z",
             "open_issues": 32,
             "owner": "ryokun6",
             "repo": "ryos",
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:29:14Z",
+            "last_commit": "2026-10-03T13:48:55Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3077,7 +3077,7 @@
             "id": 275630486,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-03T00:02:17Z",
+            "last_commit": "2026-10-03T14:11:31Z",
             "open_issues": 1,
             "owner": "peaBerberian",
             "repo": "peaberberian.github.io",
@@ -4433,7 +4433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:16:25.086Z",
+    "last_updated": "2026-10-03T17:57:18.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
