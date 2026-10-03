@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1427,
+            "stars": 1428,
             "topics": [
               "classic",
               "desktop",
@@ -655,7 +655,7 @@
             "open_issues": 23,
             "owner": "remigallego",
             "repo": "winampify",
-            "stars": 256,
+            "stars": 255,
             "topics": [
               "audio",
               "css-in-js",
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3501,
+            "stars": 3500,
             "topics": [
               "portfolio",
               "react",
@@ -2035,7 +2035,7 @@
             "open_issues": 1,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6392,
+            "stars": 6393,
             "topics": [
               "archive",
               "collaboration",
@@ -2797,7 +2797,7 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-02T19:04:09Z",
+            "last_commit": "2026-10-03T04:37:57Z",
             "open_issues": 32,
             "owner": "ryokun6",
             "repo": "ryos",
@@ -2854,7 +2854,7 @@
             "open_issues": 0,
             "owner": "CryptoStephan",
             "repo": "Stephans-OS",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "desktop-environment",
               "optimization",
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-02T12:50:49Z",
+            "last_commit": "2026-10-03T00:29:14Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3077,7 +3077,7 @@
             "id": 275630486,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-02T17:45:30Z",
+            "last_commit": "2026-10-03T00:02:17Z",
             "open_issues": 1,
             "owner": "peaBerberian",
             "repo": "peaberberian.github.io",
@@ -3397,7 +3397,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T03:01:50Z",
+            "last_commit": "2026-10-03T03:11:44Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -4046,7 +4046,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-18T21:38:54Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "Reeyuki",
             "repo": "YukiOS",
             "stars": 55,
@@ -4433,7 +4433,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:14:49.373Z",
+    "last_updated": "2026-10-03T05:16:25.086Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4445,7 +4445,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2104,
+      "stars": 2105,
       "topics": [
         "awesome",
         "awesome-list",
