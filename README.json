@@ -61,7 +61,7 @@
             "open_issues": 177,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11280,
+            "stars": 11287,
             "topics": [
               "html5",
               "javascript",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1429,
+            "stars": 1426,
             "topics": [
               "classic",
               "desktop",
@@ -270,7 +270,7 @@
             "open_issues": 19,
             "owner": "Emupedia",
             "repo": "emupedia.github.io",
-            "stars": 1335,
+            "stars": 1334,
             "topics": [
               "desktop",
               "dosbox",
@@ -511,11 +511,11 @@
             "id": 286179743,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T13:59:04Z",
-            "open_issues": 3,
+            "last_commit": "2026-10-04T18:47:44Z",
+            "open_issues": 2,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13046,
+            "stars": 13044,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -655,7 +655,7 @@
             "open_issues": 23,
             "owner": "remigallego",
             "repo": "winampify",
-            "stars": 254,
+            "stars": 255,
             "topics": [
               "audio",
               "css-in-js",
@@ -793,7 +793,7 @@
             "open_issues": 5,
             "owner": "GoodManWEN",
             "repo": "GoodManWEN.github.io",
-            "stars": 1049,
+            "stars": 1048,
             "topics": [
               "blog",
               "deepin",
@@ -952,7 +952,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9660,
+            "stars": 9662,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1015,8 +1015,8 @@
             "id": 232174146,
             "language": "HTML",
             "license": "Unlicense",
-            "last_commit": "2026-09-29T04:47:04Z",
-            "open_issues": 7,
+            "last_commit": "2026-10-04T23:05:48Z",
+            "open_issues": 6,
             "owner": "Keeping-History",
             "repo": "rt911",
             "stars": 14,
@@ -1647,7 +1647,7 @@
             "open_issues": 0,
             "owner": "zeondev",
             "repo": "pluto",
-            "stars": 100,
+            "stars": 101,
             "topics": [
               "customizable",
               "html",
@@ -1855,7 +1855,7 @@
             "open_issues": 10,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
-            "stars": 359,
+            "stars": 360,
             "topics": [
               "desktop",
               "desktop-environment",
@@ -2035,7 +2035,7 @@
             "open_issues": 1,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6393,
+            "stars": 6392,
             "topics": [
               "archive",
               "collaboration",
@@ -2361,7 +2361,7 @@
             "open_issues": 0,
             "owner": "runnova",
             "repo": "NovaOS",
-            "stars": 28,
+            "stars": 30,
             "topics": [
               "browser-os",
               "client-side",
@@ -2523,7 +2523,7 @@
             "open_issues": 3,
             "owner": "MishanPoudel",
             "repo": "Windows11-3.0",
-            "stars": 829,
+            "stars": 828,
             "topics": [
               "clone-app",
               "portfolio",
@@ -2797,7 +2797,7 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T09:19:49Z",
+            "last_commit": "2026-10-05T00:37:36Z",
             "open_issues": 32,
             "owner": "ryokun6",
             "repo": "ryos",
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-04T00:32:28Z",
+            "last_commit": "2026-10-05T17:50:44Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3223,7 +3223,7 @@
             "id": 972336097,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-09-22T21:45:14Z",
+            "last_commit": "2026-10-05T12:14:02Z",
             "open_issues": 1,
             "owner": "TerbiumOS",
             "repo": "web-v2",
@@ -3397,7 +3397,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T03:57:30Z",
+            "last_commit": "2026-10-05T03:06:34Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -3491,7 +3491,7 @@
             "open_issues": 13,
             "owner": "mental-os",
             "repo": "Aurora-OS.js",
-            "stars": 744,
+            "stars": 745,
             "topics": [
               "browser-game",
               "contributions-welcome",
@@ -3660,7 +3660,7 @@
             "open_issues": 11,
             "owner": "lqs",
             "repo": "retrotick",
-            "stars": 307,
+            "stars": 306,
             "topics": [
               "emulator",
               "win16",
@@ -3818,7 +3818,7 @@
             "open_issues": 0,
             "owner": "igtoth",
             "repo": "cde-motif-desktop",
-            "stars": 24,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -4049,7 +4049,7 @@
             "open_issues": 3,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 55,
+            "stars": 56,
             "topics": [
               "browser-os",
               "client-only",
@@ -4334,7 +4334,7 @@
             "id": 1285734452,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-03T22:11:24Z",
+            "last_commit": "2026-10-05T10:24:39Z",
             "open_issues": 0,
             "owner": "surfine",
             "repo": "AI-System-6",
@@ -4364,7 +4364,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Bookmark OS: Your bookmarks as a desktop, from any browser, no account needed. ",
+            "description": "Bookmark OS: Your bookmarks as a desktop, from any browser, no account needed. Available on Chrome Web Store and Firefox Add-ons",
             "homepage": "https://chengmarc.com",
             "id": 1379807841,
             "language": "JavaScript",
@@ -4427,13 +4427,117 @@
             ]
           },
           "first_seen": "2026-10-02T19:14:49.373Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wiesław's Mac OS 9",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Mac OS 9 Platinum desktop recreated in the browser with HTML, CSS and JavaScript ES modules — spatial Finder, apps, control panels, persistent virtual disk and a WebGPU/WebGL2/Canvas2D compositor.",
+            "homepage": "https://wieslawsoltes.github.io/MacOS9/",
+            "id": 1404362861,
+            "language": "TypeScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-04T12:22:34Z",
+            "open_issues": 0,
+            "owner": "wieslawsoltes",
+            "repo": "MacOS9",
+            "stars": 1,
+            "topics": [
+              "canvas2d",
+              "classic-mac-os",
+              "desktop-environment",
+              "es-modules",
+              "finder",
+              "github-pages",
+              "indexeddb",
+              "javascript",
+              "mac-os-9",
+              "macos",
+              "platinum",
+              "retro",
+              "web-desktop",
+              "webgl2",
+              "webgpu"
+            ]
+          },
+          "first_seen": "2026-10-05T21:29:02.062Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wiesław's Windows Vista",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Windows Vista Aero desktop recreated in the browser with HTML, CSS and JavaScript — 43 applications and system tools, 12 ESM packages and a WebGPU renderer with WebGL2, Canvas 2D and CPU fallbacks.",
+            "homepage": "https://wieslawsoltes.github.io/WinVista/",
+            "id": 1404636692,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-04T16:56:31Z",
+            "open_issues": 0,
+            "owner": "wieslawsoltes",
+            "repo": "WinVista",
+            "stars": 2,
+            "topics": [
+              "aero",
+              "browser-os",
+              "desktop-environment",
+              "es-modules",
+              "github-pages",
+              "javascript",
+              "retro",
+              "web-desktop",
+              "webgl2",
+              "webgpu",
+              "windows",
+              "windows-vista"
+            ]
+          },
+          "first_seen": "2026-10-05T21:29:02.062Z"
+        },
+        {
+          "node_type": "item",
+          "title": "Wiesław's Windows 3.1",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Windows 3.1 recreated in the browser with HTML, CSS and JavaScript ES modules — Program Manager, 28 applications, a persistent virtual C: drive and a WebGPU renderer with fallbacks.",
+            "homepage": "https://wieslawsoltes.github.io/Win31/",
+            "id": 1404636306,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-10-04T16:55:28Z",
+            "open_issues": 0,
+            "owner": "wieslawsoltes",
+            "repo": "Win31",
+            "stars": 2,
+            "topics": [
+              "browser-os",
+              "desktop-environment",
+              "es-modules",
+              "github-pages",
+              "javascript",
+              "program-manager",
+              "retro",
+              "web-desktop",
+              "webgpu",
+              "windows",
+              "windows-3-1"
+            ]
+          },
+          "first_seen": "2026-10-05T21:29:02.062Z"
         }
       ],
       "title": "Websites"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T18:07:53.480Z",
+    "last_updated": "2026-10-05T21:29:02.062Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4441,7 +4545,7 @@
       "id": 213751251,
       "language": "Ruby",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-02T08:59:42Z",
+      "last_commit": "2026-10-05T11:39:52Z",
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
@@ -4466,7 +4570,7 @@
         "windows98"
       ]
     },
-    "original_repository_sha": "48666f2020803c0aeeaab65f84c19805b93e4988",
+    "original_repository_sha": "045e671263183b450220bd0aed6c6436b3983ada",
     "enhanced_repository": "enhansome/enhansome-web-desktops",
     "enhanced_repository_description": null,
     "title": "Awesome Web Desktops with stars"
