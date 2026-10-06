@@ -61,7 +61,7 @@
             "open_issues": 177,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11287,
+            "stars": 11285,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7081,
+            "stars": 7080,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1427,
+            "stars": 1428,
             "topics": [
               "classic",
               "desktop",
@@ -515,7 +515,7 @@
             "open_issues": 1,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13046,
+            "stars": 13045,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -984,7 +984,7 @@
             "open_issues": 1,
             "owner": "DonChiaQE",
             "repo": "win95",
-            "stars": 276,
+            "stars": 277,
             "topics": [
               "bable",
               "css",
@@ -1270,7 +1270,7 @@
             "open_issues": 5,
             "owner": "yashash-pugalia",
             "repo": "win11-svelte",
-            "stars": 1439,
+            "stars": 1438,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1985,7 +1985,7 @@
             "id": 671272582,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T10:23:28Z",
+            "last_commit": "2026-10-06T15:56:22Z",
             "open_issues": 0,
             "owner": "mellyeliu",
             "repo": "mellyeliu.online",
@@ -3077,7 +3077,7 @@
             "id": 275630486,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-03T14:11:31Z",
+            "last_commit": "2026-10-06T18:09:51Z",
             "open_issues": 1,
             "owner": "peaBerberian",
             "repo": "peaberberian.github.io",
@@ -3397,7 +3397,7 @@
             "id": 664363491,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T03:02:41Z",
+            "last_commit": "2026-10-06T15:27:08Z",
             "open_issues": 0,
             "owner": "DamianB-BitFlipper",
             "repo": "DamianB-BitFlipper.github.io",
@@ -3660,7 +3660,7 @@
             "open_issues": 11,
             "owner": "lqs",
             "repo": "retrotick",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "emulator",
               "win16",
@@ -3712,8 +3712,8 @@
             "id": 1030910645,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-05-15T22:35:09Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-06T13:54:39Z",
+            "open_issues": 32,
             "owner": "azayrahmad",
             "repo": "win98-web",
             "stars": 18,
@@ -4049,7 +4049,7 @@
             "open_issues": 3,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 56,
+            "stars": 57,
             "topics": [
               "browser-os",
               "client-only",
@@ -4373,7 +4373,7 @@
             "open_issues": 1,
             "owner": "chengmarc",
             "repo": "chengmarc.github.io",
-            "stars": 36,
+            "stars": 37,
             "topics": [
               "bookmark-manager",
               "bookmarks",
@@ -4444,7 +4444,7 @@
             "open_issues": 0,
             "owner": "wieslawsoltes",
             "repo": "MacOS9",
-            "stars": 1,
+            "stars": 2,
             "topics": [
               "canvas2d",
               "classic-mac-os",
@@ -4481,7 +4481,7 @@
             "open_issues": 0,
             "owner": "wieslawsoltes",
             "repo": "WinVista",
-            "stars": 2,
+            "stars": 3,
             "topics": [
               "aero",
               "browser-os",
@@ -4537,7 +4537,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:00:44.015Z",
+    "last_updated": "2026-10-06T19:29:59.742Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
