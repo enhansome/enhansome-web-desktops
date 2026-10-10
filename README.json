@@ -57,11 +57,11 @@
             "id": 26149893,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-28T23:41:43Z",
-            "open_issues": 178,
+            "last_commit": "2026-10-10T18:22:01Z",
+            "open_issues": 177,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11289,
+            "stars": 11290,
             "topics": [
               "html5",
               "javascript",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1430,
+            "stars": 1431,
             "topics": [
               "classic",
               "desktop",
@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5864,
+            "stars": 5865,
             "topics": [
               "hooks",
               "javascript",
@@ -511,11 +511,11 @@
             "id": 286179743,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-06T05:43:10Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-10T16:08:57Z",
+            "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13046,
+            "stars": 13047,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2529,
+            "stars": 2531,
             "topics": [
               "portfolio"
             ]
@@ -2393,7 +2393,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 520,
+            "stars": 521,
             "topics": [
               "linux",
               "v86",
@@ -2801,7 +2801,7 @@
             "open_issues": 34,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1263,
+            "stars": 1264,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T15:03:12Z",
+            "last_commit": "2026-10-10T16:46:27Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -4024,11 +4024,11 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-08T22:58:23Z",
+            "last_commit": "2026-10-09T20:33:40Z",
             "open_issues": 3,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "browser-os",
               "client-only",
@@ -4313,7 +4313,7 @@
             "id": 1285734452,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T18:50:29Z",
+            "last_commit": "2026-10-10T14:23:29Z",
             "open_issues": 0,
             "owner": "surfine",
             "repo": "AI-System-6",
@@ -4352,7 +4352,7 @@
             "open_issues": 1,
             "owner": "chengmarc",
             "repo": "chengmarc.github.io",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "bookmark-manager",
               "bookmarks",
@@ -4423,7 +4423,7 @@
             "open_issues": 0,
             "owner": "wieslawsoltes",
             "repo": "MacOS9",
-            "stars": 7,
+            "stars": 8,
             "topics": [
               "canvas2d",
               "classic-mac-os",
@@ -4460,7 +4460,7 @@
             "open_issues": 0,
             "owner": "wieslawsoltes",
             "repo": "WinVista",
-            "stars": 5,
+            "stars": 6,
             "topics": [
               "aero",
               "browser-os",
@@ -4516,7 +4516,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T19:31:12.465Z",
+    "last_updated": "2026-10-10T18:31:30.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4525,10 +4525,10 @@
       "language": "Ruby",
       "license": "CC0-1.0",
       "last_commit": "2026-10-08T16:54:44Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2113,
+      "stars": 2115,
       "topics": [
         "awesome",
         "awesome-list",
