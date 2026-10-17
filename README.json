@@ -57,11 +57,11 @@
             "id": 26149893,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T17:13:56Z",
+            "last_commit": "2026-10-16T20:35:41Z",
             "open_issues": 185,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11299,
+            "stars": 11301,
             "topics": [
               "html5",
               "javascript",
@@ -515,7 +515,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13056,
+            "stars": 13057,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -625,7 +625,7 @@
             "open_issues": 4,
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4324,
+            "stars": 4323,
             "topics": [
               "nextjs",
               "personal-portfolio",
@@ -952,7 +952,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9652,
+            "stars": 9653,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1040,7 +1040,7 @@
             "open_issues": 0,
             "owner": "KilledByAPixel",
             "repo": "OS13k",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "codegolf",
               "dwitter",
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2542,
+            "stars": 2544,
             "topics": [
               "portfolio"
             ]
@@ -1855,7 +1855,7 @@
             "open_issues": 10,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
-            "stars": 359,
+            "stars": 358,
             "topics": [
               "desktop",
               "desktop-environment",
@@ -2035,7 +2035,7 @@
             "open_issues": 2,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6394,
+            "stars": 6396,
             "topics": [
               "archive",
               "collaboration",
@@ -2361,7 +2361,7 @@
             "open_issues": 0,
             "owner": "runnova",
             "repo": "NovaOS",
-            "stars": 39,
+            "stars": 40,
             "topics": [
               "browser-os",
               "client-side",
@@ -2801,7 +2801,7 @@
             "open_issues": 20,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1268,
+            "stars": 1269,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2898,11 +2898,11 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T17:57:39Z",
+            "last_commit": "2026-10-17T10:06:58Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
-            "stars": 74,
+            "stars": 73,
             "topics": [
               "amiga",
               "amiga-topaz",
@@ -4024,8 +4024,8 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-09T20:33:40Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-17T00:54:01Z",
+            "open_issues": 4,
             "owner": "Reeyuki",
             "repo": "YukiOS",
             "stars": 63,
@@ -4531,7 +4531,7 @@
             "open_issues": 0,
             "owner": "PhreshOS",
             "repo": "system",
-            "stars": 281,
+            "stars": 283,
             "topics": [
               "desktop-environment",
               "phreshos",
@@ -4547,7 +4547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T17:59:24.586Z",
+    "last_updated": "2026-10-17T17:06:13.828Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
