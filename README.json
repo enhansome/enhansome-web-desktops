@@ -57,11 +57,11 @@
             "id": 26149893,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-16T20:35:41Z",
+            "last_commit": "2026-10-17T19:37:47Z",
             "open_issues": 185,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11301,
+            "stars": 11303,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7084,
+            "stars": 7085,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -515,7 +515,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13057,
+            "stars": 13056,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3502,
+            "stars": 3503,
             "topics": [
               "portfolio",
               "react",
@@ -769,7 +769,7 @@
             "open_issues": 47,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2679,
+            "stars": 2680,
             "topics": [
               "macos",
               "svelte"
@@ -887,7 +887,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-10-16T10:53:27Z",
+            "last_commit": "2026-10-18T11:15:02Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2544,
+            "stars": 2549,
             "topics": [
               "portfolio"
             ]
@@ -1708,7 +1708,7 @@
             "open_issues": 3,
             "owner": "Ingan121",
             "repo": "ModernActiveDesktop",
-            "stars": 22,
+            "stars": 23,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -1855,7 +1855,7 @@
             "open_issues": 10,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
-            "stars": 358,
+            "stars": 359,
             "topics": [
               "desktop",
               "desktop-environment",
@@ -2361,7 +2361,7 @@
             "open_issues": 0,
             "owner": "runnova",
             "repo": "NovaOS",
-            "stars": 40,
+            "stars": 41,
             "topics": [
               "browser-os",
               "client-side",
@@ -2898,7 +2898,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T10:06:58Z",
+            "last_commit": "2026-10-17T20:30:44Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3470,7 +3470,7 @@
             "open_issues": 13,
             "owner": "mental-os",
             "repo": "Aurora-OS.js",
-            "stars": 743,
+            "stars": 744,
             "topics": [
               "browser-game",
               "contributions-welcome",
@@ -4024,7 +4024,7 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T00:54:01Z",
+            "last_commit": "2026-10-17T23:23:40Z",
             "open_issues": 4,
             "owner": "Reeyuki",
             "repo": "YukiOS",
@@ -4175,7 +4175,7 @@
             "open_issues": 0,
             "owner": "ParkerrDev",
             "repo": "TempleOS-Web",
-            "stars": 5,
+            "stars": 7,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -4498,7 +4498,7 @@
             "open_issues": 0,
             "owner": "wieslawsoltes",
             "repo": "Win31",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "browser-os",
               "desktop-environment",
@@ -4531,7 +4531,7 @@
             "open_issues": 0,
             "owner": "PhreshOS",
             "repo": "system",
-            "stars": 283,
+            "stars": 285,
             "topics": [
               "desktop-environment",
               "phreshos",
@@ -4547,7 +4547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T17:06:13.828Z",
+    "last_updated": "2026-10-18T17:19:12.170Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
