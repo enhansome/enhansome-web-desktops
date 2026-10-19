@@ -61,7 +61,7 @@
             "open_issues": 185,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11303,
+            "stars": 11307,
             "topics": [
               "html5",
               "javascript",
@@ -625,7 +625,7 @@
             "open_issues": 4,
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4323,
+            "stars": 4325,
             "topics": [
               "nextjs",
               "personal-portfolio",
@@ -887,7 +887,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-10-18T11:15:02Z",
+            "last_commit": "2026-10-19T18:32:43Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -952,7 +952,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9653,
+            "stars": 9655,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1212,7 +1212,7 @@
             "open_issues": 1,
             "owner": "chrisbinsunny",
             "repo": "chrishub",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "apple",
               "bigsur",
@@ -1294,7 +1294,7 @@
             "language": "HTML",
             "license": "NOASSERTION",
             "last_commit": "2024-09-30T17:33:58Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "malisipi",
             "repo": "ubuntu-tour",
             "stars": 166,
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2549,
+            "stars": 2554,
             "topics": [
               "portfolio"
             ]
@@ -2035,7 +2035,7 @@
             "open_issues": 2,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6396,
+            "stars": 6398,
             "topics": [
               "archive",
               "collaboration",
@@ -2393,7 +2393,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 524,
+            "stars": 526,
             "topics": [
               "linux",
               "v86",
@@ -3639,7 +3639,7 @@
             "open_issues": 9,
             "owner": "lqs",
             "repo": "retrotick",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "emulator",
               "win16",
@@ -3930,8 +3930,8 @@
             "id": 1127621701,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-12T07:43:47Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-19T08:24:15Z",
+            "open_issues": 1,
             "owner": "zixing8284",
             "repo": "murasaki",
             "stars": 2,
@@ -4024,11 +4024,11 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-17T23:23:40Z",
+            "last_commit": "2026-10-18T23:06:04Z",
             "open_issues": 4,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 63,
+            "stars": 64,
             "topics": [
               "browser-os",
               "client-only",
@@ -4313,7 +4313,7 @@
             "id": 1285734452,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-14T10:46:12Z",
+            "last_commit": "2026-10-19T10:11:56Z",
             "open_issues": 0,
             "owner": "surfine",
             "repo": "AI-System-6",
@@ -4531,7 +4531,7 @@
             "open_issues": 0,
             "owner": "PhreshOS",
             "repo": "system",
-            "stars": 285,
+            "stars": 288,
             "topics": [
               "desktop-environment",
               "phreshos",
@@ -4547,7 +4547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T17:19:12.170Z",
+    "last_updated": "2026-10-19T19:52:09.232Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
