@@ -61,7 +61,7 @@
             "open_issues": 185,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11308,
+            "stars": 11309,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7085,
+            "stars": 7086,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1434,
+            "stars": 1435,
             "topics": [
               "classic",
               "desktop",
@@ -270,7 +270,7 @@
             "open_issues": 19,
             "owner": "Emupedia",
             "repo": "emupedia.github.io",
-            "stars": 1338,
+            "stars": 1339,
             "topics": [
               "desktop",
               "dosbox",
@@ -515,7 +515,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13063,
+            "stars": 13066,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3503,
+            "stars": 3506,
             "topics": [
               "portfolio",
               "react",
@@ -887,7 +887,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-10-22T17:22:37Z",
+            "last_commit": "2026-10-23T18:08:07Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -952,7 +952,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9658,
+            "stars": 9657,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1155,8 +1155,8 @@
             "id": 304706014,
             "language": "TypeScript",
             "license": "Unlicense",
-            "last_commit": "2026-10-20T13:43:05Z",
-            "open_issues": 0,
+            "last_commit": "2026-10-23T09:09:14Z",
+            "open_issues": 1,
             "owner": "robbiebyrd",
             "repo": "classicy",
             "stars": 154,
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2559,
+            "stars": 2561,
             "topics": [
               "portfolio"
             ]
@@ -2797,11 +2797,11 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-22T18:25:39Z",
-            "open_issues": 15,
+            "last_commit": "2026-10-23T17:50:55Z",
+            "open_issues": 17,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1271,
+            "stars": 1273,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2898,8 +2898,8 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-22T16:32:16Z",
-            "open_issues": 13,
+            "last_commit": "2026-10-23T14:59:37Z",
+            "open_issues": 16,
             "owner": "ThornWalli",
             "repo": "web-workbench",
             "stars": 73,
@@ -3470,7 +3470,7 @@
             "open_issues": 13,
             "owner": "mental-os",
             "repo": "Aurora-OS.js",
-            "stars": 745,
+            "stars": 746,
             "topics": [
               "browser-game",
               "contributions-welcome",
@@ -3695,7 +3695,7 @@
             "open_issues": 32,
             "owner": "azayrahmad",
             "repo": "win98-web",
-            "stars": 22,
+            "stars": 23,
             "topics": [
               "microsoft-plus",
               "nostalgia",
@@ -4531,7 +4531,7 @@
             "open_issues": 0,
             "owner": "PhreshOS",
             "repo": "system",
-            "stars": 296,
+            "stars": 297,
             "topics": [
               "desktop-environment",
               "phreshos",
@@ -4547,7 +4547,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T18:29:36.482Z",
+    "last_updated": "2026-10-23T18:16:30.432Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4559,7 +4559,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2124,
+      "stars": 2126,
       "topics": [
         "awesome",
         "awesome-list",
