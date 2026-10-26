@@ -57,11 +57,11 @@
             "id": 26149893,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-21T00:38:51Z",
-            "open_issues": 186,
+            "last_commit": "2026-10-26T02:43:42Z",
+            "open_issues": 188,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11313,
+            "stars": 11317,
             "topics": [
               "html5",
               "javascript",
@@ -270,7 +270,7 @@
             "open_issues": 19,
             "owner": "Emupedia",
             "repo": "emupedia.github.io",
-            "stars": 1339,
+            "stars": 1341,
             "topics": [
               "desktop",
               "dosbox",
@@ -515,7 +515,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13069,
+            "stars": 13072,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -625,7 +625,7 @@
             "open_issues": 4,
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4326,
+            "stars": 4324,
             "topics": [
               "nextjs",
               "personal-portfolio",
@@ -741,7 +741,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3506,
+            "stars": 3507,
             "topics": [
               "portfolio",
               "react",
@@ -887,11 +887,11 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-10-25T15:20:54Z",
+            "last_commit": "2026-10-25T19:46:20Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
-            "stars": 136,
+            "stars": 137,
             "topics": [
               "coffeescript",
               "dashboard",
@@ -1015,8 +1015,8 @@
             "id": 232174146,
             "language": "HTML",
             "license": "Unlicense",
-            "last_commit": "2026-10-21T14:11:50Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-26T17:57:53Z",
+            "open_issues": 0,
             "owner": "Keeping-History",
             "repo": "rt911",
             "stars": 14,
@@ -1243,8 +1243,8 @@
             "id": 200924138,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-03-24T01:40:39Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-26T11:21:37Z",
+            "open_issues": 0,
             "owner": "ZeusOfTheCrows",
             "repo": "zeusofthecrows.github.io",
             "stars": 6,
@@ -1456,7 +1456,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2562,
+            "stars": 2563,
             "topics": [
               "portfolio"
             ]
@@ -1767,7 +1767,7 @@
             "id": 757278393,
             "language": "Astro",
             "license": null,
-            "last_commit": "2026-05-12T13:15:30Z",
+            "last_commit": "2026-10-26T12:48:09Z",
             "open_issues": 35,
             "owner": "bamanczak",
             "repo": "bruncio",
@@ -1851,8 +1851,8 @@
             "id": 666135770,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-06-20T11:19:36Z",
-            "open_issues": 10,
+            "last_commit": "2026-10-26T10:55:24Z",
+            "open_issues": 7,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
             "stars": 359,
@@ -2035,7 +2035,7 @@
             "open_issues": 2,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6398,
+            "stars": 6399,
             "topics": [
               "archive",
               "collaboration",
@@ -2361,7 +2361,7 @@
             "open_issues": 0,
             "owner": "runnova",
             "repo": "NovaOS",
-            "stars": 42,
+            "stars": 43,
             "topics": [
               "browser-os",
               "client-side",
@@ -2797,11 +2797,11 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-25T17:29:27Z",
+            "last_commit": "2026-10-25T18:31:35Z",
             "open_issues": 18,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1274,
+            "stars": 1277,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2898,11 +2898,11 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-24T21:40:25Z",
+            "last_commit": "2026-10-26T19:08:18Z",
             "open_issues": 16,
             "owner": "ThornWalli",
             "repo": "web-workbench",
-            "stars": 73,
+            "stars": 74,
             "topics": [
               "amiga",
               "amiga-topaz",
@@ -3470,7 +3470,7 @@
             "open_issues": 13,
             "owner": "mental-os",
             "repo": "Aurora-OS.js",
-            "stars": 748,
+            "stars": 750,
             "topics": [
               "browser-game",
               "contributions-welcome",
@@ -3896,7 +3896,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Personal project portfolio site",
+            "description": "Personal project portfolio application designed as a webtop system. Features an applet system and user configuration. Absolutely nostalgic.",
             "homepage": "https://www.danielbrendel.com",
             "id": 346096284,
             "language": "PHP",
@@ -3913,6 +3913,7 @@
               "portfolio-project",
               "retro",
               "web-desktop",
+              "webos",
               "webtop"
             ]
           },
@@ -4024,8 +4025,8 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-25T13:10:59Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-25T18:54:06Z",
+            "open_issues": 3,
             "owner": "Reeyuki",
             "repo": "YukiOS",
             "stars": 67,
@@ -4070,7 +4071,7 @@
             "open_issues": 0,
             "owner": "ikerperez12",
             "repo": "IP-OS-LINUX",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "desktop",
               "glassmorphism",
@@ -4175,7 +4176,7 @@
             "open_issues": 0,
             "owner": "ParkerrDev",
             "repo": "TempleOS-Web",
-            "stars": 8,
+            "stars": 10,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -4352,7 +4353,7 @@
             "id": 1379807841,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-22T07:15:30Z",
+            "last_commit": "2026-10-26T11:54:15Z",
             "open_issues": 1,
             "owner": "chengmarc",
             "repo": "chengmarc.github.io",
@@ -4547,7 +4548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T17:37:30.394Z",
+    "last_updated": "2026-10-26T19:53:45.561Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4559,7 +4560,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2128,
+      "stars": 2129,
       "topics": [
         "awesome",
         "awesome-list",
