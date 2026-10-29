@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7088,
+            "stars": 7086,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -480,27 +480,6 @@
         },
         {
           "node_type": "item",
-          "title": "My Second PC",
-          "description": "available",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A window system that emulates a desktop environment, written in vanilla JS",
-            "homepage": null,
-            "id": 285363954,
-            "language": "JavaScript",
-            "license": null,
-            "last_commit": "2023-08-27T08:15:32Z",
-            "open_issues": 0,
-            "owner": "koas",
-            "repo": "my-second-pc",
-            "stars": 10,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T23:31:57.630Z"
-        },
-        {
-          "node_type": "item",
           "title": "daedalOS",
           "description": "available",
           "children": [],
@@ -515,7 +494,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13074,
+            "stars": 13079,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -562,7 +541,7 @@
             "open_issues": 21,
             "owner": "edwardpayton",
             "repo": "github95",
-            "stars": 101,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -741,7 +720,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3506,
+            "stars": 3505,
             "topics": [
               "portfolio",
               "react",
@@ -769,7 +748,7 @@
             "open_issues": 47,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2681,
+            "stars": 2682,
             "topics": [
               "macos",
               "svelte"
@@ -887,7 +866,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-10-25T19:46:20Z",
+            "last_commit": "2026-10-29T17:43:17Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -952,7 +931,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9661,
+            "stars": 9662,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1015,8 +994,8 @@
             "id": 232174146,
             "language": "HTML",
             "license": "Unlicense",
-            "last_commit": "2026-10-28T19:29:30Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-29T03:15:45Z",
+            "open_issues": 0,
             "owner": "Keeping-History",
             "repo": "rt911",
             "stars": 14,
@@ -1155,7 +1134,7 @@
             "id": 304706014,
             "language": "TypeScript",
             "license": "Unlicense",
-            "last_commit": "2026-10-28T19:30:08Z",
+            "last_commit": "2026-10-29T19:35:16Z",
             "open_issues": 1,
             "owner": "robbiebyrd",
             "repo": "classicy",
@@ -1456,7 +1435,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2565,
+            "stars": 2567,
             "topics": [
               "portfolio"
             ]
@@ -1767,7 +1746,7 @@
             "id": 757278393,
             "language": "Astro",
             "license": null,
-            "last_commit": "2026-10-26T12:48:09Z",
+            "last_commit": "2026-10-29T14:52:45Z",
             "open_issues": 35,
             "owner": "bamanczak",
             "repo": "bruncio",
@@ -1985,7 +1964,7 @@
             "id": 671272582,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-27T07:53:43Z",
+            "last_commit": "2026-10-28T20:33:54Z",
             "open_issues": 0,
             "owner": "mellyeliu",
             "repo": "mellyeliu.online",
@@ -2035,7 +2014,7 @@
             "open_issues": 3,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6399,
+            "stars": 6398,
             "topics": [
               "archive",
               "collaboration",
@@ -2393,7 +2372,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 528,
+            "stars": 529,
             "topics": [
               "linux",
               "v86",
@@ -2798,10 +2777,10 @@
             "language": "TypeScript",
             "license": "AGPL-3.0",
             "last_commit": "2026-10-28T16:05:48Z",
-            "open_issues": 18,
+            "open_issues": 19,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1280,
+            "stars": 1281,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2848,9 +2827,9 @@
             "description": "Web based app that emulates an operating system environment within a browser. It offers users a unique, interactive experience by replicating OS functionalities, including a persistent client side file system that allows for data storage across sessions without server side dependencies.",
             "homepage": "https://stephos.netlify.app/",
             "id": 920397821,
-            "language": "TypeScript",
+            "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2025-03-18T17:27:44Z",
+            "last_commit": "2026-10-29T03:45:41Z",
             "open_issues": 0,
             "owner": "CryptoStephan",
             "repo": "Stephans-OS",
@@ -2898,8 +2877,8 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T18:46:20Z",
-            "open_issues": 16,
+            "last_commit": "2026-10-29T07:16:14Z",
+            "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
             "stars": 74,
@@ -3051,7 +3030,7 @@
             "open_issues": 0,
             "owner": "xero",
             "repo": "windows98.website",
-            "stars": 11,
+            "stars": 12,
             "topics": [
               "98",
               "art",
@@ -3140,7 +3119,7 @@
             "id": 295999682,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T09:41:07Z",
+            "last_commit": "2026-10-29T04:11:21Z",
             "open_issues": 0,
             "owner": "owdproject",
             "repo": "client",
@@ -3540,7 +3519,7 @@
             "id": 1134912861,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-07-14T05:40:32Z",
+            "last_commit": "2026-10-29T11:25:19Z",
             "open_issues": 0,
             "owner": "ronbodnar",
             "repo": "showcase-os",
@@ -3636,7 +3615,7 @@
             "language": "TypeScript",
             "license": "CC0-1.0",
             "last_commit": "2026-07-26T03:33:06Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "lqs",
             "repo": "retrotick",
             "stars": 307,
@@ -4227,7 +4206,7 @@
             "open_issues": 1,
             "owner": "x-frst",
             "repo": "elyraos",
-            "stars": 16,
+            "stars": 15,
             "topics": [
               "browser-os",
               "internet-os",
@@ -4353,7 +4332,7 @@
             "id": 1379807841,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-28T07:51:54Z",
+            "last_commit": "2026-10-29T13:15:28Z",
             "open_issues": 1,
             "owner": "chengmarc",
             "repo": "chengmarc.github.io",
@@ -4532,7 +4511,7 @@
             "open_issues": 0,
             "owner": "PhreshOS",
             "repo": "system",
-            "stars": 302,
+            "stars": 304,
             "topics": [
               "desktop-environment",
               "phreshos",
@@ -4548,7 +4527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T19:30:48.723Z",
+    "last_updated": "2026-10-29T19:35:28.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4556,11 +4535,11 @@
       "id": 213751251,
       "language": "Ruby",
       "license": "CC0-1.0",
-      "last_commit": "2026-10-24T10:34:27Z",
+      "last_commit": "2026-10-29T12:07:08Z",
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2130,
+      "stars": 2129,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4581,7 +4560,7 @@
         "windows98"
       ]
     },
-    "original_repository_sha": "c1fc668b6a88e72a666e4d0cb3c0919f82ae0a91",
+    "original_repository_sha": "c9fb48d1d7c9bbb879e39118128e7e3875669c02",
     "enhanced_repository": "enhansome/enhansome-web-desktops",
     "enhanced_repository_description": null,
     "title": "Awesome Web Desktops with stars"
