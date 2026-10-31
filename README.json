@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1437,
+            "stars": 1438,
             "topics": [
               "classic",
               "desktop",
@@ -270,7 +270,7 @@
             "open_issues": 19,
             "owner": "Emupedia",
             "repo": "emupedia.github.io",
-            "stars": 1345,
+            "stars": 1346,
             "topics": [
               "desktop",
               "dosbox",
@@ -494,7 +494,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13082,
+            "stars": 13085,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -720,7 +720,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3505,
+            "stars": 3504,
             "topics": [
               "portfolio",
               "react",
@@ -866,11 +866,11 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-10-29T17:43:17Z",
+            "last_commit": "2026-10-31T16:41:54Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
-            "stars": 137,
+            "stars": 138,
             "topics": [
               "coffeescript",
               "dashboard",
@@ -1134,7 +1134,7 @@
             "id": 304706014,
             "language": "TypeScript",
             "license": "Unlicense",
-            "last_commit": "2026-10-30T19:15:57Z",
+            "last_commit": "2026-10-30T21:54:39Z",
             "open_issues": 1,
             "owner": "robbiebyrd",
             "repo": "classicy",
@@ -1276,7 +1276,7 @@
             "open_issues": 1,
             "owner": "malisipi",
             "repo": "ubuntu-tour",
-            "stars": 166,
+            "stars": 165,
             "topics": [
               "canonical",
               "demo",
@@ -1435,7 +1435,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2568,
+            "stars": 2571,
             "topics": [
               "portfolio"
             ]
@@ -2014,7 +2014,7 @@
             "open_issues": 3,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6398,
+            "stars": 6399,
             "topics": [
               "archive",
               "collaboration",
@@ -2052,7 +2052,7 @@
             "open_issues": 0,
             "owner": "Yuteoctober",
             "repo": "wins95Portfolio",
-            "stars": 273,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2780,7 +2780,7 @@
             "open_issues": 20,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1281,
+            "stars": 1279,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2877,7 +2877,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T07:16:14Z",
+            "last_commit": "2026-10-31T13:19:00Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3114,12 +3114,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Build your Web OS ‎ 🗔",
+            "description": "Build your Web OS with Nuxt ‎ 🗔",
             "homepage": "https://owdproject.org",
             "id": 295999682,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T19:00:54Z",
+            "last_commit": "2026-10-31T09:26:17Z",
             "open_issues": 0,
             "owner": "owdproject",
             "repo": "nuxt-desktop",
@@ -3674,7 +3674,7 @@
             "open_issues": 32,
             "owner": "azayrahmad",
             "repo": "win98-web",
-            "stars": 23,
+            "stars": 24,
             "topics": [
               "microsoft-plus",
               "nostalgia",
@@ -3856,7 +3856,7 @@
             "open_issues": 0,
             "owner": "Everest-Os",
             "repo": "everest-os.github.io",
-            "stars": 4,
+            "stars": 5,
             "topics": [
               "browser-os",
               "desktop-environment",
@@ -4004,7 +4004,7 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-30T00:41:17Z",
+            "last_commit": "2026-10-31T02:25:06Z",
             "open_issues": 3,
             "owner": "Reeyuki",
             "repo": "YukiOS",
@@ -4511,7 +4511,7 @@
             "open_issues": 0,
             "owner": "PhreshOS",
             "repo": "system",
-            "stars": 304,
+            "stars": 305,
             "topics": [
               "desktop-environment",
               "phreshos",
@@ -4527,7 +4527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T19:17:52.089Z",
+    "last_updated": "2026-10-31T18:29:29.540Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4539,7 +4539,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2132,
+      "stars": 2134,
       "topics": [
         "awesome",
         "awesome-list",
