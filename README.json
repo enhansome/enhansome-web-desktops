@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1438,
+            "stars": 1437,
             "topics": [
               "classic",
               "desktop",
@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5867,
+            "stars": 5866,
             "topics": [
               "hooks",
               "javascript",
@@ -266,11 +266,11 @@
             "id": 52881539,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T17:37:05Z",
+            "last_commit": "2026-11-01T01:33:44Z",
             "open_issues": 19,
             "owner": "Emupedia",
             "repo": "emupedia.github.io",
-            "stars": 1346,
+            "stars": 1347,
             "topics": [
               "desktop",
               "dosbox",
@@ -494,7 +494,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13085,
+            "stars": 13089,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -866,7 +866,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-10-31T16:41:54Z",
+            "last_commit": "2026-11-01T11:13:21Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -931,7 +931,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9663,
+            "stars": 9664,
             "topics": [
               "css",
               "hacktoberfest",
@@ -995,10 +995,10 @@
             "language": "HTML",
             "license": "Unlicense",
             "last_commit": "2026-10-29T03:15:45Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "Keeping-History",
             "repo": "rt911",
-            "stars": 14,
+            "stars": 15,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -1435,7 +1435,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2571,
+            "stars": 2572,
             "topics": [
               "portfolio"
             ]
@@ -1964,7 +1964,7 @@
             "id": 671272582,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T20:33:54Z",
+            "last_commit": "2026-10-31T21:28:35Z",
             "open_issues": 0,
             "owner": "mellyeliu",
             "repo": "mellyeliu.online",
@@ -2014,7 +2014,7 @@
             "open_issues": 3,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6399,
+            "stars": 6398,
             "topics": [
               "archive",
               "collaboration",
@@ -2140,7 +2140,7 @@
             "id": 394369681,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-04T10:38:34Z",
+            "last_commit": "2026-11-01T14:53:28Z",
             "open_issues": 1,
             "owner": "sleiph",
             "repo": "Portfolio",
@@ -2340,7 +2340,7 @@
             "open_issues": 0,
             "owner": "runnova",
             "repo": "NovaOS",
-            "stars": 44,
+            "stars": 45,
             "topics": [
               "browser-os",
               "client-side",
@@ -2776,11 +2776,11 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T09:14:24Z",
-            "open_issues": 20,
+            "last_commit": "2026-11-01T15:42:33Z",
+            "open_issues": 19,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1279,
+            "stars": 1280,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2877,7 +2877,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T13:19:00Z",
+            "last_commit": "2026-10-31T21:34:17Z",
             "open_issues": 15,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3119,7 +3119,7 @@
             "id": 295999682,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T09:26:17Z",
+            "last_commit": "2026-11-01T16:50:30Z",
             "open_issues": 0,
             "owner": "owdproject",
             "repo": "nuxt-desktop",
@@ -3751,7 +3751,7 @@
             "open_issues": 0,
             "owner": "Cyanoxide",
             "repo": "react-xp",
-            "stars": 77,
+            "stars": 78,
             "topics": [
               "react",
               "typescript",
@@ -4004,7 +4004,7 @@
             "id": 1119593356,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-31T02:25:06Z",
+            "last_commit": "2026-11-01T15:24:19Z",
             "open_issues": 3,
             "owner": "Reeyuki",
             "repo": "YukiOS",
@@ -4288,12 +4288,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "A Macintosh System 6 desktop where AI work stays visible. Local-first, model-agnostic, no framework.",
+            "description": "A local-first writing desk where the AI never becomes your voice. A Macintosh System 6 interface, twelve appearances, and a stateless server.",
             "homepage": "https://system6.aaronlau.me",
             "id": 1285734452,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-10-28T14:21:48Z",
+            "last_commit": "2026-11-01T16:41:58Z",
             "open_issues": 0,
             "owner": "surfine",
             "repo": "AI-System-6",
@@ -4527,7 +4527,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T18:29:29.540Z",
+    "last_updated": "2026-11-01T18:53:25.977Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4539,7 +4539,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2134,
+      "stars": 2137,
       "topics": [
         "awesome",
         "awesome-list",
