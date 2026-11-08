@@ -57,11 +57,11 @@
             "id": 26149893,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-05T02:07:47Z",
+            "last_commit": "2026-11-08T04:35:06Z",
             "open_issues": 188,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11336,
+            "stars": 11338,
             "topics": [
               "html5",
               "javascript",
@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5864,
+            "stars": 5865,
             "topics": [
               "hooks",
               "javascript",
@@ -270,7 +270,7 @@
             "open_issues": 19,
             "owner": "Emupedia",
             "repo": "emupedia.github.io",
-            "stars": 1350,
+            "stars": 1351,
             "topics": [
               "desktop",
               "dosbox",
@@ -494,7 +494,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13097,
+            "stars": 13101,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -866,7 +866,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-11-07T16:46:15Z",
+            "last_commit": "2026-11-08T18:46:43Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -998,7 +998,7 @@
             "open_issues": 1,
             "owner": "Keeping-History",
             "repo": "rt911",
-            "stars": 15,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -1435,7 +1435,7 @@
             "open_issues": 16,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2579,
+            "stars": 2580,
             "topics": [
               "portfolio"
             ]
@@ -1458,7 +1458,7 @@
             "open_issues": 1,
             "owner": "ducbao414",
             "repo": "win32.run",
-            "stars": 540,
+            "stars": 541,
             "topics": [
               "browser-os",
               "svelte",
@@ -2340,7 +2340,7 @@
             "open_issues": 0,
             "owner": "runnova",
             "repo": "NovaOS",
-            "stars": 46,
+            "stars": 47,
             "topics": [
               "browser-os",
               "client-side",
@@ -2372,7 +2372,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 530,
+            "stars": 529,
             "topics": [
               "linux",
               "v86",
@@ -2776,11 +2776,11 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-07T13:50:25Z",
-            "open_issues": 23,
+            "last_commit": "2026-11-08T17:57:30Z",
+            "open_issues": 24,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1287,
+            "stars": 1286,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2877,7 +2877,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-07T17:43:37Z",
+            "last_commit": "2026-11-08T13:38:51Z",
             "open_issues": 16,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3060,7 +3060,7 @@
             "open_issues": 2,
             "owner": "peaBerberian",
             "repo": "peaberberian.github.io",
-            "stars": 3,
+            "stars": 2,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -3674,7 +3674,7 @@
             "open_issues": 32,
             "owner": "azayrahmad",
             "repo": "win98-web",
-            "stars": 24,
+            "stars": 25,
             "topics": [
               "microsoft-plus",
               "nostalgia",
@@ -3751,7 +3751,7 @@
             "open_issues": 0,
             "owner": "Cyanoxide",
             "repo": "react-xp",
-            "stars": 80,
+            "stars": 81,
             "topics": [
               "react",
               "typescript",
@@ -4444,7 +4444,7 @@
             "open_issues": 0,
             "owner": "wieslawsoltes",
             "repo": "WinVista",
-            "stars": 8,
+            "stars": 9,
             "topics": [
               "aero",
               "browser-os",
@@ -4521,13 +4521,34 @@
             ]
           },
           "first_seen": "2026-10-14T18:33:31.203Z"
+        },
+        {
+          "node_type": "item",
+          "title": "VAMPII.OS",
+          "description": "available",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "tis a website of autism and dreams",
+            "homepage": null,
+            "id": 1444070604,
+            "language": "JavaScript",
+            "license": "NOASSERTION",
+            "last_commit": "2026-11-05T03:45:37Z",
+            "open_issues": 0,
+            "owner": "Vampuwu",
+            "repo": "vampii-os",
+            "stars": 0,
+            "topics": []
+          },
+          "first_seen": "2026-11-08T18:48:42.312Z"
         }
       ],
       "title": "Websites"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T18:43:17.868Z",
+    "last_updated": "2026-11-08T18:48:42.312Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4535,11 +4556,11 @@
       "id": 213751251,
       "language": "Ruby",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-05T13:27:35Z",
+      "last_commit": "2026-11-08T17:51:56Z",
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2143,
+      "stars": 2144,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4560,7 +4581,7 @@
         "windows98"
       ]
     },
-    "original_repository_sha": "879c6442c3403a35eda42161bb072b4067e9bc9c",
+    "original_repository_sha": "8b7cd28cf3fcccb8fcaf4955ceb9d5983d214897",
     "enhanced_repository": "enhansome/enhansome-web-desktops",
     "enhanced_repository_description": null,
     "title": "Awesome Web Desktops with stars"
