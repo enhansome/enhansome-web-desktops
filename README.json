@@ -61,7 +61,7 @@
             "open_issues": 188,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11342,
+            "stars": 11345,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7087,
+            "stars": 7088,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1439,
+            "stars": 1440,
             "topics": [
               "classic",
               "desktop",
@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5864,
+            "stars": 5865,
             "topics": [
               "hooks",
               "javascript",
@@ -228,7 +228,7 @@
             "open_issues": 12,
             "owner": "tojrobinson",
             "repo": "jurassicsystems.com",
-            "stars": 425,
+            "stars": 426,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -494,7 +494,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13102,
+            "stars": 13101,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -562,7 +562,7 @@
             "open_issues": 3,
             "owner": "nathansmith",
             "repo": "jQuery-Desktop",
-            "stars": 317,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -720,7 +720,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3503,
+            "stars": 3504,
             "topics": [
               "portfolio",
               "react",
@@ -866,7 +866,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-11-09T22:24:33Z",
+            "last_commit": "2026-11-10T20:08:08Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -931,7 +931,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9664,
+            "stars": 9663,
             "topics": [
               "css",
               "hacktoberfest",
@@ -994,7 +994,7 @@
             "id": 232174146,
             "language": "HTML",
             "license": "Unlicense",
-            "last_commit": "2026-11-09T23:20:19Z",
+            "last_commit": "2026-11-10T00:20:35Z",
             "open_issues": 1,
             "owner": "Keeping-History",
             "repo": "rt911",
@@ -1089,7 +1089,7 @@
             "open_issues": 4,
             "owner": "PiyushSuthar",
             "repo": "Windows-11-Web",
-            "stars": 600,
+            "stars": 601,
             "topics": [
               "hacktoberfest",
               "typescript",
@@ -1134,7 +1134,7 @@
             "id": 304706014,
             "language": "TypeScript",
             "license": "Unlicense",
-            "last_commit": "2026-11-09T23:11:31Z",
+            "last_commit": "2026-11-10T00:18:35Z",
             "open_issues": 1,
             "owner": "robbiebyrd",
             "repo": "classicy",
@@ -1435,7 +1435,7 @@
             "open_issues": 17,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2580,
+            "stars": 2582,
             "topics": [
               "portfolio"
             ]
@@ -1834,7 +1834,7 @@
             "open_issues": 7,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
-            "stars": 359,
+            "stars": 360,
             "topics": [
               "desktop",
               "desktop-environment",
@@ -1990,7 +1990,7 @@
             "language": "HTML",
             "license": "EPL-2.0",
             "last_commit": "2026-07-11T03:32:58Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "tjy-gitnub",
             "repo": "win12",
             "stars": 14,
@@ -2014,7 +2014,7 @@
             "open_issues": 3,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6397,
+            "stars": 6399,
             "topics": [
               "archive",
               "collaboration",
@@ -2340,7 +2340,7 @@
             "open_issues": 0,
             "owner": "runnova",
             "repo": "NovaOS",
-            "stars": 47,
+            "stars": 49,
             "topics": [
               "browser-os",
               "client-side",
@@ -2368,7 +2368,7 @@
             "id": 555552624,
             "language": "JavaScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-04T21:14:57Z",
+            "last_commit": "2026-11-10T05:21:52Z",
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
@@ -2776,11 +2776,11 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-09T21:12:38Z",
-            "open_issues": 24,
+            "last_commit": "2026-11-10T09:37:07Z",
+            "open_issues": 26,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1287,
+            "stars": 1289,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2877,7 +2877,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T05:14:35Z",
+            "last_commit": "2026-11-10T05:58:16Z",
             "open_issues": 16,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -2935,7 +2935,7 @@
             "id": 860968611,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-09T23:16:40Z",
+            "last_commit": "2026-11-10T18:45:00Z",
             "open_issues": 0,
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
@@ -3449,7 +3449,7 @@
             "open_issues": 13,
             "owner": "mental-os",
             "repo": "Aurora-OS.js",
-            "stars": 753,
+            "stars": 755,
             "topics": [
               "browser-game",
               "contributions-welcome",
@@ -3519,7 +3519,7 @@
             "id": 1134912861,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-29T11:25:19Z",
+            "last_commit": "2026-11-10T10:55:33Z",
             "open_issues": 0,
             "owner": "ronbodnar",
             "repo": "showcase-os",
@@ -3618,7 +3618,7 @@
             "open_issues": 10,
             "owner": "lqs",
             "repo": "retrotick",
-            "stars": 308,
+            "stars": 309,
             "topics": [
               "emulator",
               "win16",
@@ -4008,7 +4008,7 @@
             "open_issues": 3,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 71,
+            "stars": 74,
             "topics": [
               "browser-os",
               "client-only",
@@ -4077,7 +4077,7 @@
             "id": 1020548229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-25T13:41:43Z",
+            "last_commit": "2026-11-10T11:29:44Z",
             "open_issues": 1,
             "owner": "HyggshiOSDeveloper",
             "repo": "hyggshi-os-website",
@@ -4293,7 +4293,7 @@
             "id": 1285734452,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-09T08:30:52Z",
+            "last_commit": "2026-11-10T09:14:02Z",
             "open_issues": 0,
             "owner": "surfine",
             "repo": "AI-System-6",
@@ -4511,7 +4511,7 @@
             "open_issues": 0,
             "owner": "PhreshOS",
             "repo": "system",
-            "stars": 308,
+            "stars": 309,
             "topics": [
               "desktop-environment",
               "phreshos",
@@ -4548,7 +4548,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T23:24:57.914Z",
+    "last_updated": "2026-11-10T20:47:08.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4556,11 +4556,11 @@
       "id": 213751251,
       "language": "Ruby",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-08T17:51:56Z",
+      "last_commit": "2026-11-10T09:50:48Z",
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2144,
+      "stars": 2145,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4581,7 +4581,7 @@
         "windows98"
       ]
     },
-    "original_repository_sha": "8b7cd28cf3fcccb8fcaf4955ceb9d5983d214897",
+    "original_repository_sha": "b93e970c19746e06b0498a9351be6ee89d0df551",
     "enhanced_repository": "enhansome/enhansome-web-desktops",
     "enhanced_repository_description": null,
     "title": "Awesome Web Desktops with stars"
