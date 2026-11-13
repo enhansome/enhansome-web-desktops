@@ -61,7 +61,7 @@
             "open_issues": 188,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11342,
+            "stars": 11344,
             "topics": [
               "html5",
               "javascript",
@@ -110,7 +110,7 @@
             "open_issues": 20,
             "owner": "os-js",
             "repo": "OS.js",
-            "stars": 7087,
+            "stars": 7088,
             "topics": [
               "cloud-platform",
               "desktop",
@@ -137,7 +137,7 @@
             "open_issues": 61,
             "owner": "1j01",
             "repo": "98",
-            "stars": 1441,
+            "stars": 1443,
             "topics": [
               "classic",
               "desktop",
@@ -249,7 +249,7 @@
             "open_issues": 0,
             "owner": "lolstring",
             "repo": "window98-html-css-js",
-            "stars": 151,
+            "stars": 152,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -494,7 +494,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13103,
+            "stars": 13102,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -604,7 +604,7 @@
             "open_issues": 0,
             "owner": "vivek9patel",
             "repo": "vivek9patel.github.io",
-            "stars": 4324,
+            "stars": 4325,
             "topics": [
               "nextjs",
               "personal-portfolio",
@@ -866,7 +866,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-11-12T21:20:25Z",
+            "last_commit": "2026-11-13T17:53:20Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -931,7 +931,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9663,
+            "stars": 9662,
             "topics": [
               "css",
               "hacktoberfest",
@@ -963,7 +963,7 @@
             "open_issues": 2,
             "owner": "DonChiaQE",
             "repo": "win95",
-            "stars": 279,
+            "stars": 278,
             "topics": [
               "bable",
               "css",
@@ -1134,7 +1134,7 @@
             "id": 304706014,
             "language": "TypeScript",
             "license": "Unlicense",
-            "last_commit": "2026-11-12T19:03:43Z",
+            "last_commit": "2026-11-13T19:07:47Z",
             "open_issues": 2,
             "owner": "robbiebyrd",
             "repo": "classicy",
@@ -1222,8 +1222,8 @@
             "id": 200924138,
             "language": "HTML",
             "license": null,
-            "last_commit": "2026-11-11T11:41:59Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-13T17:37:55Z",
+            "open_issues": 3,
             "owner": "ZeusOfTheCrows",
             "repo": "zeusofthecrows.github.io",
             "stars": 6,
@@ -1964,7 +1964,7 @@
             "id": 671272582,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T06:10:18Z",
+            "last_commit": "2026-11-13T18:56:22Z",
             "open_issues": 0,
             "owner": "mellyeliu",
             "repo": "mellyeliu.online",
@@ -2302,7 +2302,7 @@
             "open_issues": 52,
             "owner": "Maingron",
             "repo": "MainOS",
-            "stars": 15,
+            "stars": 16,
             "topics": [
               "browser-os",
               "chromeos",
@@ -2372,7 +2372,7 @@
             "open_issues": 13,
             "owner": "MercuryWorkshop",
             "repo": "anuraOS",
-            "stars": 528,
+            "stars": 531,
             "topics": [
               "linux",
               "v86",
@@ -2472,8 +2472,8 @@
             "id": 29561660,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-04T13:15:31Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-12T22:52:35Z",
+            "open_issues": 4,
             "owner": "WesSouza",
             "repo": "wes.dev",
             "stars": 26,
@@ -2877,7 +2877,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-12T16:13:46Z",
+            "last_commit": "2026-11-13T09:17:19Z",
             "open_issues": 16,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -2951,7 +2951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "macOS inspired desktop environment",
+            "description": "Web-based macOS inspired recreation in Svelte",
             "homepage": "https://desktop.kennyhui.dev/",
             "id": 968108008,
             "language": "Svelte",
@@ -3202,11 +3202,11 @@
             "id": 972336097,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-06T13:40:42Z",
+            "last_commit": "2026-11-13T03:07:57Z",
             "open_issues": 0,
             "owner": "TerbiumOS",
             "repo": "web-v2",
-            "stars": 66,
+            "stars": 67,
             "topics": [
               "webos"
             ]
@@ -4008,7 +4008,7 @@
             "open_issues": 4,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 73,
+            "stars": 74,
             "topics": [
               "browser-os",
               "client-only",
@@ -4151,11 +4151,11 @@
             "id": 1255503816,
             "language": "HolyC",
             "license": null,
-            "last_commit": "2026-11-12T21:24:46Z",
+            "last_commit": "2026-11-13T03:42:18Z",
             "open_issues": 1,
             "owner": "ParkerrDev",
             "repo": "TempleOS-Web",
-            "stars": 13,
+            "stars": 14,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -4478,7 +4478,7 @@
             "open_issues": 0,
             "owner": "wieslawsoltes",
             "repo": "Win31",
-            "stars": 12,
+            "stars": 13,
             "topics": [
               "browser-os",
               "desktop-environment",
@@ -4542,34 +4542,13 @@
             "topics": []
           },
           "first_seen": "2026-11-08T18:48:42.312Z"
-        },
-        {
-          "node_type": "item",
-          "title": "SpaceOS",
-          "description": "available",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "tis a website of autism and dreams",
-            "homepage": null,
-            "id": 1444070604,
-            "language": "JavaScript",
-            "license": "NOASSERTION",
-            "last_commit": "2026-11-09T12:39:29Z",
-            "open_issues": 0,
-            "owner": "Vampuwu",
-            "repo": "vampii-os",
-            "stars": 0,
-            "topics": []
-          },
-          "first_seen": "2026-11-08T18:48:42.312Z"
         }
       ],
       "title": "Websites"
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T21:27:06.332Z",
+    "last_updated": "2026-11-13T20:52:58.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4577,11 +4556,11 @@
       "id": 213751251,
       "language": "Ruby",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-12T12:03:36Z",
+      "last_commit": "2026-11-12T22:15:07Z",
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2151,
+      "stars": 2152,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4602,7 +4581,7 @@
         "windows98"
       ]
     },
-    "original_repository_sha": "a9bc673b6deccd4d993c21cdd459cce0c1458daf",
+    "original_repository_sha": "2500728b65fe02c2f2c9bd2a0205d5f599493dc8",
     "enhanced_repository": "enhansome/enhansome-web-desktops",
     "enhanced_repository_description": null,
     "title": "Awesome Web Desktops with stars"
