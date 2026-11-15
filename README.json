@@ -61,7 +61,7 @@
             "open_issues": 189,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11345,
+            "stars": 11348,
             "topics": [
               "html5",
               "javascript",
@@ -494,7 +494,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13100,
+            "stars": 13098,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -772,7 +772,7 @@
             "open_issues": 5,
             "owner": "GoodManWEN",
             "repo": "GoodManWEN.github.io",
-            "stars": 1049,
+            "stars": 1048,
             "topics": [
               "blog",
               "deepin",
@@ -866,7 +866,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-11-14T10:16:30Z",
+            "last_commit": "2026-11-15T17:48:35Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -931,7 +931,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9662,
+            "stars": 9661,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1435,7 +1435,7 @@
             "open_issues": 17,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2583,
+            "stars": 2584,
             "topics": [
               "portfolio"
             ]
@@ -1834,7 +1834,7 @@
             "open_issues": 7,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
-            "stars": 360,
+            "stars": 359,
             "topics": [
               "desktop",
               "desktop-environment",
@@ -2780,7 +2780,7 @@
             "open_issues": 26,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1291,
+            "stars": 1293,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2877,7 +2877,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-14T08:30:51Z",
+            "last_commit": "2026-11-15T02:34:41Z",
             "open_issues": 16,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -2935,7 +2935,7 @@
             "id": 860968611,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-13T21:57:18Z",
+            "last_commit": "2026-11-15T19:22:56Z",
             "open_issues": 0,
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
@@ -4077,7 +4077,7 @@
             "id": 1020548229,
             "language": "JavaScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T13:49:15Z",
+            "last_commit": "2026-11-15T04:41:49Z",
             "open_issues": 1,
             "owner": "HyggshiOSDeveloper",
             "repo": "hyggshi-os-website",
@@ -4146,17 +4146,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "TempleOS running in the browser",
-            "homepage": null,
+            "description": "TempleOS online in your browser: powered by Holy Emulator (HEMU), an x86-64 emulator built in HolyC and WebAssembly.",
+            "homepage": "https://templeosweb.netlify.app/",
             "id": 1255503816,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-14T18:54:50Z",
+            "last_commit": "2026-11-15T08:06:50Z",
             "open_issues": 0,
             "owner": "ParkerrDev",
             "repo": "TempleOS-Web",
             "stars": 14,
-            "topics": []
+            "topics": [
+              "browser",
+              "browser-games",
+              "emulator",
+              "hemu",
+              "holy-emulator",
+              "holyc",
+              "holycraft",
+              "operating-system",
+              "temple-os",
+              "templeos",
+              "terry-a-davis",
+              "terry-davis",
+              "toom",
+              "wasm",
+              "webassembly",
+              "x86-64"
+            ]
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
         },
@@ -4444,7 +4461,7 @@
             "open_issues": 0,
             "owner": "wieslawsoltes",
             "repo": "WinVista",
-            "stars": 9,
+            "stars": 10,
             "topics": [
               "aero",
               "browser-os",
@@ -4478,7 +4495,7 @@
             "open_issues": 0,
             "owner": "wieslawsoltes",
             "repo": "Win31",
-            "stars": 13,
+            "stars": 14,
             "topics": [
               "browser-os",
               "desktop-environment",
@@ -4511,7 +4528,7 @@
             "open_issues": 0,
             "owner": "PhreshOS",
             "repo": "system",
-            "stars": 311,
+            "stars": 315,
             "topics": [
               "desktop-environment",
               "phreshos",
@@ -4548,7 +4565,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T19:06:42.661Z",
+    "last_updated": "2026-11-15T19:44:53.176Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
