@@ -61,7 +61,7 @@
             "open_issues": 190,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11356,
+            "stars": 11357,
             "topics": [
               "html5",
               "javascript",
@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5868,
+            "stars": 5870,
             "topics": [
               "hooks",
               "javascript",
@@ -720,7 +720,7 @@
             "open_issues": 9,
             "owner": "Renovamen",
             "repo": "playground-macos",
-            "stars": 3506,
+            "stars": 3505,
             "topics": [
               "portfolio",
               "react",
@@ -748,7 +748,7 @@
             "open_issues": 47,
             "owner": "PuruVJ",
             "repo": "macos-web",
-            "stars": 2686,
+            "stars": 2685,
             "topics": [
               "macos",
               "svelte"
@@ -772,7 +772,7 @@
             "open_issues": 5,
             "owner": "GoodManWEN",
             "repo": "GoodManWEN.github.io",
-            "stars": 1048,
+            "stars": 1047,
             "topics": [
               "blog",
               "deepin",
@@ -866,7 +866,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-11-19T20:23:01Z",
+            "last_commit": "2026-11-20T21:03:22Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -931,7 +931,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9663,
+            "stars": 9662,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1089,7 +1089,7 @@
             "open_issues": 4,
             "owner": "PiyushSuthar",
             "repo": "Windows-11-Web",
-            "stars": 601,
+            "stars": 600,
             "topics": [
               "hacktoberfest",
               "typescript",
@@ -1249,7 +1249,7 @@
             "open_issues": 5,
             "owner": "yashash-pugalia",
             "repo": "win11-svelte",
-            "stars": 1438,
+            "stars": 1437,
             "topics": [
               "css",
               "hacktoberfest",
@@ -1813,7 +1813,7 @@
             "open_issues": 0,
             "owner": "0xJ0EY",
             "repo": "Portfolio-next",
-            "stars": 55,
+            "stars": 56,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -1830,7 +1830,7 @@
             "id": 666135770,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T17:11:09Z",
+            "last_commit": "2026-11-20T15:52:26Z",
             "open_issues": 7,
             "owner": "prozilla-os",
             "repo": "ProzillaOS",
@@ -2776,11 +2776,11 @@
             "id": 923332984,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-19T15:21:27Z",
-            "open_issues": 27,
+            "last_commit": "2026-11-20T03:32:47Z",
+            "open_issues": 26,
             "owner": "ryokun6",
             "repo": "ryos",
-            "stars": 1294,
+            "stars": 1295,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2877,7 +2877,7 @@
             "id": 257383760,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-11-19T07:09:27Z",
+            "last_commit": "2026-11-20T18:46:11Z",
             "open_issues": 16,
             "owner": "ThornWalli",
             "repo": "web-workbench",
@@ -3329,7 +3329,7 @@
             "id": 838188931,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-19T09:52:59Z",
+            "last_commit": "2026-11-20T07:34:26Z",
             "open_issues": 0,
             "owner": "Codfisher",
             "repo": "cod-aquarium",
@@ -3592,7 +3592,7 @@
             "open_issues": 10,
             "owner": "lqs",
             "repo": "retrotick",
-            "stars": 311,
+            "stars": 310,
             "topics": [
               "emulator",
               "win16",
@@ -4125,11 +4125,11 @@
             "id": 1255503816,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-16T02:58:13Z",
+            "last_commit": "2026-11-20T21:29:01Z",
             "open_issues": 0,
             "owner": "ParkerrDev",
             "repo": "TempleOS-Web",
-            "stars": 14,
+            "stars": 15,
             "topics": [
               "browser",
               "browser-games",
@@ -4323,7 +4323,7 @@
             "id": 1379807841,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-29T13:15:28Z",
+            "last_commit": "2026-11-20T12:39:11Z",
             "open_issues": 1,
             "owner": "chengmarc",
             "repo": "chengmarc.github.io",
@@ -4395,7 +4395,7 @@
             "language": "TypeScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-04T12:22:34Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "wieslawsoltes",
             "repo": "MacOS9",
             "stars": 10,
@@ -4432,7 +4432,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-10-04T16:56:31Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "wieslawsoltes",
             "repo": "WinVista",
             "stars": 10,
@@ -4539,7 +4539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T22:07:20.578Z",
+    "last_updated": "2026-11-20T21:47:11.648Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4547,11 +4547,11 @@
       "id": 213751251,
       "language": "Ruby",
       "license": "CC0-1.0",
-      "last_commit": "2026-11-19T17:16:35Z",
+      "last_commit": "2026-11-20T15:37:00Z",
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2154,
+      "stars": 2155,
       "topics": [
         "awesome",
         "awesome-list",
@@ -4572,7 +4572,7 @@
         "windows98"
       ]
     },
-    "original_repository_sha": "fc71e4a0f77a67401ef822d736314983dc1367a4",
+    "original_repository_sha": "8d42f4f9fc5b9b131a5a8bce3e4fb3fa802dcaf2",
     "enhanced_repository": "enhansome/enhansome-web-desktops",
     "enhanced_repository_description": null,
     "title": "Awesome Web Desktops with stars"
