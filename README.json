@@ -61,7 +61,7 @@
             "open_issues": 190,
             "owner": "captbaritone",
             "repo": "webamp",
-            "stars": 11359,
+            "stars": 11360,
             "topics": [
               "html5",
               "javascript",
@@ -200,7 +200,7 @@
             "open_issues": 35,
             "owner": "ShizukuIchi",
             "repo": "winXP",
-            "stars": 5870,
+            "stars": 5869,
             "topics": [
               "hooks",
               "javascript",
@@ -494,7 +494,7 @@
             "open_issues": 0,
             "owner": "DustinBrett",
             "repo": "daedalOS",
-            "stars": 13103,
+            "stars": 13105,
             "topics": [
               "desktop-environment",
               "javascript",
@@ -866,7 +866,7 @@
             "id": 6253664,
             "language": "CoffeeScript",
             "license": null,
-            "last_commit": "2026-11-21T19:16:14Z",
+            "last_commit": "2026-11-22T20:39:36Z",
             "open_issues": 8,
             "owner": "davidedc",
             "repo": "Fizzygum",
@@ -931,7 +931,7 @@
             "open_issues": 15,
             "owner": "blueedgetechno",
             "repo": "win11React",
-            "stars": 9662,
+            "stars": 9661,
             "topics": [
               "css",
               "hacktoberfest",
@@ -994,7 +994,7 @@
             "id": 232174146,
             "language": "HTML",
             "license": "Unlicense",
-            "last_commit": "2026-11-18T15:21:35Z",
+            "last_commit": "2026-11-22T03:24:35Z",
             "open_issues": 3,
             "owner": "Keeping-History",
             "repo": "rt911",
@@ -1406,7 +1406,7 @@
             "open_issues": 0,
             "owner": "g0d",
             "repo": "GreyOS",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "cloud",
               "html5",
@@ -1435,7 +1435,7 @@
             "open_issues": 17,
             "owner": "henryjeff",
             "repo": "portfolio-website",
-            "stars": 2590,
+            "stars": 2591,
             "topics": [
               "portfolio"
             ]
@@ -2014,7 +2014,7 @@
             "open_issues": 3,
             "owner": "kalcaddle",
             "repo": "KodExplorer",
-            "stars": 6398,
+            "stars": 6399,
             "topics": [
               "archive",
               "collaboration",
@@ -2052,7 +2052,7 @@
             "open_issues": 0,
             "owner": "Yuteoctober",
             "repo": "wins95Portfolio",
-            "stars": 273,
+            "stars": 272,
             "topics": []
           },
           "first_seen": "2026-08-28T23:31:57.630Z"
@@ -2935,7 +2935,7 @@
             "id": 860968611,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-21T19:47:47Z",
+            "last_commit": "2026-11-21T21:50:50Z",
             "open_issues": 0,
             "owner": "linuxontheweb",
             "repo": "linuxontheweb.github.io",
@@ -3329,7 +3329,7 @@
             "id": 838188931,
             "language": "TypeScript",
             "license": null,
-            "last_commit": "2026-11-21T14:41:27Z",
+            "last_commit": "2026-11-22T08:49:28Z",
             "open_issues": 0,
             "owner": "Codfisher",
             "repo": "cod-aquarium",
@@ -3423,7 +3423,7 @@
             "open_issues": 13,
             "owner": "mental-os",
             "repo": "Aurora-OS.js",
-            "stars": 757,
+            "stars": 758,
             "topics": [
               "browser-game",
               "contributions-welcome",
@@ -3563,7 +3563,7 @@
             "open_issues": 4,
             "owner": "Victxrlarixs",
             "repo": "debian-time-capsule",
-            "stars": 132,
+            "stars": 131,
             "topics": [
               "cde",
               "debian",
@@ -3982,7 +3982,7 @@
             "open_issues": 4,
             "owner": "Reeyuki",
             "repo": "YukiOS",
-            "stars": 82,
+            "stars": 83,
             "topics": [
               "browser-os",
               "client-only",
@@ -4125,7 +4125,7 @@
             "id": 1255503816,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-11-21T05:00:19Z",
+            "last_commit": "2026-11-22T08:16:44Z",
             "open_issues": 0,
             "owner": "ParkerrDev",
             "repo": "TempleOS-Web",
@@ -4318,12 +4318,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Bookmark OS: Your bookmarks as a desktop. Available on Chrome Web Store, Firefox Add-ons, and Edge Add-ons.",
+            "description": "Home Page OS: the only home page you need. Your bookmarks, synced from your browser, laid out as a desktop. Available on Chrome Web Store, Firefox Add-ons, and Edge Add-ons.",
             "homepage": "https://chengmarc.com",
             "id": 1379807841,
             "language": "JavaScript",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-20T12:39:11Z",
+            "last_commit": "2026-11-21T22:37:06Z",
             "open_issues": 1,
             "owner": "chengmarc",
             "repo": "chengmarc.github.io",
@@ -4331,6 +4331,7 @@
             "topics": [
               "bookmark-manager",
               "bookmarks",
+              "browser-extension",
               "dashboard",
               "github-pages",
               "glassmorphism",
@@ -4502,7 +4503,7 @@
             "open_issues": 0,
             "owner": "PhreshOS",
             "repo": "system",
-            "stars": 319,
+            "stars": 321,
             "topics": [
               "desktop-environment",
               "phreshos",
@@ -4539,7 +4540,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T20:29:38.307Z",
+    "last_updated": "2026-11-22T20:42:19.596Z",
     "original_repository_info": {
       "archived": false,
       "description": "Websites, web apps, portfolios that look like desktop operating systems",
@@ -4551,7 +4552,7 @@
       "open_issues": 0,
       "owner": "syxanash",
       "repo": "awesome-web-desktops",
-      "stars": 2156,
+      "stars": 2157,
       "topics": [
         "awesome",
         "awesome-list",
